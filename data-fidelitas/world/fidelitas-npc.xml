@@ -6,4 +6,16 @@
 	<npc centerx="759" centery="517" centerz="7" radius="1">
 		<npc name="Isaias" x="0" y="0" z="7" spawntime="60" />
 	</npc>
+	<npc centerx="615" centery="872" centerz="8" radius="1">
+		<npc name="Oberon'S Bile" x="0" y="0" z="8" spawntime="60" />
+	</npc>
+	<npc centerx="621" centery="872" centerz="8" radius="1">
+		<npc name="Oberon'S Hate" x="0" y="0" z="8" spawntime="60" />
+	</npc>
+	<npc centerx="615" centery="876" centerz="8" radius="1">
+		<npc name="Oberon'S Spite" x="0" y="0" z="8" spawntime="60" />
+	</npc>
+	<npc centerx="621" centery="876" centerz="8" radius="1">
+		<npc name="Oberon'S Ire" x="0" y="0" z="8" spawntime="60" />
+	</npc>
 </npcs>
