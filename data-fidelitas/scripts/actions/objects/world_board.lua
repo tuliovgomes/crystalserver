@@ -7,7 +7,7 @@ local communicates = {
 local scriptConfig = {
 	itemId = 19236,
 	registerPositions = {
-		{ x = 350, y = 642, z = 6 },
+		{ x = 767, y = 733, z = 7 },
 	},
 }
 
