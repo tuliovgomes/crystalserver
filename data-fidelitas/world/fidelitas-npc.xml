@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<npcs>
+	<npc centerx="759" centery="515" centerz="6" radius="1">
+		<npc name="banker" x="0" y="1" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="759" centery="517" centerz="7" radius="1">
+		<npc name="Isaias" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+</npcs>
