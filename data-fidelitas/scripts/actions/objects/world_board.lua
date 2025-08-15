@@ -1,13 +1,11 @@
 local communicates = {
-	"Welcome to Crystal Server! Visit the organization to see all our work: https://crystalsever.vercel.app",
-	"Did you like it? Help support what we do here with a donation by visiting the link: https://crystalsever.vercel.app/donate",
-	"Visit our discord to ask questions or report issues: https://discord.gg/7AYJEHTghQ",
+	"Welcome to Fidelitas!",
 }
 
 local scriptConfig = {
 	itemId = 19236,
 	registerPositions = {
-		{ x = 767, y = 733, z = 7 },
+		{x = 771, y = 731, z = 7},
 	},
 }
 
