@@ -1,10 +1,30 @@
 <?xml version="1.0"?>
 <npcs>
+	<npc centerx="743" centery="649" centerz="5" radius="10">
+		<npc name="Imbuement Assistant" x="0" y="-8" z="5" spawntime="60" />
+		<npc name="Haroun" x="-8" y="-2" z="5" spawntime="60" />
+		<npc name="Yaman" x="8" y="-1" z="5" spawntime="60" />
+	</npc>
 	<npc centerx="759" centery="515" centerz="6" radius="1">
 		<npc name="banker" x="0" y="1" z="6" spawntime="60" />
 	</npc>
+	<npc centerx="744" centery="654" centerz="6" radius="15">
+		<npc name="Rashid of Island" x="7" y="-7" z="6" spawntime="60" />
+		<npc name="Alesar" x="-9" y="-2" z="6" spawntime="60" />
+		<npc name="Yasir" x="7" y="-1" z="6" spawntime="60" />
+		<npc name="Nah'Bob" x="-8" y="4" z="6" spawntime="60" />
+		<npc name="Esrik" x="6" y="5" z="6" spawntime="60" />
+	</npc>
 	<npc centerx="759" centery="517" centerz="7" radius="1">
 		<npc name="Isaias" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="743" centery="654" centerz="7" radius="10">
+		<npc name="Hanna" x="-8" y="-7" z="7" spawntime="60" />
+		<npc name="Archery" x="7" y="4" z="7" spawntime="60" />
+		<npc name="Lailene" x="-7" y="5" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="589" centery="471" centerz="8" radius="1">
+		<npc name="Ortelio" x="1" y="0" z="8" spawntime="60" />
 	</npc>
 	<npc centerx="615" centery="872" centerz="8" radius="1">
 		<npc name="Oberon'S Bile" x="0" y="0" z="8" spawntime="60" />
