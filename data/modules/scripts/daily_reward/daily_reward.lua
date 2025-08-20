@@ -66,7 +66,7 @@ local DAILY_REWARD_STATUS_FREE = 0
 local DAILY_REWARD_STATUS_PREMIUM = 1
 
 local DailyRewardItems = {
-	[0] = { 266, 268 }, -- God/no vocation character
+	[0] = { 28555, 28556, 28557, 28552, 50293, 44065 }, -- God/no vocation character
 	[VOCATION.BASE_ID.PALADIN] = {28555},
 	[VOCATION.BASE_ID.DRUID] = { 28556 },
 	[VOCATION.BASE_ID.SORCERER] = { 28557 },
