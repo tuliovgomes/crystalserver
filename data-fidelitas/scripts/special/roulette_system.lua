@@ -168,7 +168,7 @@ local function rouletteAction(player)
                         
                         -- Limpar apenas o último item após 1 segundos
                         addEvent(function()
-                            clearLastPosition()
+                            clearItems()
                         end, 1000)
                     end
                 end
