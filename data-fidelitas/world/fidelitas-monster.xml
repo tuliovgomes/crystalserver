@@ -11956,6 +11956,18 @@
 	<monster centerx="1266" centery="704" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="1372" centery="704" centerz="7" radius="4">
+		<monster name="Grim Reaper" x="-3" y="-4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="4" y="-4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="4" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="4" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="4" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="575" centery="705" centerz="7" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -12081,6 +12093,14 @@
 	<monster centerx="910" centery="717" centerz="7" radius="1">
 		<monster name="Dromedary" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="1344" centery="717" centerz="7" radius="4">
+		<monster name="Grim Reaper" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="2" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="440" centery="718" centerz="7" radius="1">
 		<monster name="Mirror Image" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="0" y="-1" z="7" spawntime="60" />
@@ -12132,6 +12152,17 @@
 		<monster name="Giant Spider" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Giant Spider" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1402" centery="721" centerz="7" radius="4">
+		<monster name="Grim Reaper" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="0" z="7" spawntime="1960702208" />
+		<monster name="Grim Reaper" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="4" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="463" centery="722" centerz="7" radius="1">
 		<monster name="Mirror Image" x="0" y="-1" z="7" spawntime="60" />
@@ -12263,6 +12294,27 @@
 	</monster>
 	<monster centerx="1222" centery="727" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1412" centery="727" centerz="7" radius="7">
+		<monster name="Grim Reaper" x="3" y="-4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="7" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1424" centery="727" centerz="7" radius="4">
+		<monster name="Grim Reaper" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="3" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="509" centery="728" centerz="7" radius="1">
 		<monster name="Mirror Image" x="-1" y="-1" z="7" spawntime="60" />
@@ -12403,6 +12455,15 @@
 	</monster>
 	<monster centerx="1281" centery="734" centerz="7" radius="1">
 		<monster name="Lizard Sentinel" x="0" y="0" z="7" spawntime="90" />
+	</monster>
+	<monster centerx="1324" centery="734" centerz="7" radius="4">
+		<monster name="Grim Reaper" x="2" y="-4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="2" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="328" centery="735" centerz="7" radius="1">
 		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
@@ -12581,6 +12642,14 @@
 		<monster name="Giant Spider" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="1338" centery="743" centerz="7" radius="4">
+		<monster name="Grim Reaper" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="2" y="2" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="740" centery="744" centerz="7" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -12636,6 +12705,13 @@
 	<monster centerx="840" centery="746" centerz="7" radius="1">
 		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="1372" centery="746" centerz="7" radius="4">
+		<monster name="Grim Reaper" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="4" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="2" y="3" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="616" centery="747" centerz="7" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -12659,6 +12735,18 @@
 	</monster>
 	<monster centerx="1263" centery="748" centerz="7" radius="1">
 		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1412" centery="748" centerz="7" radius="7">
+		<monster name="Grim Reaper" x="1" y="-6" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="-4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="5" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-4" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="5" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="5" y="1" z="7" spawntime="1960702208" />
+		<monster name="Grim Reaper" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="2" y="4" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="384" centery="749" centerz="7" radius="1" />
 	<monster centerx="1111" centery="749" centerz="7" radius="3">
@@ -13121,6 +13209,16 @@
 	<monster centerx="1267" centery="776" centerz="7" radius="1">
 		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="1408" centery="776" centerz="7" radius="7">
+		<monster name="Grim Reaper" x="2" y="-5" z="7" spawntime="1960702208" />
+		<monster name="Grim Reaper" x="3" y="-5" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="-4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="4" y="-4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="3" y="-2" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="355" centery="777" centerz="7" radius="1">
 		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -13172,6 +13270,16 @@
 		<monster name="Draken Spellweaver" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="90" />
 	</monster>
+	<monster centerx="1348" centery="780" centerz="7" radius="7">
+		<monster name="Grim Reaper" x="1" y="-7" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="-6" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="5" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-4" y="3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="6" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="908" centery="781" centerz="7" radius="1">
 		<monster name="Emelianenko" x="0" y="-1" z="7" spawntime="60" />
 	</monster>
@@ -13204,6 +13312,14 @@
 	</monster>
 	<monster centerx="1306" centery="784" centerz="7" radius="1">
 		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="90" />
+	</monster>
+	<monster centerx="1383" centery="784" centerz="7" radius="7">
+		<monster name="Grim Reaper" x="6" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-4" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="6" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="397" centery="785" centerz="7" radius="1">
 		<monster name="Darklight Striker" x="0" y="0" z="7" spawntime="60" />
@@ -13411,6 +13527,14 @@
 		<monster name="Falcon Paladin" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Falcon Paladin" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="1382" centery="811" centerz="7" radius="7">
+		<monster name="Grim Reaper" x="1" y="-6" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-4" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-3" y="3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-4" y="4" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="894" centery="813" centerz="7" radius="1">
 		<monster name="Dromedary" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -13428,6 +13552,16 @@
 	</monster>
 	<monster centerx="884" centery="823" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1382" centery="825" centerz="7" radius="7">
+		<monster name="Grim Reaper" x="-2" y="-6" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="3" y="-5" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="5" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="558" centery="826" centerz="7" radius="4">
 		<monster name="Falcon Paladin" x="2" y="-2" z="7" spawntime="60" />
@@ -13458,6 +13592,22 @@
 	</monster>
 	<monster centerx="545" centery="841" centerz="7" radius="1">
 		<monster name="Falcon Knight" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1365" centery="841" centerz="7" radius="7">
+		<monster name="Grim Reaper" x="-4" y="-4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="4" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1400" centery="842" centerz="7" radius="7">
+		<monster name="Grim Reaper" x="2" y="-4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="3" y="1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="635" centery="844" centerz="7" radius="30">
 		<monster name="Cyclops" x="-21" y="-26" z="7" spawntime="60" />
@@ -13535,6 +13685,17 @@
 	</monster>
 	<monster centerx="886" centery="852" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1382" centery="858" centerz="7" radius="7">
+		<monster name="Grim Reaper" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="5" y="-3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="4" y="-1" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="3" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="4" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="5" z="7" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="6" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="867" centery="865" centerz="7" radius="1">
 		<monster name="Brittle Skeleton" x="0" y="0" z="7" spawntime="60" />
