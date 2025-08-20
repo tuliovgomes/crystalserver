@@ -31,5 +31,5 @@ function animatedText.onThink(interval)
    return true
 end
 
-animatedText:interval(4550)
+animatedText:interval(3550)
 animatedText:register()

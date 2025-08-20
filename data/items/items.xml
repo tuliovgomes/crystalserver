@@ -53331,37 +53331,37 @@ hands of its owner. Granted by TibiaRoyal.com" />
 	<item id="28552" article="an" name="exercise sword">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="500" />
+		<attribute key="charges" value="1500" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="28553" article="an" name="exercise axe">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="500" />
+		<attribute key="charges" value="1500" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="28554" article="an" name="exercise club">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="500" />
+		<attribute key="charges" value="1500" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="28555" article="an" name="exercise bow">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="500" />
+		<attribute key="charges" value="1500" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="28556" article="an" name="exercise rod">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="500" />
+		<attribute key="charges" value="1500" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="28557" article="an" name="exercise wand">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="500" />
+		<attribute key="charges" value="1500" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="28558" article="an" name="exercise dummy">
@@ -65730,73 +65730,73 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com" />
 	<item id="35279" article="an" name="durable exercise sword">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="1800" />
+		<attribute key="charges" value="10000" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35280" article="an" name="durable exercise axe">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="1800" />
+		<attribute key="charges" value="10000" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35281" article="an" name="durable exercise club">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="1800" />
+		<attribute key="charges" value="10000" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35282" article="an" name="durable exercise bow">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="1800" />
+		<attribute key="charges" value="10000" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35283" article="an" name="durable exercise rod">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="1800" />
+		<attribute key="charges" value="10000" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35284" article="an" name="durable exercise wand">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="1800" />
+		<attribute key="charges" value="10000" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35285" article="an" name="lasting exercise sword">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="14400" />
+		<attribute key="charges" value="54400" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35286" article="an" name="lasting exercise axe">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="14400" />
+		<attribute key="charges" value="54400" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35287" article="an" name="lasting exercise club">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="14400" />
+		<attribute key="charges" value="54400" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35288" article="an" name="lasting exercise bow">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="14400" />
+		<attribute key="charges" value="54400" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35289" article="an" name="lasting exercise rod">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="14400" />
+		<attribute key="charges" value="54400" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35290" article="an" name="lasting exercise wand">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="14400" />
+		<attribute key="charges" value="54400" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="35291" name="Rita's letter">
@@ -76432,19 +76432,19 @@ Granted by TibiaGoals.com" />
 	<item id="44065" article="an" name="exercise shield">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="500" />
+		<attribute key="charges" value="5000" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="44066" article="an" name="durable exercise shield">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="1800" />
+		<attribute key="charges" value="10000" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="44067" article="an" name="lasting exercise shield">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="14400" />
+		<attribute key="charges" value="54400" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="44158" article="a" name="dragon trophy" />
@@ -84571,19 +84571,19 @@ Granted by TibiaGoals.com" />
 	<item id="50293" article="an" name="exercise wraps">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="500" />
+		<attribute key="charges" value="5000" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="50294" article="an" name="durable exercise wraps">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="1800" />
+		<attribute key="charges" value="10000" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="50295" article="an" name="lasting exercise wraps">
 		<attribute key="primarytype" value="exercise weapons" />
 		<attribute key="showCharges" value="1" />
-		<attribute key="charges" value="14400" />
+		<attribute key="charges" value="54400" />
 		<attribute key="weight" value="1000" />
 	</item>
 	<item id="50296" article="a" name="skill trainer">
