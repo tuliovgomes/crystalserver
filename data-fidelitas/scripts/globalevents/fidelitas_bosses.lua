@@ -5,6 +5,18 @@ local bossConfig = {
     {name = "Obujos", position = Position(782, 594, 14)},
     {name = "Scarlett Etzel", position = Position(904, 983, 6)},
     {name = "Scatha", position = Position(897, 439, 7)},
+    {name = "Cerberus", position = Position(1148, 642, 5)},
+    {name = "Son of Ancalagon", position = Position(907, 445, 6)},
+    {name = "Ungoliant", position = Position(839, 757, 7)},
+    {name = "laracna", position = Position(869, 721, 6)},
+    {name = "Khel Thuzad", position = Position(610, 754, 1)},
+    {name = "Baalrog", position = Position(453, 675, 7)},
+    {name = "Melkors Summon", position = Position(567, 605, 8)},
+    {name = "Smaug", position = Position(879, 903, 7)},
+    {name = "Azazel", position = Position(1301, 789, 1)},
+    {name = "Avari Leader", position = Position(487, 508, 7)},
+    {name = "Adramelech", position = Position(1383, 858, 7)},
+    {name = "Ancalagon", position = Position(907, 633, 6)}
 }
 
 local spawnRandomBoss = GlobalEvent("spawnRandomBoss")

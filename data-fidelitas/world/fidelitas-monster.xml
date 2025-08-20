@@ -41,7 +41,6 @@
 	</monster>
 	<monster centerx="610" centery="755" centerz="1" radius="1">
 		<monster name="Vampire Viscount" x="-1" y="-1" z="1" spawntime="60" />
-		<monster name="Valaraukar" x="0" y="-1" z="1" spawntime="3600" />
 		<monster name="Vampire Bride" x="1" y="-1" z="1" spawntime="60" />
 		<monster name="Vampire Viscount" x="-1" y="0" z="1" spawntime="60" />
 		<monster name="Vampire Bride" x="1" y="0" z="1" spawntime="60" />
@@ -10673,7 +10672,7 @@
 	<monster centerx="488" centery="620" centerz="7" radius="1">
 		<monster name="Fury" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Fury" x="1" y="0" z="7" spawntime="60" />
-		<monster name="Hellhound" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Fury" x="-1" y="1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="613" centery="620" centerz="7" radius="1">
 		<monster name="Crazed Summer Vanguard" x="0" y="0" z="7" spawntime="60" />
@@ -10698,7 +10697,7 @@
 		<monster name="Orc Marauder" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="505" centery="622" centerz="7" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Fury" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Fury" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Fury" x="1" y="1" z="7" spawntime="60" />
 	</monster>
@@ -10808,7 +10807,7 @@
 		<monster name="Capricious Phantom" x="0" y="3" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="492" centery="627" centerz="7" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Fury" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Fury" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Fury" x="1" y="1" z="7" spawntime="60" />
 	</monster>
@@ -17103,6 +17102,7 @@
 		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
 		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
 		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
+		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
 		<monster name="Dark Torturer" x="0" y="3" z="8" spawntime="90" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
@@ -17112,8 +17112,10 @@
 	</monster>
 	<monster centerx="541" centery="626" centerz="8" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="551" centery="626" centerz="8" radius="3">
+		<monster name="Juggernaut" x="-1" y="-2" z="8" spawntime="60" />
 		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
 		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
 		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
@@ -17211,6 +17213,7 @@
 		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
 		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
 		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
+		<monster name="Juggernaut" x="-3" y="2" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
 	</monster>
@@ -17239,6 +17242,7 @@
 		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
 		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
 		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
+		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
 	</monster>
@@ -17259,6 +17263,7 @@
 	</monster>
 	<monster centerx="456" centery="637" centerz="8" radius="1">
 		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+		<monster name="Juggernaut" x="1" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="494" centery="637" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="1" y="-1" z="8" spawntime="90" />
@@ -17434,6 +17439,7 @@
 		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
 		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
 		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
+		<monster name="Juggernaut" x="1" y="2" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
 	</monster>
@@ -17688,6 +17694,7 @@
 		<monster name="Hellspawn" x="-3" y="-1" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-2" y="1" z="8" spawntime="60" />
 		<monster name="Destroyer" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="0" y="2" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="599" centery="676" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="3" y="2" z="8" spawntime="90" />
@@ -17714,6 +17721,7 @@
 		<monster name="Destroyer" x="-2" y="-3" z="8" spawntime="60" />
 		<monster name="Dark Torturer" x="1" y="-3" z="8" spawntime="60" />
 		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
 	</monster>
@@ -17779,6 +17787,7 @@
 		<monster name="Dark Torturer" x="-2" y="-3" z="8" spawntime="60" />
 		<monster name="Hellhound" x="2" y="-2" z="8" spawntime="60" />
 		<monster name="Hellspawn" x="-3" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="0" y="2" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
 		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
 	</monster>
@@ -17820,6 +17829,7 @@
 		<monster name="Hellspawn" x="-2" y="-3" z="8" spawntime="60" />
 		<monster name="Destroyer" x="2" y="-2" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-2" y="2" z="8" spawntime="60" />
 		<monster name="Dark Torturer" x="2" y="3" z="8" spawntime="60" />
 	</monster>
@@ -17836,6 +17846,7 @@
 	</monster>
 	<monster centerx="480" centery="686" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-1" y="-3" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="-2" y="-1" z="8" spawntime="60" />
 		<monster name="Destroyer" x="3" y="-1" z="8" spawntime="60" />
 		<monster name="Hellspawn" x="-3" y="0" z="8" spawntime="60" />
 		<monster name="Hellhound" x="2" y="2" z="8" spawntime="60" />
@@ -17844,14 +17855,17 @@
 	<monster centerx="541" centery="686" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="0" y="-3" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-2" y="-1" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="2" y="-1" z="8" spawntime="60" />
 		<monster name="Destroyer" x="3" y="0" z="8" spawntime="60" />
 		<monster name="Hellspawn" x="-3" y="1" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="60" />
 		<monster name="Dark Torturer" x="1" y="2" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="565" centery="686" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-2" y="-2" z="8" spawntime="60" />
 		<monster name="Destroyer" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Hellspawn" x="-3" y="1" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="0" y="2" z="8" spawntime="60" />
 		<monster name="Demon" x="2" y="2" z="8" spawntime="60" />
@@ -17859,6 +17873,7 @@
 	<monster centerx="583" centery="686" centerz="8" radius="3">
 		<monster name="Hellspawn" x="-2" y="-2" z="8" spawntime="60" />
 		<monster name="Hellhound" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="2" y="-1" z="8" spawntime="60" />
 		<monster name="Destroyer" x="0" y="2" z="8" spawntime="60" />
 		<monster name="Grim Reaper" x="2" y="2" z="8" spawntime="60" />
 	</monster>
@@ -19428,10 +19443,16 @@
 		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="556" centery="835" centerz="8" radius="3">
+		<monster name="Falcon Paladin" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="-2" y="0" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="-3" y="1" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="-2" y="1" z="8" spawntime="60" />
 		<monster name="Falcon Knight" x="1" y="2" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="563" centery="835" centerz="8" radius="3">
+		<monster name="Falcon Paladin" x="-3" y="0" z="8" spawntime="60" />
 		<monster name="Falcon Knight" x="0" y="3" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="3" y="3" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="858" centery="835" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
@@ -19448,6 +19469,15 @@
 	<monster centerx="898" centery="836" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="551" centery="837" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="548" centery="838" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="1" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="873" centery="838" centerz="8" radius="1">
 		<monster name="Werelion" x="1" y="-1" z="8" spawntime="60" />
 	</monster>
@@ -19456,6 +19486,12 @@
 	</monster>
 	<monster centerx="902" centery="838" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="568" centery="839" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="1" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="579" centery="840" centerz="8" radius="1">
 		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
@@ -19466,6 +19502,9 @@
 	<monster centerx="898" centery="840" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="573" centery="841" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="871" centery="841" centerz="8" radius="1">
 		<monster name="Werelioness" x="1" y="1" z="8" spawntime="60" />
 	</monster>
@@ -19474,14 +19513,24 @@
 	</monster>
 	<monster centerx="549" centery="842" centerz="8" radius="3">
 		<monster name="Falcon Knight" x="-3" y="-2" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="-3" y="0" z="8" spawntime="60" />
 		<monster name="Falcon Knight" x="-2" y="2" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="556" centery="842" centerz="8" radius="3">
 		<monster name="Falcon Paladin" x="-3" y="-2" z="8" spawntime="60" />
 		<monster name="Falcon Knight" x="-3" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="575" centery="842" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="913" centery="842" centerz="8" radius="1">
 		<monster name="Werelion" x="-1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="543" centery="843" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="545" centery="843" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="870" centery="843" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
@@ -19497,6 +19546,12 @@
 	</monster>
 	<monster centerx="876" centery="844" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="-1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="542" centery="845" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="578" centery="845" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="567" centery="846" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
@@ -19522,15 +19577,23 @@
 	<monster centerx="576" centery="848" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="578" centery="848" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="914" centery="848" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="542" centery="849" centerz="8" radius="3">
+		<monster name="Falcon Paladin" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="2" y="0" z="8" spawntime="60" />
 		<monster name="Falcon Knight" x="3" y="3" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="563" centery="849" centerz="8" radius="3">
 		<monster name="Falcon Paladin" x="-3" y="1" z="8" spawntime="60" />
+		<monster name="Falcon Knight" x="-1" y="3" z="8" spawntime="60" />
+		<monster name="Falcon Knight" x="1" y="3" z="8" spawntime="60" />
 		<monster name="Falcon Paladin" x="2" y="3" z="8" spawntime="60" />
+		<monster name="Falcon Knight" x="3" y="3" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="904" centery="850" centerz="8" radius="1">
 		<monster name="Werelion" x="1" y="-1" z="8" spawntime="60" />
@@ -19542,11 +19605,28 @@
 	<monster centerx="915" centery="850" centerz="8" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="578" centery="851" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="910" centery="851" centerz="8" radius="1">
 		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="918" centery="851" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="556" centery="852" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="-1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="547" centery="853" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="561" centery="853" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="567" centery="853" centerz="8" radius="1">
+		<monster name="Falcon Knight" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="972" centery="853" centerz="8" radius="2">
 		<monster name="Behemoth" x="-1" y="-1" z="8" spawntime="60" />
@@ -19564,12 +19644,21 @@
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="556" centery="856" centerz="8" radius="3">
+		<monster name="Falcon Paladin" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="0" y="-2" z="8" spawntime="60" />
 		<monster name="Falcon Paladin" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="-3" y="0" z="8" spawntime="60" />
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Falcon Knight" x="-2" y="3" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="915" centery="856" centerz="8" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="576" centery="857" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="551" centery="858" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="586" centery="858" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
@@ -19577,7 +19666,13 @@
 	<monster centerx="913" centery="858" centerz="8" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="576" centery="859" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="572" centery="860" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="578" centery="860" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="978" centery="861" centerz="8" radius="1">
@@ -19620,25 +19715,54 @@
 		<monster name="Behemoth" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Behemoth" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="554" centery="869" centerz="8" radius="1">
+		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="566" centery="869" centerz="8" radius="1">
+		<monster name="Falcon Knight" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Falcon Knight" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="568" centery="869" centerz="8" radius="1">
+		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="542" centery="870" centerz="8" radius="3">
 		<monster name="Falcon Knight" x="3" y="-3" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="549" centery="870" centerz="8" radius="3">
 		<monster name="Falcon Paladin" x="-2" y="2" z="8" spawntime="60" />
+		<monster name="Falcon Knight" x="3" y="2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="565" centery="871" centerz="8" radius="1">
+		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="565" centery="873" centerz="8" radius="1">
+		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="581" centery="873" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="587" centery="873" centerz="8" radius="3">
 		<monster name="Falcon Knight" x="-3" y="-1" z="8" spawntime="60" />
 		<monster name="Falcon Knight" x="2" y="3" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="567" centery="874" centerz="8" radius="1">
+		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="569" centery="874" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="567" centery="876" centerz="8" radius="1">
+		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="542" centery="877" centerz="8" radius="3">
 		<monster name="Falcon Knight" x="-1" y="-2" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="549" centery="877" centerz="8" radius="3">
+		<monster name="Falcon Knight" x="0" y="-2" z="8" spawntime="60" />
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Falcon Paladin" x="3" y="0" z="8" spawntime="60" />
+		<monster name="Falcon Knight" x="-2" y="3" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="563" centery="877" centerz="8" radius="3">
 		<monster name="Falcon Paladin" x="-2" y="0" z="8" spawntime="60" />
@@ -19647,7 +19771,14 @@
 		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="568" centery="880" centerz="8" radius="1">
+		<monster name="Falcon Knight" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="588" centery="880" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="560" centery="881" centerz="8" radius="1">
+		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="564" centery="881" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
@@ -19657,8 +19788,15 @@
 		<monster name="Behemoth" x="1" y="1" z="8" spawntime="60" />
 		<monster name="Behemoth" x="0" y="2" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="554" centery="882" centerz="8" radius="1">
+		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="569" centery="883" centerz="8" radius="1">
 		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="588" centery="883" centerz="8" radius="1">
+		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Falcon Paladin" x="1" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="542" centery="884" centerz="8" radius="3">
 		<monster name="Falcon Paladin" x="2" y="-2" z="8" spawntime="60" />

@@ -14,9 +14,6 @@
 		<npc name="Haroun" x="-8" y="-2" z="5" spawntime="60" />
 		<npc name="Yaman" x="8" y="-1" z="5" spawntime="60" />
 	</npc>
-	<npc centerx="899" centery="310" centerz="6" radius="1">
-		<npc name="Frosty" x="0" y="0" z="6" spawntime="60" />
-	</npc>
 	<npc centerx="1455" centery="462" centerz="6" radius="1">
 		<npc name="Morax" x="0" y="0" z="6" spawntime="60" />
 	</npc>
@@ -35,15 +32,6 @@
 		<npc name="Yasir" x="7" y="-1" z="6" spawntime="60" />
 		<npc name="Nah'Bob" x="-8" y="4" z="6" spawntime="60" />
 		<npc name="Esrik" x="6" y="5" z="6" spawntime="60" />
-	</npc>
-	<npc centerx="901" centery="312" centerz="7" radius="1">
-		<npc name="Cold Percht Sleigh" x="0" y="1" z="7" spawntime="60" />
-	</npc>
-	<npc centerx="902" centery="315" centerz="7" radius="1">
-		<npc name="Bright Percht Sleigh" x="-1" y="0" z="7" spawntime="60" />
-	</npc>
-	<npc centerx="899" centery="317" centerz="7" radius="1">
-		<npc name="Dark Percht Sleigh" x="1" y="-1" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="1340" centery="482" centerz="7" radius="1">
 		<npc name="..." x="0" y="0" z="7" spawntime="60" />
