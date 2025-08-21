@@ -2544,13 +2544,14 @@
 		<monster name="Murcion" x="3" y="-8" z="5" spawntime="60" />
 		<monster name="Ichgahal" x="8" y="-8" z="5" spawntime="60" />
 		<monster name="Chagorz" x="10" y="-8" z="5" spawntime="60" />
-		<monster name="Ichgahal" x="-3" y="1" z="5" spawntime="60" />
+		<monster name="Goshnar's Greed" x="-3" y="1" z="5" spawntime="60" />
+		<monster name="Goshnar's Cruelty" x="3" y="1" z="5" spawntime="60" />
 		<monster name="Bakragore" x="8" y="1" z="5" spawntime="60" />
 		<monster name="Vemiath" x="10" y="1" z="5" spawntime="60" />
-		<monster name="Chagorz" x="-3" y="3" z="5" spawntime="60" />
-		<monster name="Vemiath" x="3" y="3" z="5" spawntime="60" />
-		<monster name="Bakragore" x="-3" y="5" z="5" spawntime="60" />
-		<monster name="Murcion" x="3" y="5" z="5" spawntime="60" />
+		<monster name="Goshnar's Malice" x="-3" y="3" z="5" spawntime="60" />
+		<monster name="Goshnar's Hatred" x="3" y="3" z="5" spawntime="60" />
+		<monster name="Goshnar's Spite" x="-3" y="5" z="5" spawntime="60" />
+		<monster name="Goshnar's Megalomania" x="3" y="5" z="5" spawntime="60" />
 	</monster>
 	<monster centerx="909" centery="993" centerz="5" radius="3">
 		<monster name="Cobra Vizier" x="2" y="-2" z="5" spawntime="60" />
@@ -14975,6 +14976,9 @@
 		<monster name="Headpecker" x="2" y="4" z="7" spawntime="60" />
 		<monster name="Shrieking Cry-Stal" x="4" y="4" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="1227" centery="1100" centerz="7" radius="1">
+		<monster name="Dreadful Harvester" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="617" centery="1101" centerz="7" radius="5">
 		<monster name="Hulking Prehemoth" x="0" y="-4" z="7" spawntime="60" />
 		<monster name="Sabretooth" x="-4" y="-2" z="7" spawntime="60" />
@@ -15010,6 +15014,9 @@
 	<monster centerx="1166" centery="1102" centerz="7" radius="1">
 		<monster name="Dreadful Harvester" x="0" y="0" z="7" spawntime="10" />
 	</monster>
+	<monster centerx="1227" centery="1104" centerz="7" radius="1">
+		<monster name="Mean Maw" x="0" y="0" z="7" spawntime="10" />
+	</monster>
 	<monster centerx="1156" centery="1105" centerz="7" radius="1">
 		<monster name="Symbol of Hatred" x="0" y="0" z="7" spawntime="10" />
 	</monster>
@@ -15024,6 +15031,9 @@
 	</monster>
 	<monster centerx="1166" centery="1108" centerz="7" radius="1">
 		<monster name="Dreadful Harvester" x="0" y="0" z="7" spawntime="10" />
+	</monster>
+	<monster centerx="1223" centery="1108" centerz="7" radius="1">
+		<monster name="Poor Soul" x="0" y="0" z="7" spawntime="10" />
 	</monster>
 	<monster centerx="1124" centery="1109" centerz="7" radius="1">
 		<monster name="Malicious Soul" x="0" y="0" z="7" spawntime="10" />
