@@ -2541,6 +2541,16 @@
 		<monster name="Urmahlullu The Immaculate" x="-3" y="-12" z="5" spawntime="60" direction="1" />
 		<monster name="Grand Master Oberon" x="-3" y="-10" z="5" spawntime="60" direction="1" />
 		<monster name="Emelianenko" x="-3" y="-8" z="5" spawntime="60" direction="1" />
+		<monster name="Murcion" x="3" y="-8" z="5" spawntime="60" />
+		<monster name="Ichgahal" x="8" y="-8" z="5" spawntime="60" />
+		<monster name="Chagorz" x="10" y="-8" z="5" spawntime="60" />
+		<monster name="Ichgahal" x="-3" y="1" z="5" spawntime="60" />
+		<monster name="Bakragore" x="8" y="1" z="5" spawntime="60" />
+		<monster name="Vemiath" x="10" y="1" z="5" spawntime="60" />
+		<monster name="Chagorz" x="-3" y="3" z="5" spawntime="60" />
+		<monster name="Vemiath" x="3" y="3" z="5" spawntime="60" />
+		<monster name="Bakragore" x="-3" y="5" z="5" spawntime="60" />
+		<monster name="Murcion" x="3" y="5" z="5" spawntime="60" />
 	</monster>
 	<monster centerx="909" centery="993" centerz="5" radius="3">
 		<monster name="Cobra Vizier" x="2" y="-2" z="5" spawntime="60" />
