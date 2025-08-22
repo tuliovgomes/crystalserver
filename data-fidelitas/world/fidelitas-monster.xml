@@ -2539,19 +2539,21 @@
 	</monster>
 	<monster centerx="1088" centery="990" centerz="5" radius="30">
 		<monster name="Urmahlullu The Immaculate" x="-3" y="-12" z="5" spawntime="60" direction="1" />
+		<monster name="King Zelos" x="3" y="-12" z="5" spawntime="60" direction="3" />
 		<monster name="Grand Master Oberon" x="-3" y="-10" z="5" spawntime="60" direction="1" />
+		<monster name="Magma Bubble" x="3" y="-10" z="5" spawntime="60" direction="3" />
 		<monster name="Emelianenko" x="-3" y="-8" z="5" spawntime="60" direction="1" />
-		<monster name="Murcion" x="3" y="-8" z="5" spawntime="60" />
-		<monster name="Ichgahal" x="8" y="-8" z="5" spawntime="60" />
-		<monster name="Chagorz" x="10" y="-8" z="5" spawntime="60" />
-		<monster name="Goshnar's Greed" x="-3" y="1" z="5" spawntime="60" />
-		<monster name="Goshnar's Cruelty" x="3" y="1" z="5" spawntime="60" />
+		<monster name="Murcion" x="3" y="-8" z="5" spawntime="60" direction="3" />
+		<monster name="Ichgahal" x="8" y="-8" z="5" spawntime="60" direction="2" />
+		<monster name="Chagorz" x="10" y="-8" z="5" spawntime="60" direction="2" />
+		<monster name="Goshnar's Greed" x="-3" y="1" z="5" spawntime="60" direction="1" />
+		<monster name="Goshnar's Cruelty" x="3" y="1" z="5" spawntime="60" direction="3" />
 		<monster name="Bakragore" x="8" y="1" z="5" spawntime="60" />
 		<monster name="Vemiath" x="10" y="1" z="5" spawntime="60" />
-		<monster name="Goshnar's Malice" x="-3" y="3" z="5" spawntime="60" />
-		<monster name="Goshnar's Hatred" x="3" y="3" z="5" spawntime="60" />
-		<monster name="Goshnar's Spite" x="-3" y="5" z="5" spawntime="60" />
-		<monster name="Goshnar's Megalomania" x="3" y="5" z="5" spawntime="60" />
+		<monster name="Goshnar's Malice" x="-3" y="3" z="5" spawntime="60" direction="1" />
+		<monster name="Goshnar's Hatred" x="3" y="3" z="5" spawntime="60" direction="3" />
+		<monster name="Goshnar's Spite" x="-3" y="5" z="5" spawntime="60" direction="1" />
+		<monster name="Goshnar's Megalomania" x="3" y="5" z="5" spawntime="60" direction="3" />
 	</monster>
 	<monster centerx="909" centery="993" centerz="5" radius="3">
 		<monster name="Cobra Vizier" x="2" y="-2" z="5" spawntime="60" />
@@ -5056,7 +5058,14 @@
 		<monster name="Elder Wyrm" x="-2" y="-2" z="6" spawntime="60" />
 		<monster name="Elder Wyrm" x="2" y="0" z="6" spawntime="60" />
 	</monster>
-	<monster centerx="1089" centery="992" centerz="6" radius="30" />
+	<monster centerx="1089" centery="992" centerz="6" radius="30">
+		<monster name="Duke Krule" x="-11" y="-7" z="6" spawntime="60" direction="2" />
+		<monster name="Count Vlarkorth" x="-9" y="-7" z="6" spawntime="60" direction="2" />
+		<monster name="Earl Osam" x="-7" y="-7" z="6" spawntime="60" direction="2" />
+		<monster name="Lord Azaram" x="-5" y="-7" z="6" spawntime="60" direction="2" />
+		<monster name="Sir Nictros" x="-3" y="-7" z="6" spawntime="60" direction="2" />
+		<monster name="Drume" x="-17" y="-4" z="6" spawntime="60" direction="1" />
+	</monster>
 	<monster centerx="1006" centery="993" centerz="6" radius="30">
 		<monster name="Exotic Cave Spider" x="-6" y="-14" z="6" spawntime="60" direction="1" />
 		<monster name="Lizard Chosen" x="6" y="-14" z="6" spawntime="60" direction="3" />
