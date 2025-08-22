@@ -6837,9 +6837,6 @@
 	<monster centerx="1233" centery="398" centerz="7" radius="1">
 		<monster name="Rage Squid" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="1388" centery="398" centerz="7" radius="3">
-		<monster name="Weakened Frazzlemaw" x="-2" y="2" z="7" spawntime="60" />
-	</monster>
 	<monster centerx="1423" centery="398" centerz="7" radius="3">
 		<monster name="Retching Horror" x="-1" y="3" z="7" spawntime="60" />
 	</monster>
@@ -7011,15 +7008,6 @@
 		<monster name="Rage Squid" x="0" y="1" z="7" spawntime="289271808" />
 		<monster name="Rage Squid" x="1" y="1" z="7" spawntime="289271808" />
 	</monster>
-	<monster centerx="1381" centery="405" centerz="7" radius="3">
-		<monster name="Enfeebled Silencer" x="0" y="-2" z="7" spawntime="60" />
-		<monster name="Weakened Frazzlemaw" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Enfeebled Silencer" x="-2" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="1388" centery="405" centerz="7" radius="3">
-		<monster name="Enfeebled Silencer" x="0" y="-3" z="7" spawntime="60" />
-		<monster name="Weakened Frazzlemaw" x="0" y="-2" z="7" spawntime="60" />
-	</monster>
 	<monster centerx="1416" centery="405" centerz="7" radius="3">
 		<monster name="Silencer" x="3" y="-2" z="7" spawntime="60" />
 	</monster>
@@ -7160,10 +7148,6 @@
 	</monster>
 	<monster centerx="816" centery="412" centerz="7" radius="3">
 		<monster name="Schiach" x="3" y="-2" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="1374" centery="412" centerz="7" radius="3">
-		<monster name="Weakened Frazzlemaw" x="3" y="-1" z="7" spawntime="60" />
-		<monster name="Enfeebled Silencer" x="3" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1437" centery="412" centerz="7" radius="3">
 		<monster name="Retching Horror" x="-3" y="0" z="7" spawntime="60" />
@@ -7335,8 +7319,6 @@
 	<monster centerx="872" centery="419" centerz="7" radius="3">
 		<monster name="Percht" x="1" y="2" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="1374" centery="419" centerz="7" radius="3" />
-	<monster centerx="1381" centery="419" centerz="7" radius="3" />
 	<monster centerx="1395" centery="419" centerz="7" radius="3">
 		<monster name="Sight Of Surrender" x="-1" y="-3" z="7" spawntime="60" />
 	</monster>
@@ -7480,9 +7462,6 @@
 	</monster>
 	<monster centerx="1147" centery="426" centerz="7" radius="1">
 		<monster name="Burning Book" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="1374" centery="426" centerz="7" radius="3">
-		<monster name="Weakened Frazzlemaw" x="2" y="-1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1388" centery="426" centerz="7" radius="3">
 		<monster name="Sight Of Surrender" x="-2" y="3" z="7" spawntime="60" />
@@ -12628,9 +12607,6 @@
 	<monster centerx="335" centery="741" centerz="7" radius="1">
 		<monster name="Darklight Striker" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="371" centery="741" centerz="7" radius="1">
-		<monster name="Darklight Striker" x="0" y="0" z="7" spawntime="60" />
-	</monster>
 	<monster centerx="385" centery="741" centerz="7" radius="1">
 		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -12646,6 +12622,9 @@
 	</monster>
 	<monster centerx="358" centery="742" centerz="7" radius="1">
 		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="372" centery="742" centerz="7" radius="1">
+		<monster name="Darklight Striker" x="-1" y="-1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1111" centery="742" centerz="7" radius="3">
 		<monster name="Glooth Brigand" x="-2" y="-3" z="7" spawntime="60" />
@@ -12748,6 +12727,7 @@
 		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="384" centery="748" centerz="7" radius="1">
+		<monster name="Darklight Striker" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Darklight Striker" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Darklight Source" x="0" y="1" z="7" spawntime="60" />
 	</monster>
@@ -12773,7 +12753,9 @@
 		<monster name="Grim Reaper" x="0" y="4" z="7" spawntime="60" />
 		<monster name="Grim Reaper" x="2" y="4" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="384" centery="749" centerz="7" radius="1" />
+	<monster centerx="384" centery="749" centerz="7" radius="1">
+		<monster name="Darklight Striker" x="0" y="1" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1111" centery="749" centerz="7" radius="3">
 		<monster name="Glooth Brigand" x="0" y="-1" z="7" spawntime="60" />
 	</monster>
@@ -19066,6 +19048,7 @@
 	<monster centerx="338" centery="781" centerz="8" radius="1">
 		<monster name="Darklight Emitter" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Darklight Construct" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Darklight Emitter" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Darklight Emitter" x="1" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="369" centery="781" centerz="8" radius="1">
@@ -19083,7 +19066,9 @@
 	<monster centerx="327" centery="782" centerz="8" radius="1">
 		<monster name="Darklight Emitter" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="339" centery="782" centerz="8" radius="1" />
+	<monster centerx="339" centery="782" centerz="8" radius="1">
+		<monster name="Darklight Emitter" x="1" y="1" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="347" centery="782" centerz="8" radius="1">
 		<monster name="Darklight Construct" x="0" y="0" z="8" spawntime="60" />
 	</monster>
