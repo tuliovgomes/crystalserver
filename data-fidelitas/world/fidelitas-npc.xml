@@ -1,8 +1,5 @@
 <?xml version="1.0"?>
 <npcs>
-	<npc centerx="302" centery="1076" centerz="4" radius="1">
-		<npc name="Emberwing" x="0" y="0" z="4" spawntime="60" />
-	</npc>
 	<npc centerx="1445" centery="490" centerz="5" radius="1">
 		<npc name="Eruaran" x="0" y="0" z="5" spawntime="60" />
 	</npc>
@@ -70,6 +67,9 @@
 	</npc>
 	<npc centerx="589" centery="471" centerz="8" radius="1">
 		<npc name="Ortelio" x="1" y="0" z="8" spawntime="60" />
+	</npc>
+	<npc centerx="737" centery="862" centerz="8" radius="1">
+		<npc name="Emberwing" x="0" y="0" z="8" spawntime="60" />
 	</npc>
 	<npc centerx="615" centery="872" centerz="8" radius="1">
 		<npc name="Oberon'S Bile" x="0" y="0" z="8" spawntime="60" />

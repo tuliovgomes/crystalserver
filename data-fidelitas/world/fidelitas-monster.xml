@@ -1340,118 +1340,6 @@
 	<monster centerx="888" centery="1014" centerz="4" radius="3">
 		<monster name="Cobra Vizier" x="1" y="1" z="4" spawntime="60" />
 	</monster>
-	<monster centerx="312" centery="1027" centerz="4" radius="3">
-		<monster name="Arachnophobica" x="0" y="2" z="4" spawntime="60" />
-		<monster name="Arachnophobica" x="1" y="3" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="340" centery="1027" centerz="4" radius="3">
-		<monster name="Arachnophobica" x="-3" y="-2" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="361" centery="1027" centerz="4" radius="3">
-		<monster name="Ripper Spectre" x="-3" y="-1" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="312" centery="1034" centerz="4" radius="3">
-		<monster name="Ripper Spectre" x="2" y="-3" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="368" centery="1034" centerz="4" radius="3">
-		<monster name="Arachnophobica" x="1" y="-2" z="4" spawntime="60" />
-		<monster name="Arachnophobica" x="2" y="-2" z="4" spawntime="60" />
-		<monster name="Ripper Spectre" x="0" y="-1" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="284" centery="1041" centerz="4" radius="3">
-		<monster name="Arachnophobica" x="0" y="0" z="4" spawntime="60" />
-		<monster name="Ripper Spectre" x="-2" y="1" z="4" spawntime="60" />
-		<monster name="Arachnophobica" x="-1" y="1" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="270" centery="1048" centerz="4" radius="3">
-		<monster name="Ripper Spectre" x="0" y="3" z="4" spawntime="60" />
-		<monster name="Ripper Spectre" x="1" y="3" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="298" centery="1048" centerz="4" radius="3">
-		<monster name="Arachnophobica" x="3" y="3" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="326" centery="1048" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="3" y="2" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="382" centery="1048" centerz="4" radius="3">
-		<monster name="Arachnophobica" x="-3" y="-2" z="4" spawntime="60" />
-		<monster name="Arachnophobica" x="-2" y="-2" z="4" spawntime="60" />
-		<monster name="Arachnophobica" x="-1" y="-1" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="319" centery="1055" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="2" y="0" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="333" centery="1055" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="-3" y="2" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="347" centery="1055" centerz="4" radius="3">
-		<monster name="Ripper Spectre" x="1" y="1" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="375" centery="1055" centerz="4" radius="3">
-		<monster name="Ripper Spectre" x="3" y="-1" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="291" centery="1062" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="2" y="-1" z="4" spawntime="60" />
-		<monster name="Ripper Spectre" x="2" y="0" z="4" spawntime="60" />
-		<monster name="Ripper Spectre" x="1" y="2" z="4" spawntime="60" />
-		<monster name="Arachnophobica" x="2" y="2" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="312" centery="1062" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="0" y="-2" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="361" centery="1062" centerz="4" radius="3">
-		<monster name="Ripper Spectre" x="0" y="-3" z="4" spawntime="60" />
-		<monster name="Gazer Spectre" x="-1" y="-1" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="375" centery="1062" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="-1" y="1" z="4" spawntime="60" />
-		<monster name="Gazer Spectre" x="0" y="2" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="341" centery="1065" centerz="4" radius="1">
-		<monster name="Gazer Spectre" x="0" y="0" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="270" centery="1069" centerz="4" radius="3">
-		<monster name="Ripper Spectre" x="-1" y="3" z="4" spawntime="60" />
-		<monster name="Gazer Spectre" x="1" y="3" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="312" centery="1069" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="-1" y="1" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="368" centery="1069" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="-3" y="0" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="331" centery="1071" centerz="4" radius="1">
-		<monster name="Gazer Spectre" x="0" y="0" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="335" centery="1071" centerz="4" radius="1">
-		<monster name="Gazer Spectre" x="0" y="0" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="337" centery="1072" centerz="4" radius="1">
-		<monster name="Gazer Spectre" x="0" y="0" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="333" centery="1073" centerz="4" radius="1">
-		<monster name="Gazer Spectre" x="0" y="0" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="298" centery="1075" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="1" y="0" z="4" spawntime="60" />
-		<monster name="Gazer Spectre" x="2" y="0" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="270" centery="1076" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="0" y="-3" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="368" centery="1076" centerz="4" radius="3">
-		<monster name="Ripper Spectre" x="2" y="2" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="277" centery="1083" centerz="4" radius="3">
-		<monster name="Ripper Spectre" x="-2" y="3" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="291" centery="1083" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="1" y="0" z="4" spawntime="60" />
-	</monster>
-	<monster centerx="277" centery="1090" centerz="4" radius="3">
-		<monster name="Gazer Spectre" x="0" y="-2" z="4" spawntime="60" />
-		<monster name="Ripper Spectre" x="1" y="-2" z="4" spawntime="60" />
-	</monster>
 	<monster centerx="816" centery="335" centerz="5" radius="3">
 		<monster name="Schiach" x="2" y="2" z="5" spawntime="60" />
 	</monster>
@@ -2584,150 +2472,8 @@
 		<monster name="Cobra Assassin" x="-2" y="0" z="5" spawntime="60" />
 		<monster name="Cobra Assassin" x="-3" y="2" z="5" spawntime="60" />
 	</monster>
-	<monster centerx="340" centery="1027" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="-1" y="-1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="354" centery="1027" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="-1" y="-3" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="368" centery="1027" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="1" y="-3" z="5" spawntime="60" />
-		<monster name="Gazer Spectre" x="1" y="-1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="375" centery="1027" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="3" y="-3" z="5" spawntime="60" />
-		<monster name="Ripper Spectre" x="1" y="-1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="382" centery="1027" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="-1" y="-2" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="389" centery="1027" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="-2" y="-3" z="5" spawntime="60" />
-		<monster name="Gazer Spectre" x="2" y="0" z="5" spawntime="60" />
-	</monster>
 	<monster centerx="888" centery="1028" centerz="5" radius="3">
 		<monster name="Cobra Assassin" x="1" y="-1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="284" centery="1034" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="0" y="1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="312" centery="1034" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="-3" y="-1" z="5" spawntime="60" />
-		<monster name="Gazer Spectre" x="0" y="1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="319" centery="1034" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="-3" y="-2" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="347" centery="1034" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="0" y="0" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="375" centery="1034" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="-3" y="3" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="389" centery="1034" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="3" y="-2" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="277" centery="1041" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="-2" y="1" z="5" spawntime="60" />
-		<monster name="Gazer Spectre" x="2" y="1" z="5" spawntime="60" />
-		<monster name="Gazer Spectre" x="-2" y="3" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="353" centery="1041" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="2" y="-3" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="361" centery="1041" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="2" y="-3" z="5" spawntime="60" />
-		<monster name="Burster Spectre" x="-1" y="3" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="270" centery="1048" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="-1" y="1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="298" centery="1048" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="-1" y="-3" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="354" centery="1048" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="2" y="0" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="361" centery="1048" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="-3" y="-3" z="5" spawntime="60" />
-		<monster name="Burster Spectre" x="3" y="1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="382" centery="1048" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="-3" y="0" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="340" centery="1055" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="0" y="0" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="347" centery="1055" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="2" y="0" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="382" centery="1055" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="3" y="-1" z="5" spawntime="60" />
-		<monster name="Ripper Spectre" x="0" y="0" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="333" centery="1062" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="1" y="-2" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="298" centery="1069" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="2" y="-3" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="305" centery="1069" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="-2" y="-1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="354" centery="1069" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="2" y="0" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="361" centery="1069" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="0" y="0" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="284" centery="1076" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="-1" y="-1" z="5" spawntime="60" />
-		<monster name="Ripper Spectre" x="2" y="0" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="333" centery="1076" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="2" y="-1" z="5" spawntime="60" />
-		<monster name="Gazer Spectre" x="0" y="3" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="375" centery="1076" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="-3" y="-3" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="319" centery="1083" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="-2" y="0" z="5" spawntime="60" />
-		<monster name="Gazer Spectre" x="3" y="1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="333" centery="1083" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="-2" y="0" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="340" centery="1083" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="-2" y="0" z="5" spawntime="60" />
-		<monster name="Burster Spectre" x="-2" y="2" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="347" centery="1083" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="-1" y="2" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="361" centery="1083" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="3" y="2" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="368" centery="1083" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="3" y="0" z="5" spawntime="60" />
-		<monster name="Gazer Spectre" x="-3" y="1" z="5" spawntime="60" />
-		<monster name="Ripper Spectre" x="0" y="1" z="5" spawntime="60" />
-		<monster name="Gazer Spectre" x="-1" y="2" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="375" centery="1083" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="-2" y="1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="319" centery="1090" centerz="5" radius="3">
-		<monster name="Gazer Spectre" x="3" y="3" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="361" centery="1090" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="2" y="-3" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="347" centery="1097" centerz="5" radius="3">
-		<monster name="Ripper Spectre" x="-1" y="1" z="5" spawntime="60" />
-	</monster>
-	<monster centerx="361" centery="1097" centerz="5" radius="3">
-		<monster name="Burster Spectre" x="3" y="-2" z="5" spawntime="60" />
 	</monster>
 	<monster centerx="879" centery="307" centerz="6" radius="3">
 		<monster name="Percht" x="1" y="0" z="6" spawntime="60" />
@@ -4459,6 +4205,17 @@
 	<monster centerx="1224" centery="715" centerz="6" radius="1">
 		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
 	</monster>
+	<monster centerx="926" centery="716" centerz="6" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Noble Lion" x="0" y="1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="928" centery="717" centerz="6" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Noble Lion" x="0" y="1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="918" centery="718" centerz="6" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="6" spawntime="60" />
+	</monster>
 	<monster centerx="692" centery="720" centerz="6" radius="5">
 		<monster name="Valkyrie" x="0" y="-3" z="6" spawntime="60" />
 		<monster name="Valkyrie" x="0" y="-2" z="6" spawntime="60" />
@@ -4478,6 +4235,11 @@
 		<monster name="Giant Spider" x="0" y="1" z="6" spawntime="60" />
 		<monster name="Giant Spider" x="1" y="1" z="6" spawntime="60" />
 	</monster>
+	<monster centerx="931" centery="724" centerz="6" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Noble Lion" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Noble Lion" x="1" y="1" z="6" spawntime="60" />
+	</monster>
 	<monster centerx="445" centery="725" centerz="6" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Mirror Image" x="1" y="0" z="6" spawntime="60" />
@@ -4491,6 +4253,11 @@
 	<monster centerx="901" centery="728" centerz="6" radius="1">
 		<monster name="Lion" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Noble Lion" x="1" y="1" z="6" spawntime="90" />
+	</monster>
+	<monster centerx="930" centery="728" centerz="6" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Noble Lion" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Noble Lion" x="1" y="1" z="6" spawntime="60" />
 	</monster>
 	<monster centerx="437" centery="729" centerz="6" radius="1">
 		<monster name="Mirror Image" x="-1" y="0" z="6" spawntime="60" />
@@ -4524,6 +4291,12 @@
 		<monster name="Mirror Image" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Mirror Image" x="0" y="1" z="6" spawntime="60" />
 		<monster name="Mirror Image" x="1" y="1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="901" centery="733" centerz="6" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="905" centery="734" centerz="6" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="6" spawntime="60" />
 	</monster>
 	<monster centerx="1222" centery="734" centerz="6" radius="1">
 		<monster name="Lizard Snakecharmer" x="0" y="0" z="6" spawntime="90" />
@@ -4564,6 +4337,9 @@
 		<monster name="Lizard Dragon Priest" x="0" y="0" z="6" spawntime="90" />
 		<monster name="Lizard Chosen" x="-1" y="1" z="6" spawntime="60" />
 	</monster>
+	<monster centerx="906" centery="739" centerz="6" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="6" spawntime="60" />
+	</monster>
 	<monster centerx="1249" centery="739" centerz="6" radius="1">
 		<monster name="Lizard High Guard" x="0" y="0" z="6" spawntime="60" />
 	</monster>
@@ -4597,6 +4373,11 @@
 	<monster centerx="907" centery="746" centerz="6" radius="1">
 		<monster name="Lion" x="0" y="0" z="6" spawntime="60" />
 		<monster name="Noble Lion" x="0" y="1" z="6" spawntime="90" />
+	</monster>
+	<monster centerx="916" centery="746" centerz="6" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="6" spawntime="60" />
+		<monster name="Noble Lion" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Noble Lion" x="0" y="1" z="6" spawntime="60" />
 	</monster>
 	<monster centerx="1261" centery="746" centerz="6" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="6" spawntime="90" />
@@ -5064,7 +4845,10 @@
 		<monster name="Earl Osam" x="-7" y="-7" z="6" spawntime="60" direction="2" />
 		<monster name="Lord Azaram" x="-5" y="-7" z="6" spawntime="60" direction="2" />
 		<monster name="Sir Nictros" x="-3" y="-7" z="6" spawntime="60" direction="2" />
+		<monster name="Timira the Many-Headed" x="1" y="-7" z="6" spawntime="60" direction="2" />
+		<monster name="Ratmiral Blackwhiskers" x="12" y="-7" z="6" spawntime="60" direction="2" />
 		<monster name="Drume" x="-17" y="-4" z="6" spawntime="60" direction="1" />
+		<monster name="Faceless Bane" x="15" y="-4" z="6" spawntime="60" direction="3" />
 	</monster>
 	<monster centerx="1006" centery="993" centerz="6" radius="30">
 		<monster name="Exotic Cave Spider" x="-6" y="-14" z="6" spawntime="60" direction="1" />
@@ -5081,12 +4865,16 @@
 		<monster name="Retching Horror" x="8" y="-12" z="6" spawntime="90" direction="1" />
 		<monster name="Behemoth" x="-6" y="-10" z="6" spawntime="60" direction="1" />
 		<monster name="Demon" x="6" y="-10" z="6" spawntime="90" direction="3" />
+		<monster name="Noble Lion" x="8" y="-10" z="6" spawntime="60" direction="1" />
 		<monster name="Young Goanna" x="-6" y="-9" z="6" spawntime="60" direction="1" />
 		<monster name="Werelioness" x="-5" y="-9" z="6" spawntime="60" direction="1" />
 		<monster name="Mirror Image" x="5" y="-9" z="6" spawntime="60" direction="3" />
 		<monster name="Infernal Demon" x="6" y="-9" z="6" spawntime="60" direction="3" />
+		<monster name="Werelioness" x="8" y="-9" z="6" spawntime="60" direction="1" />
+		<monster name="Spiky Carnivor" x="9" y="-9" z="6" spawntime="60" direction="1" />
 		<monster name="Cobra Assassin" x="-6" y="-8" z="6" spawntime="60" direction="1" />
 		<monster name="Crazed Summer Vanguard" x="6" y="-8" z="6" spawntime="60" direction="3" />
+		<monster name="Grim Reaper" x="8" y="-8" z="6" spawntime="60" direction="1" />
 		<monster name="Giant Spider" x="-6" y="-6" z="6" spawntime="60" direction="1" />
 		<monster name="Wyrm" x="6" y="-6" z="6" spawntime="60" direction="3" />
 		<monster name="Hydra" x="-6" y="-5" z="6" spawntime="60" direction="1" />
@@ -5133,174 +4921,12 @@
 		<monster name="Cobra Scout" x="-3" y="1" z="6" spawntime="60" />
 		<monster name="Cobra Scout" x="1" y="1" z="6" spawntime="60" />
 	</monster>
-	<monster centerx="319" centery="1020" centerz="6" radius="3">
-		<monster name="Arachnophobica" x="-1" y="3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="340" centery="1020" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="0" y="1" z="6" spawntime="60" />
-		<monster name="Arachnophobica" x="1" y="1" z="6" spawntime="60" />
-		<monster name="Burster Spectre" x="3" y="3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="354" centery="1020" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="0" y="0" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="375" centery="1020" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="3" y="2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="382" centery="1020" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="-3" y="1" z="6" spawntime="60" />
-		<monster name="Arachnophobica" x="-3" y="3" z="6" spawntime="60" />
-	</monster>
 	<monster centerx="888" centery="1021" centerz="6" radius="3">
 		<monster name="Cobra Assassin" x="3" y="0" z="6" spawntime="60" />
 	</monster>
 	<monster centerx="895" centery="1021" centerz="6" radius="3">
 		<monster name="Cobra Assassin" x="-3" y="-3" z="6" spawntime="60" />
 		<monster name="Cobra Vizier" x="-3" y="1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="277" centery="1027" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="2" y="3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="284" centery="1027" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="-3" y="-2" z="6" spawntime="60" />
-		<monster name="Burster Spectre" x="2" y="3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="291" centery="1027" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="-1" y="2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="312" centery="1027" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="-1" y="1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="319" centery="1027" centerz="6" radius="3">
-		<monster name="Arachnophobica" x="2" y="-2" z="6" spawntime="60" />
-		<monster name="Burster Spectre" x="2" y="0" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="326" centery="1027" centerz="6" radius="3">
-		<monster name="Arachnophobica" x="-1" y="-3" z="6" spawntime="60" />
-		<monster name="Arachnophobica" x="-2" y="-1" z="6" spawntime="60" />
-		<monster name="Burster Spectre" x="2" y="1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="340" centery="1027" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="-1" y="-3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="354" centery="1027" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="0" y="-3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="368" centery="1027" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="-3" y="-3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="270" centery="1034" centerz="6" radius="3">
-		<monster name="Arachnophobica" x="2" y="2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="277" centery="1034" centerz="6" radius="3">
-		<monster name="Arachnophobica" x="-2" y="-2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="291" centery="1034" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="1" y="-2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="298" centery="1034" centerz="6" radius="3">
-		<monster name="Arachnophobica" x="-2" y="3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="305" centery="1034" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="0" y="0" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="389" centery="1034" centerz="6" radius="3">
-		<monster name="Arachnophobica" x="2" y="1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="298" centery="1041" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="-3" y="1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="354" centery="1041" centerz="6" radius="3">
-		<monster name="Arachnophobica" x="2" y="0" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="270" centery="1048" centerz="6" radius="3">
-		<monster name="Ripper Spectre" x="-1" y="-2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="270" centery="1055" centerz="6" radius="3">
-		<monster name="Ripper Spectre" x="-1" y="-3" z="6" spawntime="60" />
-		<monster name="Burster Spectre" x="-1" y="2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="340" centery="1055" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="-1" y="3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="347" centery="1055" centerz="6" radius="3">
-		<monster name="Ripper Spectre" x="-2" y="2" z="6" spawntime="60" />
-		<monster name="Burster Spectre" x="-1" y="2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="263" centery="1062" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="2" y="3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="298" centery="1062" centerz="6" radius="3">
-		<monster name="Ripper Spectre" x="0" y="-2" z="6" spawntime="60" />
-		<monster name="Burster Spectre" x="-3" y="1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="333" centery="1062" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="1" y="-2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="375" centery="1062" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="2" y="0" z="6" spawntime="60" />
-		<monster name="Gazer Spectre" x="2" y="2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="284" centery="1069" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="1" y="1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="298" centery="1069" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="-1" y="0" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="305" centery="1069" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="1" y="-2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="333" centery="1069" centerz="6" radius="3">
-		<monster name="Arachnophobica" x="-3" y="0" z="6" spawntime="60" />
-		<monster name="Burster Spectre" x="-1" y="2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="277" centery="1076" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="0" y="0" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="284" centery="1076" centerz="6" radius="3">
-		<monster name="Ripper Spectre" x="-1" y="-3" z="6" spawntime="60" />
-		<monster name="Ripper Spectre" x="1" y="-2" z="6" spawntime="60" />
-		<monster name="Gazer Spectre" x="3" y="-1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="298" centery="1076" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="2" y="0" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="298" centery="1083" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="2" y="2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="354" centery="1083" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="0" y="1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="368" centery="1083" centerz="6" radius="3">
-		<monster name="Arachnophobica" x="-1" y="3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="375" centery="1083" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="1" y="-1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="382" centery="1083" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="-2" y="-2" z="6" spawntime="60" />
-		<monster name="Burster Spectre" x="-2" y="-1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="263" centery="1090" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="3" y="1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="298" centery="1090" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="2" y="2" z="6" spawntime="60" />
-		<monster name="Arachnophobica" x="0" y="3" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="305" centery="1090" centerz="6" radius="3">
-		<monster name="Gazer Spectre" x="-1" y="-1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="312" centery="1090" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="1" y="-2" z="6" spawntime="60" />
-		<monster name="Burster Spectre" x="2" y="-2" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="347" centery="1090" centerz="6" radius="3">
-		<monster name="Burster Spectre" x="-3" y="-1" z="6" spawntime="60" />
-		<monster name="Gazer Spectre" x="-1" y="-1" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="354" centery="1090" centerz="6" radius="3">
-		<monster name="Arachnophobica" x="2" y="-3" z="6" spawntime="60" />
 	</monster>
 	<monster centerx="1184" centery="189" centerz="7" radius="1">
 		<monster name="Animated Feather" x="-1" y="-1" z="7" spawntime="60" />
@@ -11957,6 +11583,9 @@
 	<monster centerx="659" centery="704" centerz="7" radius="1">
 		<monster name="Vampire" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="921" centery="704" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1266" centery="704" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -11990,6 +11619,7 @@
 		<monster name="Capricious Phantom" x="1" y="4" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="913" centery="706" centerz="7" radius="1">
+		<monster name="Noble Lion" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="540" centery="707" centerz="7" radius="1">
@@ -12002,6 +11632,9 @@
 	<monster centerx="1219" centery="707" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Lizard Legionnaire" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="932" centery="708" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="301" centery="709" centerz="7" radius="5">
 		<monster name="Turbulent Elemental" x="-4" y="-2" z="7" spawntime="60" />
@@ -12016,6 +11649,9 @@
 		<monster name="Wolf" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Wolf" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Wolf" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="944" centery="709" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1229" centery="709" centerz="7" radius="1">
 		<monster name="Lizard Templar" x="0" y="0" z="7" spawntime="90" />
@@ -12050,6 +11686,9 @@
 	</monster>
 	<monster centerx="796" centery="713" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="903" centery="714" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="669" centery="715" centerz="7" radius="1">
 		<monster name="Amazon" x="0" y="0" z="7" spawntime="60" />
@@ -12122,6 +11761,9 @@
 		<monster name="Giant Spider" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Giant Spider" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Giant Spider" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="952" centery="718" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1215" centery="718" centerz="7" radius="1">
 		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
@@ -12247,6 +11889,11 @@
 		<monster name="Vampire Bride" x="20" y="15" z="7" spawntime="60" />
 		<monster name="Vampire Viscount" x="5" y="17" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="940" centery="723" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="1" y="1" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="706" centery="724" centerz="7" radius="5">
 		<monster name="Amazon" x="-2" y="-2" z="7" spawntime="40" />
 		<monster name="Amazon" x="3" y="2" z="7" spawntime="40" />
@@ -12254,6 +11901,12 @@
 		<monster name="Amazon" x="-1" y="4" z="7" spawntime="60" />
 		<monster name="Amazon" x="0" y="4" z="7" spawntime="60" />
 		<monster name="Amazon" x="1" y="4" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1022" centery="724" centerz="7" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="2" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1170" centery="724" centerz="7" radius="3">
 		<monster name="Glooth Bandit" x="3" y="2" z="7" spawntime="60" />
@@ -12284,11 +11937,31 @@
 	<monster centerx="1260" centery="725" centerz="7" radius="1">
 		<monster name="Lizard High Guard" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="980" centery="726" centerz="7" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="987" centery="726" centerz="7" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-3" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1008" centery="726" centerz="7" radius="3">
+		<monster name="Lumbering Carnivor" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1034" centery="726" centerz="7" radius="3">
+		<monster name="Lumbering Carnivor" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="2" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1240" centery="726" centerz="7" radius="1">
 		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="391" centery="727" centerz="7" radius="1">
 		<monster name="Darklight Striker" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="470" centery="727" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="676" centery="727" centerz="7" radius="1">
 		<monster name="Cyclops" x="0" y="0" z="7" spawntime="60" />
@@ -12332,6 +12005,11 @@
 	</monster>
 	<monster centerx="695" centery="728" centerz="7" radius="1">
 		<monster name="Wolf" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1048" centery="728" centerz="7" radius="5">
+		<monster name="Spiky Carnivor" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="5" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1118" centery="728" centerz="7" radius="3">
 		<monster name="Glooth Bandit" x="2" y="1" z="7" spawntime="60" />
@@ -12392,6 +12070,9 @@
 	<monster centerx="403" centery="731" centerz="7" radius="1">
 		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="1025" centery="731" centerz="7" radius="1">
+		<monster name="Menacing Carnivor" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1163" centery="731" centerz="7" radius="3">
 		<monster name="Glooth Brigand" x="1" y="3" z="7" spawntime="60" />
 	</monster>
@@ -12416,6 +12097,9 @@
 		<monster name="Mirror Image" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="0" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="509" centery="732" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="688" centery="732" centerz="7" radius="5">
 		<monster name="Amazon" x="-2" y="-1" z="7" spawntime="40" />
@@ -12443,6 +12127,9 @@
 		<monster name="Mirror Image" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="0" y="1" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="501" centery="733" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1266" centery="733" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -12453,6 +12140,9 @@
 		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Giant Spider" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Giant Spider" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1015" centery="734" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1252" centery="734" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="60" />
@@ -12497,11 +12187,24 @@
 	<monster centerx="1125" centery="735" centerz="7" radius="3">
 		<monster name="Glooth Bandit" x="0" y="2" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="1026" centery="736" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1049" centery="736" centerz="7" radius="1">
+		<monster name="Menacing Carnivor" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1285" centery="736" centerz="7" radius="1">
 		<monster name="Cobra" x="0" y="0" z="7" spawntime="90" />
 	</monster>
 	<monster centerx="334" centery="737" centerz="7" radius="1">
 		<monster name="Darklight Source" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="978" centery="737" centerz="7" radius="3">
+		<monster name="Lumbering Carnivor" x="-1" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1144" centery="737" centerz="7" radius="3">
 		<monster name="Glooth Bandit" x="0" y="2" z="7" spawntime="60" />
@@ -12573,12 +12276,22 @@
 	<monster centerx="1170" centery="738" centerz="7" radius="3">
 		<monster name="Glooth Brigand" x="2" y="1" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="487" centery="739" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Many Faces" x="1" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="698" centery="739" centerz="7" radius="5">
 		<monster name="Amazon" x="-3" y="-4" z="7" spawntime="40" />
 		<monster name="Amazon" x="-3" y="-1" z="7" spawntime="60" />
 		<monster name="Amazon" x="-2" y="-1" z="7" spawntime="60" />
 		<monster name="Amazon" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Amazon" x="3" y="2" z="7" spawntime="40" />
+	</monster>
+	<monster centerx="988" centery="739" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="2" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1290" centery="739" centerz="7" radius="1">
 		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
@@ -12589,14 +12302,27 @@
 	<monster centerx="428" centery="740" centerz="7" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="439" centery="740" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="469" centery="740" centerz="7" radius="1">
 		<monster name="Mirror Image" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Many Faces" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Many Faces" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1022" centery="740" centerz="7" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="3" z="7" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1050" centery="740" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="3" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1259" centery="740" centerz="7" radius="1">
 		<monster name="Lizard Dragon Priest" x="0" y="0" z="7" spawntime="60" />
@@ -12641,10 +12367,16 @@
 		<monster name="Glooth Bandit" x="2" y="2" z="7" spawntime="60" />
 		<monster name="Glooth Bandit" x="-2" y="3" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="513" centery="743" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="842" centery="743" centerz="7" radius="1">
 		<monster name="Giant Spider" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Giant Spider" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1039" centery="743" centerz="7" radius="3">
+		<monster name="Lumbering Carnivor" x="3" y="-1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1338" centery="743" centerz="7" radius="4">
 		<monster name="Grim Reaper" x="-2" y="-2" z="7" spawntime="60" />
@@ -12656,6 +12388,10 @@
 	</monster>
 	<monster centerx="740" centery="744" centerz="7" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1022" centery="744" centerz="7" radius="1">
+		<monster name="Menacing Carnivor" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="499" centery="745" centerz="7" radius="1">
 		<monster name="Mirror Image" x="-1" y="0" z="7" spawntime="60" />
@@ -12716,12 +12452,28 @@
 		<monster name="Grim Reaper" x="-2" y="2" z="7" spawntime="60" />
 		<monster name="Grim Reaper" x="2" y="3" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="514" centery="747" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="616" centery="747" centerz="7" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="688" centery="747" centerz="7" radius="5">
 		<monster name="Amazon" x="-1" y="-4" z="7" spawntime="40" />
 		<monster name="Amazon" x="2" y="4" z="7" spawntime="40" />
+	</monster>
+	<monster centerx="1008" centery="747" centerz="7" radius="3">
+		<monster name="Lumbering Carnivor" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-1" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1015" centery="747" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1029" centery="747" centerz="7" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="2" y="1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1294" centery="747" centerz="7" radius="1">
 		<monster name="Lizard Chosen" x="0" y="0" z="7" spawntime="60" />
@@ -12756,6 +12508,23 @@
 	<monster centerx="384" centery="749" centerz="7" radius="1">
 		<monster name="Darklight Striker" x="0" y="1" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="469" centery="749" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Many Faces" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="924" centery="749" centerz="7" radius="1">
+		<monster name="Noble Lion" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="0" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1050" centery="749" centerz="7" radius="5">
+		<monster name="Spiky Carnivor" x="-1" y="-4" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="1" y="-4" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="4" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1111" centery="749" centerz="7" radius="3">
 		<monster name="Glooth Brigand" x="0" y="-1" z="7" spawntime="60" />
 	</monster>
@@ -12773,6 +12542,14 @@
 	</monster>
 	<monster centerx="354" centery="750" centerz="7" radius="1">
 		<monster name="Darklight Striker" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="426" centery="750" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="891" centery="750" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="0" y="1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="348" centery="751" centerz="7" radius="1">
 		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
@@ -12797,7 +12574,13 @@
 	<monster centerx="377" centery="752" centerz="7" radius="1">
 		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="437" centery="752" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="449" centery="752" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="513" centery="752" centerz="7" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="698" centery="752" centerz="7" radius="5">
@@ -12832,6 +12615,11 @@
 	<monster centerx="736" centery="754" centerz="7" radius="1">
 		<monster name="Minotaur" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="938" centery="754" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="1" y="1" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="323" centery="755" centerz="7" radius="1">
 		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -12849,6 +12637,16 @@
 		<monster name="Mirror Image" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="1" y="1" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="987" centery="755" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1001" centery="755" centerz="7" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-3" y="3" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1268" centery="755" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="90" />
 	</monster>
@@ -12860,6 +12658,15 @@
 	</monster>
 	<monster centerx="395" centery="756" centerz="7" radius="1">
 		<monster name="darklight matter" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="489" centery="756" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Many Faces" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1019" centery="756" centerz="7" radius="5">
+		<monster name="Spiky Carnivor" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="4" y="0" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="-2" y="1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1111" centery="756" centerz="7" radius="3">
 		<monster name="Glooth Brigand" x="-2" y="0" z="7" spawntime="60" />
@@ -12881,6 +12688,11 @@
 	<monster centerx="890" centery="757" centerz="7" radius="1">
 		<monster name="Dromedary" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="995" centery="757" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1288" centery="757" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="90" />
 	</monster>
@@ -12892,8 +12704,15 @@
 		<monster name="Mirror Image" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="0" y="1" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="922" centery="758" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="1" y="1" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="359" centery="759" centerz="7" radius="1">
 		<monster name="Darklight Source" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="468" centery="759" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="728" centery="759" centerz="7" radius="1">
 		<monster name="Minotaur" x="-1" y="0" z="7" spawntime="60" />
@@ -12939,6 +12758,13 @@
 		<monster name="Mirror Image" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Mirror Image" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="987" centery="761" centerz="7" radius="3">
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="1000" centery="761" centerz="7" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Lumbering Carnivor" x="0" y="-1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1299" centery="761" centerz="7" radius="1">
 		<monster name="Lizard Dragon Priest" x="0" y="-1" z="7" spawntime="90" />
@@ -13008,6 +12834,9 @@
 	</monster>
 	<monster centerx="323" centery="765" centerz="7" radius="1">
 		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="439" centery="765" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="480" centery="765" centerz="7" radius="1">
 		<monster name="Mirror Image" x="-1" y="-1" z="7" spawntime="60" />
@@ -13137,6 +12966,12 @@
 	<monster centerx="879" centery="772" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="951" centery="772" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="1" y="1" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1083" centery="772" centerz="7" radius="1">
 		<monster name="Glooth Bandit" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -13185,6 +13020,15 @@
 	</monster>
 	<monster centerx="397" centery="775" centerz="7" radius="1">
 		<monster name="darklight matter" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="439" centery="775" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="471" centery="775" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="482" centery="775" centerz="7" radius="1">
+		<monster name="Many Faces" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="486" centery="775" centerz="7" radius="1">
 		<monster name="Mirror Image" x="-1" y="0" z="7" spawntime="60" />
@@ -13296,6 +13140,11 @@
 	<monster centerx="1284" centery="782" centerz="7" radius="1">
 		<monster name="Lizard Legionnaire" x="0" y="0" z="7" spawntime="90" />
 	</monster>
+	<monster centerx="930" centery="783" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="1" y="1" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1084" centery="783" centerz="7" radius="3">
 		<monster name="Glooth Bandit" x="2" y="-3" z="7" spawntime="60" />
 	</monster>
@@ -13351,6 +13200,11 @@
 	</monster>
 	<monster centerx="405" centery="788" centerz="7" radius="1">
 		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="874" centery="788" centerz="7" radius="1">
+		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Noble Lion" x="1" y="1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1291" centery="788" centerz="7" radius="1">
 		<monster name="Lizard High Guard" x="0" y="0" z="7" spawntime="90" />
@@ -18167,6 +18021,10 @@
 	<monster centerx="458" centery="712" centerz="8" radius="1">
 		<monster name="Distorted Phantom" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="1015" centery="712" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="0" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="1" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="450" centery="713" centerz="8" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Mirror Image" x="1" y="0" z="8" spawntime="60" />
@@ -18243,6 +18101,17 @@
 	</monster>
 	<monster centerx="453" centery="719" centerz="8" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="980" centery="719" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1001" centery="719" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-2" y="1" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-3" y="2" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="3" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="2" y="3" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="469" centery="720" centerz="8" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="8" spawntime="60" />
@@ -18337,6 +18206,11 @@
 	<monster centerx="683" centery="725" centerz="8" radius="3">
 		<monster name="Demon" x="0" y="2" z="8" spawntime="90" />
 	</monster>
+	<monster centerx="1047" centery="725" centerz="8" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-1" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="0" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="2" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="495" centery="726" centerz="8" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Mirror Image" x="-1" y="1" z="8" spawntime="60" />
@@ -18354,6 +18228,12 @@
 	</monster>
 	<monster centerx="881" centery="726" centerz="8" radius="1">
 		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</monster>
+	<monster centerx="987" centery="726" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1017" centery="726" centerz="8" radius="1">
+		<monster name="Menacing Carnivor" x="1" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="508" centery="727" centerz="8" radius="1">
 		<monster name="Mirror Image" x="0" y="0" z="8" spawntime="60" />
@@ -18410,6 +18290,13 @@
 		<monster name="Mirror Image" x="-1" y="0" z="8" spawntime="60" />
 		<monster name="Many Faces" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="976" centery="731" centerz="8" radius="5">
+		<monster name="Spiky Carnivor" x="-4" y="-4" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="4" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="4" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-3" y="5" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="359" centery="732" centerz="8" radius="1">
 		<monster name="Darklight Emitter" x="0" y="0" z="8" spawntime="60" />
 	</monster>
@@ -18419,6 +18306,16 @@
 		<monster name="Mirror Image" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Mirror Image" x="1" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="1010" centery="732" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="1" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-2" y="2" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1035" centery="732" centerz="8" radius="5">
+		<monster name="Menacing Carnivor" x="-3" y="-3" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="-2" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="374" centery="733" centerz="8" radius="1">
 		<monster name="Wandering Pillar" x="0" y="0" z="8" spawntime="60" />
 	</monster>
@@ -18427,6 +18324,10 @@
 	</monster>
 	<monster centerx="436" centery="733" centerz="8" radius="1">
 		<monster name="Mirror Image" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="994" centery="733" centerz="8" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="0" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="2" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="370" centery="735" centerz="8" radius="1">
 		<monster name="Darklight Emitter" x="0" y="0" z="8" spawntime="60" />
@@ -18443,6 +18344,10 @@
 	</monster>
 	<monster centerx="362" centery="736" centerz="8" radius="1">
 		<monster name="Darklight Construct" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1053" centery="736" centerz="8" radius="5">
+		<monster name="Menacing Carnivor" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="2" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="480" centery="737" centerz="8" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="8" spawntime="60" />
@@ -18522,6 +18427,15 @@
 		<monster name="Mirror Image" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Mirror Image" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="1001" centery="740" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-2" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="-1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1022" centery="740" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-2" y="2" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="2" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="322" centery="742" centerz="8" radius="1">
 		<monster name="Darklight Construct" x="0" y="0" z="8" spawntime="60" />
 	</monster>
@@ -18530,6 +18444,10 @@
 	</monster>
 	<monster centerx="383" centery="743" centerz="8" radius="1">
 		<monster name="Converter" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="981" centery="743" centerz="8" radius="1">
+		<monster name="Menacing Carnivor" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="387" centery="744" centerz="8" radius="1">
 		<monster name="Darklight Construct" x="0" y="0" z="8" spawntime="60" />
@@ -18544,11 +18462,26 @@
 		<monster name="Mirror Image" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Mirror Image" x="1" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="1030" centery="746" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="2" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="350" centery="747" centerz="8" radius="1">
 		<monster name="Darklight Emitter" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="358" centery="747" centerz="8" radius="1">
 		<monster name="Darklight Construct" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1008" centery="747" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="1043" centery="747" centerz="8" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="2" z="8" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="2" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="361" centery="748" centerz="8" radius="1">
 		<monster name="Darklight Emitter" x="0" y="0" z="8" spawntime="60" />
@@ -19419,6 +19352,28 @@
 	<monster centerx="377" centery="813" centerz="8" radius="1">
 		<monster name="Darklight Emitter" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="747" centery="813" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="-2" y="1" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-1" y="1" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="0" y="1" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="1" y="1" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="1" z="8" spawntime="60" />
+		<monster name="Arachnophobica" x="0" y="2" z="8" spawntime="60" />
+		<monster name="Arachnophobica" x="1" y="3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="775" centery="813" centerz="8" radius="3">
+		<monster name="Arachnophobica" x="-3" y="-2" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="-2" y="-1" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-1" y="-1" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="0" y="-1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="796" centery="813" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="-3" y="-1" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="-2" y="2" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-1" y="2" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="0" y="2" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="1" y="2" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="877" centery="813" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
 	</monster>
@@ -19451,6 +19406,19 @@
 	<monster centerx="928" centery="819" centerz="8" radius="1">
 		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="747" centery="820" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="2" y="-3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="803" centery="820" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="-3" y="-3" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-2" y="-3" z="8" spawntime="60" />
+		<monster name="Arachnophobica" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Arachnophobica" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="2" y="0" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="3" y="0" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="2" y="1" z="8" spawntime="1200615680" />
+	</monster>
 	<monster centerx="857" centery="820" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
 	</monster>
@@ -19480,6 +19448,14 @@
 	</monster>
 	<monster centerx="908" centery="826" centerz="8" radius="1">
 		<monster name="Werelioness" x="0" y="-1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="719" centery="827" centerz="8" radius="3">
+		<monster name="Arachnophobica" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="-2" y="1" z="8" spawntime="60" />
+		<monster name="Arachnophobica" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="2" y="1" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="2" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="2" z="8" spawntime="1200615680" />
 	</monster>
 	<monster centerx="858" centery="827" centerz="8" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
@@ -19518,6 +19494,31 @@
 	<monster centerx="903" centery="833" centerz="8" radius="1">
 		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="705" centery="834" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="0" y="3" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="733" centery="834" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="2" y="0" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="1" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="1" y="2" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="2" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="1" y="3" z="8" spawntime="60" />
+		<monster name="Arachnophobica" x="3" y="3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="761" centery="834" centerz="8" radius="3">
+		<monster name="Gazer Spectre" x="3" y="2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="817" centery="834" centerz="8" radius="3">
+		<monster name="Arachnophobica" x="-3" y="-2" z="8" spawntime="60" />
+		<monster name="Arachnophobica" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="Arachnophobica" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="-2" y="0" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-2" y="1" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-2" y="2" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="862" centery="834" centerz="8" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
 	</monster>
@@ -19542,6 +19543,13 @@
 	<monster centerx="875" centery="835" centerz="8" radius="1">
 		<monster name="Werelioness" x="0" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="778" centery="836" centerz="8" radius="1">
+		<monster name="Gazer Spectre" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="1" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="893" centery="836" centerz="8" radius="1">
 		<monster name="White Lion" x="1" y="1" z="8" spawntime="60" />
 	</monster>
@@ -19552,6 +19560,17 @@
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Falcon Paladin" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Falcon Paladin" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="773" centery="837" centerz="8" radius="1">
+		<monster name="Gazer Spectre" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="781" centery="837" centerz="8" radius="1">
+		<monster name="Gazer Spectre" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="548" centery="838" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
@@ -19583,6 +19602,28 @@
 	</monster>
 	<monster centerx="573" centery="841" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="754" centery="841" centerz="8" radius="3">
+		<monster name="Gazer Spectre" x="2" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="768" centery="841" centerz="8" radius="3">
+		<monster name="Gazer Spectre" x="-3" y="-2" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-3" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-3" y="2" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-3" y="3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="782" centery="841" centerz="8" radius="3">
+		<monster name="Gazer Spectre" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="3" y="-1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="0" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="2" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="3" y="2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="810" centery="841" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="3" y="-1" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="2" y="2" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="3" z="8" spawntime="1200615680" />
 	</monster>
 	<monster centerx="871" centery="841" centerz="8" radius="1">
 		<monster name="Werelioness" x="1" y="1" z="8" spawntime="60" />
@@ -19638,6 +19679,12 @@
 	<monster centerx="580" centery="846" centerz="8" radius="1">
 		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="734" centery="846" centerz="8" radius="1">
+		<monster name="Ripper Spectre" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="1" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="868" centery="846" centerz="8" radius="1">
 		<monster name="Werelioness" x="1" y="0" z="8" spawntime="60" />
 	</monster>
@@ -19658,6 +19705,34 @@
 	</monster>
 	<monster centerx="578" centery="848" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="726" centery="848" centerz="8" radius="3">
+		<monster name="Gazer Spectre" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="3" y="-1" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="2" y="0" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="2" z="8" spawntime="60" />
+		<monster name="Arachnophobica" x="2" y="2" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="3" y="2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="747" centery="848" centerz="8" radius="3">
+		<monster name="Gazer Spectre" x="0" y="-2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="796" centery="848" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="0" y="-3" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="-2" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="2" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="810" centery="848" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="1" y="-3" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="-3" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-2" y="2" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="2" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="914" centery="848" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
@@ -19686,6 +19761,11 @@
 	</monster>
 	<monster centerx="578" centery="851" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="776" centery="851" centerz="8" radius="1">
+		<monster name="Gazer Spectre" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="910" centery="851" centerz="8" radius="1">
 		<monster name="White Lion" x="0" y="0" z="8" spawntime="60" />
@@ -19719,6 +19799,18 @@
 	<monster centerx="580" centery="855" centerz="8" radius="1">
 		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="705" centery="855" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="-1" y="3" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="747" centery="855" centerz="8" radius="3">
+		<monster name="Gazer Spectre" x="-1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="803" centery="855" centerz="8" radius="3">
+		<monster name="Gazer Spectre" x="-3" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="909" centery="855" centerz="8" radius="1">
 		<monster name="Werelion" x="0" y="0" z="8" spawntime="60" />
 	</monster>
@@ -19736,11 +19828,27 @@
 	<monster centerx="576" centery="857" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="766" centery="857" centerz="8" radius="1">
+		<monster name="Gazer Spectre" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="770" centery="857" centerz="8" radius="1">
+		<monster name="Gazer Spectre" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="1" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="551" centery="858" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="586" centery="858" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="772" centery="858" centerz="8" radius="1">
+		<monster name="Gazer Spectre" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="913" centery="858" centerz="8" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="8" spawntime="60" />
@@ -19748,17 +19856,49 @@
 	<monster centerx="576" centery="859" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="768" centery="859" centerz="8" radius="1">
+		<monster name="Gazer Spectre" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="1" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="572" centery="860" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="578" centery="860" centerz="8" radius="1">
 		<monster name="Falcon Paladin" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="733" centery="861" centerz="8" radius="3">
+		<monster name="Gazer Spectre" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-2" y="1" z="8" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-1" y="1" z="8" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="0" y="1" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="978" centery="861" centerz="8" radius="1">
 		<monster name="Behemoth" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Behemoth" x="1" y="0" z="8" spawntime="60" />
 		<monster name="Behemoth" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Behemoth" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="705" centery="862" centerz="8" radius="3">
+		<monster name="Gazer Spectre" x="0" y="-3" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="-1" z="8" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="0" z="8" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="1" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-1" y="2" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="2" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="803" centery="862" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="2" y="-1" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="0" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="3" y="0" z="8" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-2" y="1" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="3" y="1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-2" y="2" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="2" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-2" y="3" z="8" spawntime="1200615680" />
 	</monster>
 	<monster centerx="549" centery="863" centerz="8" radius="3">
 		<monster name="Falcon Knight" x="0" y="-1" z="8" spawntime="60" />
@@ -19805,6 +19945,20 @@
 	<monster centerx="568" centery="869" centerz="8" radius="1">
 		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="712" centery="869" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="-2" y="3" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="3" z="8" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="1" y="3" z="8" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="726" centery="869" centerz="8" radius="3">
+		<monster name="Gazer Spectre" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="-1" z="8" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="0" z="8" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="1" z="8" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="2" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="542" centery="870" centerz="8" radius="3">
 		<monster name="Falcon Knight" x="3" y="-3" z="8" spawntime="60" />
 	</monster>
@@ -19833,6 +19987,11 @@
 	</monster>
 	<monster centerx="567" centery="876" centerz="8" radius="1">
 		<monster name="Falcon Knight" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="712" centery="876" centerz="8" radius="3">
+		<monster name="Ripper Spectre" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="-2" z="8" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="-2" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="542" centery="877" centerz="8" radius="3">
 		<monster name="Falcon Knight" x="-1" y="-2" z="8" spawntime="60" />
@@ -21532,6 +21691,22 @@
 	<monster centerx="918" centery="699" centerz="9" radius="1">
 		<monster name="Exotic Cave Spider" x="0" y="0" z="9" spawntime="30" />
 	</monster>
+	<monster centerx="987" centery="712" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="994" centery="712" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1008" centery="712" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="-1" z="9" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1022" centery="712" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="3" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1029" centery="712" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="2" z="9" spawntime="60" />
+	</monster>
 	<monster centerx="437" centery="714" centerz="9" radius="1">
 		<monster name="Mirror Image" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Mirror Image" x="0" y="-1" z="9" spawntime="60" />
@@ -21564,6 +21739,19 @@
 	</monster>
 	<monster centerx="493" centery="719" centerz="9" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="987" centery="719" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1008" centery="719" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1029" centery="719" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="1" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1036" centery="719" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="9" spawntime="60" />
+		<monster name="Menacing Carnivor" x="3" y="3" z="9" spawntime="60" />
 	</monster>
 	<monster centerx="430" centery="720" centerz="9" radius="1">
 		<monster name="Distorted Phantom" x="0" y="0" z="9" spawntime="60" />
@@ -21617,6 +21805,17 @@
 		<monster name="Mirror Image" x="-1" y="1" z="9" spawntime="60" />
 		<monster name="Mirror Image" x="0" y="1" z="9" spawntime="60" />
 	</monster>
+	<monster centerx="987" centery="726" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="-3" y="-3" z="9" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1015" centery="726" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Menacing Carnivor" x="2" y="3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1029" centery="726" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="0" z="9" spawntime="60" />
+	</monster>
 	<monster centerx="514" centery="727" centerz="9" radius="1">
 		<monster name="Mirror Image" x="0" y="0" z="9" spawntime="60" />
 	</monster>
@@ -21652,6 +21851,26 @@
 	<monster centerx="485" centery="733" centerz="9" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Mirror Image" x="1" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="978" centery="733" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="-1" y="-2" z="9" spawntime="60" />
+		<monster name="Menacing Carnivor" x="1" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="994" centery="733" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1001" centery="733" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1008" centery="733" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1029" centery="733" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1043" centery="733" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="9" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="1" z="9" spawntime="60" />
 	</monster>
 	<monster centerx="471" centery="734" centerz="9" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="9" spawntime="60" />
@@ -21715,6 +21934,26 @@
 		<monster name="Many Faces" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Mirror Image" x="1" y="0" z="9" spawntime="60" />
 	</monster>
+	<monster centerx="987" centery="740" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="0" y="-3" z="9" spawntime="60" />
+		<monster name="Spiky Carnivor" x="3" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1001" centery="740" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="-1" y="-3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1008" centery="740" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-3" z="9" spawntime="60" />
+		<monster name="Spiky Carnivor" x="1" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1015" centery="740" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1029" centery="740" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1036" centery="740" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="2" z="9" spawntime="60" />
+	</monster>
 	<monster centerx="446" centery="743" centerz="9" radius="1">
 		<monster name="Distorted Phantom" x="0" y="0" z="9" spawntime="60" />
 		<monster name="Mirror Image" x="0" y="1" z="9" spawntime="60" />
@@ -21726,6 +21965,31 @@
 	</monster>
 	<monster centerx="470" centery="745" centerz="9" radius="1">
 		<monster name="Distorted Phantom" x="0" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="980" centery="747" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="2" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="987" centery="747" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="994" centery="747" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="-2" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1001" centery="747" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1008" centery="747" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="0" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1015" centery="747" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="1" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1022" centery="747" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1036" centery="747" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="3" y="-3" z="9" spawntime="60" />
+		<monster name="Spiky Carnivor" x="0" y="-2" z="9" spawntime="60" />
 	</monster>
 	<monster centerx="479" centery="751" centerz="9" radius="1">
 		<monster name="Many Faces" x="0" y="0" z="9" spawntime="60" />
@@ -21779,6 +22043,20 @@
 	</monster>
 	<monster centerx="913" centery="754" centerz="9" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="994" centery="754" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1001" centery="754" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="-3" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1015" centery="754" centerz="9" radius="3">
+		<monster name="Spiky Carnivor" x="-2" y="0" z="9" spawntime="60" />
+		<monster name="Spiky Carnivor" x="-1" y="3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="1029" centery="754" centerz="9" radius="3">
+		<monster name="Menacing Carnivor" x="2" y="-3" z="9" spawntime="60" />
+		<monster name="Menacing Carnivor" x="-1" y="0" z="9" spawntime="60" />
 	</monster>
 	<monster centerx="502" centery="755" centerz="9" radius="1">
 		<monster name="Mirror Image" x="1" y="-1" z="9" spawntime="60" />
@@ -22161,6 +22439,33 @@
 	<monster centerx="871" centery="812" centerz="9" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
 	</monster>
+	<monster centerx="775" centery="813" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="1" y="-2" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="-2" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="3" y="-2" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="-1" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="789" centery="813" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="-1" y="-3" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="-2" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="1" y="-2" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="803" centery="813" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="1" y="-3" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="810" centery="813" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="3" y="-3" z="9" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="817" centery="813" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="-1" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="824" centery="813" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="-2" y="-3" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="0" z="9" spawntime="60" />
+	</monster>
 	<monster centerx="847" centery="813" centerz="9" radius="1">
 		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
 	</monster>
@@ -22188,6 +22493,25 @@
 	<monster centerx="848" centery="819" centerz="9" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
 	</monster>
+	<monster centerx="719" centery="820" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="0" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="747" centery="820" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="-3" y="-1" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="754" centery="820" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="-3" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="782" centery="820" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="0" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="810" centery="820" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="-3" y="3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="824" centery="820" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="3" y="-2" z="9" spawntime="60" />
+	</monster>
 	<monster centerx="943" centery="820" centerz="9" radius="1">
 		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
 	</monster>
@@ -22206,6 +22530,11 @@
 	<monster centerx="876" centery="823" centerz="9" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
 	</monster>
+	<monster centerx="806" centery="824" centerz="9" radius="1">
+		<monster name="Gazer Spectre" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="1" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="1" y="1" z="9" spawntime="60" />
+	</monster>
 	<monster centerx="915" centery="825" centerz="9" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
 	</monster>
@@ -22218,6 +22547,24 @@
 	<monster centerx="926" centery="826" centerz="9" radius="1">
 		<monster name="Werelioness" x="1" y="-1" z="9" spawntime="60" />
 		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="712" centery="827" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="-2" y="1" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="1" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="-2" y="3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="788" centery="827" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="2" y="-3" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="-2" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="-1" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="0" z="9" spawntime="1200615680" />
+	</monster>
+	<monster centerx="796" centery="827" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="2" y="-3" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="-2" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="-1" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="0" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="-1" y="3" z="9" spawntime="60" />
 	</monster>
 	<monster centerx="919" centery="827" centerz="9" radius="1">
 		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
@@ -22251,6 +22598,37 @@
 	</monster>
 	<monster centerx="902" centery="833" centerz="9" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="705" centery="834" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="-1" y="1" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="-1" y="2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="0" y="2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="1" y="2" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="-2" y="3" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="-1" y="3" z="9" spawntime="1200615680" />
+	</monster>
+	<monster centerx="733" centery="834" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="-1" y="-3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="789" centery="834" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="2" y="0" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="0" y="1" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="0" y="2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="0" y="3" z="9" spawntime="1200615680" />
+	</monster>
+	<monster centerx="796" centery="834" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="-3" y="-3" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="1" y="1" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="2" y="1" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="3" y="1" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="1" y="2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="1" y="3" z="9" spawntime="1200615680" />
+	</monster>
+	<monster centerx="817" centery="834" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="-3" y="0" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="-2" y="1" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="-2" y="2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="-2" y="3" z="9" spawntime="1200615680" />
 	</monster>
 	<monster centerx="847" centery="834" centerz="9" radius="1">
 		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
@@ -22318,6 +22696,22 @@
 	<monster centerx="941" centery="840" centerz="9" radius="1">
 		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
 	</monster>
+	<monster centerx="775" centery="841" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="-2" y="0" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="-2" y="1" z="9" spawntime="1200615680" />
+	</monster>
+	<monster centerx="782" centery="841" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="2" y="0" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="-2" y="1" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="1" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="0" y="1" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="1" y="1" z="9" spawntime="1200615680" />
+	</monster>
+	<monster centerx="817" centery="841" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="3" y="-1" z="9" spawntime="60" />
+		<monster name="Ripper Spectre" x="0" y="0" z="9" spawntime="60" />
+	</monster>
 	<monster centerx="897" centery="841" centerz="9" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
 	</monster>
@@ -22350,6 +22744,12 @@
 	</monster>
 	<monster centerx="938" centery="847" centerz="9" radius="1">
 		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="768" centery="848" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="1" y="-2" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="0" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="1" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="2" z="9" spawntime="60" />
 	</monster>
 	<monster centerx="847" centery="849" centerz="9" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
@@ -22393,6 +22793,18 @@
 	<monster centerx="882" centery="854" centerz="9" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
 	</monster>
+	<monster centerx="733" centery="855" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="2" y="-3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="740" centery="855" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="-2" y="-1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="789" centery="855" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="2" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="796" centery="855" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="0" y="0" z="9" spawntime="60" />
+	</monster>
 	<monster centerx="874" centery="855" centerz="9" radius="1">
 		<monster name="Werelion" x="0" y="0" z="9" spawntime="60" />
 	</monster>
@@ -22422,6 +22834,77 @@
 	</monster>
 	<monster centerx="879" centery="859" centerz="9" radius="1">
 		<monster name="Werelioness" x="0" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="719" centery="862" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="-1" y="-2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="0" y="-2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="1" y="-2" z="9" spawntime="60" />
+		<monster name="Ripper Spectre" x="3" y="-2" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Ripper Spectre" x="3" y="-1" z="9" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="0" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="768" centery="862" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="2" y="-1" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="810" centery="862" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="-3" y="-3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="754" centery="869" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="-2" y="0" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="3" y="1" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="-3" y="2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="-2" y="2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="-1" y="2" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="768" centery="869" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="1" y="-1" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-2" y="0" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="0" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="1" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="775" centery="869" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="-2" y="0" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="-2" y="2" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="0" y="2" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="1" y="2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="2" y="2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="3" y="2" z="9" spawntime="1200615680" />
+	</monster>
+	<monster centerx="782" centery="869" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="-3" y="2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="-1" y="2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="796" centery="869" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="3" y="2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="803" centery="869" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="3" y="0" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="-3" y="1" z="9" spawntime="60" />
+		<monster name="Ripper Spectre" x="0" y="1" z="9" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="810" centery="869" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="-2" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="754" centery="876" centerz="9" radius="3">
+		<monster name="Gazer Spectre" x="2" y="-3" z="9" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="3" y="3" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="796" centery="876" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="2" y="-3" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="1" y="1" z="9" spawntime="60" />
+		<monster name="Burster Spectre" x="1" y="2" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="0" y="3" z="9" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="1" y="3" z="9" spawntime="1200615680" />
+	</monster>
+	<monster centerx="782" centery="883" centerz="9" radius="3">
+		<monster name="Ripper Spectre" x="-1" y="1" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="796" centery="883" centerz="9" radius="3">
+		<monster name="Burster Spectre" x="3" y="-2" z="9" spawntime="60" />
 	</monster>
 	<monster centerx="550" centery="358" centerz="10" radius="3">
 		<monster name="Spellreaper Inferniarch" x="-1" y="2" z="10" spawntime="60" />
@@ -23716,6 +24199,268 @@
 	<monster centerx="953" centery="573" centerz="10" radius="3">
 		<monster name="True Dawnfire Asura" x="-3" y="-3" z="10" spawntime="60" />
 		<monster name="True Midnight Asura" x="-1" y="-3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="754" centery="806" centerz="10" radius="3">
+		<monster name="Arachnophobica" x="-1" y="3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="775" centery="806" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="0" y="1" z="10" spawntime="60" />
+		<monster name="Arachnophobica" x="1" y="1" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="1" y="2" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="2" y="2" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="0" y="3" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="1" y="3" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="3" y="3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="789" centery="806" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="0" y="0" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="810" centery="806" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="3" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="817" centery="806" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="-3" y="1" z="10" spawntime="60" />
+		<monster name="Arachnophobica" x="-3" y="3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="712" centery="813" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="2" y="3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="719" centery="813" centerz="10" radius="3">
+		<monster name="Burster Spectre" x="-3" y="-2" z="10" spawntime="60" />
+		<monster name="Ripper Spectre" x="-3" y="1" z="10" spawntime="60" />
+		<monster name="Ripper Spectre" x="-3" y="2" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-2" y="2" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-1" y="2" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="0" y="2" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="1" y="2" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="2" y="3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="726" centery="813" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="-1" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="747" centery="813" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="-1" y="1" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="0" y="2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="1" y="2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-2" y="3" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="3" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="754" centery="813" centerz="10" radius="3">
+		<monster name="Arachnophobica" x="2" y="-2" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="2" y="0" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="3" y="1" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="761" centery="813" centerz="10" radius="3">
+		<monster name="Arachnophobica" x="-1" y="-3" z="10" spawntime="60" />
+		<monster name="Arachnophobica" x="-2" y="-1" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="-3" y="0" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="-3" y="1" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="2" y="1" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="-3" y="2" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="-2" y="2" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="775" centery="813" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="-1" y="-3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="789" centery="813" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="0" y="-3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="803" centery="813" centerz="10" radius="3">
+		<monster name="Burster Spectre" x="-3" y="-3" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="-1" y="-3" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="0" y="-3" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="1" y="-3" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="705" centery="820" centerz="10" radius="3">
+		<monster name="Arachnophobica" x="2" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="712" centery="820" centerz="10" radius="3">
+		<monster name="Arachnophobica" x="-2" y="-2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="726" centery="820" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="1" y="-2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="733" centery="820" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="1" y="2" z="10" spawntime="1200615680" />
+		<monster name="Arachnophobica" x="-2" y="3" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="3" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="740" centery="820" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="2" y="-3" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="-2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="-1" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="0" y="0" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="824" centery="820" centerz="10" radius="3">
+		<monster name="Arachnophobica" x="2" y="1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="733" centery="827" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="1" y="-3" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="1" y="-2" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="-3" y="1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="789" centery="827" centerz="10" radius="3">
+		<monster name="Arachnophobica" x="2" y="0" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="705" centery="834" centerz="10" radius="3">
+		<monster name="Ripper Spectre" x="-1" y="-2" z="10" spawntime="60" />
+		<monster name="Ripper Spectre" x="-2" y="2" z="10" spawntime="60" />
+		<monster name="Ripper Spectre" x="-2" y="3" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="769" centery="837" centerz="10" radius="1">
+		<monster name="Gazer Spectre" x="-1" y="-1" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="0" y="-1" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="1" y="-1" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-1" y="0" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="0" y="0" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="1" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="0" y="1" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="705" centery="841" centerz="10" radius="3">
+		<monster name="Ripper Spectre" x="-2" y="-3" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-1" y="-3" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="-1" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="775" centery="841" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="-1" y="-3" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-1" y="-2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-1" y="-1" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="782" centery="841" centerz="10" radius="3">
+		<monster name="Ripper Spectre" x="-2" y="2" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="-1" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="698" centery="848" centerz="10" radius="3">
+		<monster name="Ripper Spectre" x="2" y="-2" z="10" spawntime="60" />
+		<monster name="Ripper Spectre" x="2" y="-1" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="0" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="2" y="3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="733" centery="848" centerz="10" radius="3">
+		<monster name="Ripper Spectre" x="0" y="-2" z="10" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="0" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="-3" y="1" z="10" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="1" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="1" y="2" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="768" centery="848" centerz="10" radius="3">
+		<monster name="Burster Spectre" x="1" y="-2" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="1" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="1" y="3" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="810" centery="848" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="0" y="0" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="2" y="0" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="0" y="1" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="0" y="2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="719" centery="855" centerz="10" radius="3">
+		<monster name="Burster Spectre" x="2" y="0" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="1" y="1" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="2" y="1" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="2" y="2" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="2" y="3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="733" centery="855" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="3" y="-1" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="-1" y="0" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="1" y="1" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="1" y="2" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="0" y="3" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="1" y="3" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="740" centery="855" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="0" y="-2" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="-2" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="-3" y="-1" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-2" y="-1" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-1" y="-1" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="768" centery="855" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="1" y="-3" z="10" spawntime="1200615680" />
+		<monster name="Arachnophobica" x="-3" y="0" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="2" y="0" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="2" y="1" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="-1" y="2" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="2" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="712" centery="862" centerz="10" radius="3">
+		<monster name="Burster Spectre" x="0" y="0" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="719" centery="862" centerz="10" radius="3">
+		<monster name="Ripper Spectre" x="-1" y="-3" z="10" spawntime="60" />
+		<monster name="Ripper Spectre" x="1" y="-2" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="3" y="-1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="733" centery="862" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="2" y="0" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="733" centery="869" centerz="10" radius="3">
+		<monster name="Burster Spectre" x="2" y="2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="789" centery="869" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="0" y="1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="803" centery="869" centerz="10" radius="3">
+		<monster name="Arachnophobica" x="-1" y="3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="810" centery="869" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="1" y="-1" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="0" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="1" y="1" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="1" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-1" y="2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="0" y="2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="1" y="2" z="10" spawntime="1200615680" />
+	</monster>
+	<monster centerx="817" centery="869" centerz="10" radius="3">
+		<monster name="Burster Spectre" x="-2" y="-2" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="-2" y="-1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="698" centery="876" centerz="10" radius="3">
+		<monster name="Ripper Spectre" x="2" y="-2" z="10" spawntime="60" />
+		<monster name="Ripper Spectre" x="2" y="-1" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="0" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="2" y="1" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="3" y="1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="733" centery="876" centerz="10" radius="3">
+		<monster name="Ripper Spectre" x="-1" y="-3" z="10" spawntime="60" />
+		<monster name="Ripper Spectre" x="-2" y="-2" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-1" y="-2" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-2" y="-1" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-2" y="0" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-2" y="1" z="10" spawntime="1200615680" />
+		<monster name="Ripper Spectre" x="-2" y="2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="2" y="2" z="10" spawntime="60" />
+		<monster name="Arachnophobica" x="0" y="3" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="740" centery="876" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="-1" y="-1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="747" centery="876" centerz="10" radius="3">
+		<monster name="Burster Spectre" x="1" y="-2" z="10" spawntime="60" />
+		<monster name="Burster Spectre" x="2" y="-2" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="782" centery="876" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="1" y="-2" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="2" y="-2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="3" y="-2" z="10" spawntime="1200615680" />
+		<monster name="Burster Spectre" x="-3" y="-1" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="-1" y="-1" z="10" spawntime="60" />
+	</monster>
+	<monster centerx="789" centery="876" centerz="10" radius="3">
+		<monster name="Gazer Spectre" x="-1" y="-3" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="0" y="-3" z="10" spawntime="1200615680" />
+		<monster name="Arachnophobica" x="2" y="-3" z="10" spawntime="60" />
+		<monster name="Gazer Spectre" x="-3" y="-2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-2" y="-2" z="10" spawntime="1200615680" />
+		<monster name="Gazer Spectre" x="-1" y="-2" z="10" spawntime="1200615680" />
 	</monster>
 	<monster centerx="544" centery="332" centerz="11" radius="1">
 		<monster name="Imp Minion" x="0" y="0" z="11" spawntime="60" />

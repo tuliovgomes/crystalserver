@@ -1,24 +1,24 @@
 local config = {
 	boss = {
 		name = "Faceless Bane",
-		position = Position(33617, 32561, 13),
+		position = Position(763, 878, 8),
 	},
 	requiredLevel = 250,
 	timeToDefeat = 15 * 60,
 	playerPositions = {
-		{ pos = Position(33638, 32562, 13), teleport = Position(33617, 32567, 13), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33639, 32562, 13), teleport = Position(33617, 32567, 13), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33640, 32562, 13), teleport = Position(33617, 32567, 13), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33641, 32562, 13), teleport = Position(33617, 32567, 13), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33642, 32562, 13), teleport = Position(33617, 32567, 13), effect = CONST_ME_TELEPORT },
+		{ pos = Position(789, 878, 8), teleport = Position(768, 883, 8), effect = CONST_ME_TELEPORT },
+		{ pos = Position(790, 878, 8), teleport = Position(768, 883, 8), effect = CONST_ME_TELEPORT },
+		{ pos = Position(791, 878, 8), teleport = Position(768, 883, 8), effect = CONST_ME_TELEPORT },
+		{ pos = Position(792, 878, 8), teleport = Position(768, 883, 8), effect = CONST_ME_TELEPORT },
+		{ pos = Position(793, 878, 8), teleport = Position(768, 883, 8), effect = CONST_ME_TELEPORT },
 	},
 	specPos = {
-		from = Position(33607, 32553, 13),
-		to = Position(33627, 32570, 13),
+		from = Position(757, 869, 8),
+		to = Position(779, 886, 8),
 	},
-	exit = Position(33618, 32523, 15),
+	exit = Position(789, 880, 8),
 }
 
 local lever = BossLever(config)
-lever:uid(1039)
+lever:position(Position(788, 878, 8))
 lever:register()

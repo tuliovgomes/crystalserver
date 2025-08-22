@@ -1,25 +1,23 @@
 local config = {
-	boss = { name = "Timira the Many-Headed" },
-	encounter = "Timira the Many-Headed",
+	boss = { 
+		name = "Timira the Many-Headed",
+		position = Position(1400, 1124, 7)
+	},
 	requiredLevel = 250,
 	playerPositions = {
-		{ pos = Position(33809, 32702, 8), teleport = Position(33787, 32680, 10), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33808, 32702, 8), teleport = Position(33787, 32680, 10), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33807, 32702, 8), teleport = Position(33787, 32680, 10), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33806, 32702, 8), teleport = Position(33787, 32680, 10), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33805, 32702, 8), teleport = Position(33787, 32680, 10), effect = CONST_ME_TELEPORT },
+		{ pos = Position(1391, 1143, 7), teleport = Position(1396, 1122, 7), effect = CONST_ME_TELEPORT },
+		{ pos = Position(1392, 1143, 7), teleport = Position(1396, 1122, 7), effect = CONST_ME_TELEPORT },
+		{ pos = Position(1393, 1143, 7), teleport = Position(1396, 1122, 7), effect = CONST_ME_TELEPORT },
+		{ pos = Position(1394, 1143, 7), teleport = Position(1396, 1122, 7), effect = CONST_ME_TELEPORT },
+		{ pos = Position(1395, 1143, 7), teleport = Position(1396, 1122, 7), effect = CONST_ME_TELEPORT },
 	},
 	specPos = {
-		from = Position(33803, 32690, 9),
-		to = Position(33828, 32715, 9),
+		from = Position(1388, 1114, 7),
+		to = Position(1406, 1131, 7),
 	},
-	exit = Position(33810, 32699, 8),
+	exit = Position(1395, 1140, 7),
 }
 
 local lever = BossLever(config)
-lever:position({ x = 33810, y = 32702, z = 8 })
+lever:position(Position(1396, 1143, 7))
 lever:register()
-
-local zone = lever:getZone()
-zone:addArea({ x = 33777, y = 32673, z = 10 }, { x = 33801, y = 32700, z = 10 })
-zone:addArea({ x = 33784, y = 32701, z = 9 }, { x = 33806, y = 32716, z = 9 })

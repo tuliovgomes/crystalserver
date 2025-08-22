@@ -1,23 +1,23 @@
 local config = {
 	boss = {
 		name = "Ratmiral Blackwhiskers",
-		position = Position(33904, 31351, 14),
+		position = Position(1349, 1170, 6),
 	},
 	requiredLevel = 250,
 	playerPositions = {
-		{ pos = Position(33893, 31388, 15), teleport = Position(33904, 31356, 14), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33894, 31388, 15), teleport = Position(33904, 31356, 14), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33895, 31388, 15), teleport = Position(33904, 31356, 14), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33896, 31388, 15), teleport = Position(33904, 31356, 14), effect = CONST_ME_TELEPORT },
-		{ pos = Position(33897, 31388, 15), teleport = Position(33904, 31356, 14), effect = CONST_ME_TELEPORT },
+		{ pos = Position(1338, 1206, 7), teleport = Position(1348, 1175, 6), effect = CONST_ME_TELEPORT },
+		{ pos = Position(1339, 1206, 7), teleport = Position(1348, 1175, 6), effect = CONST_ME_TELEPORT },
+		{ pos = Position(1340, 1206, 7), teleport = Position(1348, 1175, 6), effect = CONST_ME_TELEPORT },
+		{ pos = Position(1341, 1206, 7), teleport = Position(1348, 1175, 6), effect = CONST_ME_TELEPORT },
+		{ pos = Position(1342, 1206, 7), teleport = Position(1348, 1175, 6), effect = CONST_ME_TELEPORT },
 	},
 	specPos = {
-		from = Position(33888, 31344, 14),
-		to = Position(33920, 31376, 15),
+		from = Position(1340, 1160, 6),
+		to = Position(1367, 1178, 6),
 	},
-	exit = Position(33891, 31197, 7),
+	exit = Position(1344, 1206, 7),
 }
 
 local lever = BossLever(config)
-lever:position(Position(33892, 31388, 15))
+lever:position(Position(1337, 1206, 7))
 lever:register()
