@@ -1,5 +1,5 @@
 local config = {
-	boss = { 
+	boss = {
 		name = "Valaraukar",
 		position = Position(698, 783, 7)
 	},
@@ -18,5 +18,5 @@ local config = {
 }
 
 local lever = BossLever(config)
-lever:position(Position(774, 708, 6))
+lever:aid(55615)
 lever:register()

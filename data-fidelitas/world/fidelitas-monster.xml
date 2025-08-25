@@ -2441,7 +2441,7 @@
 		<monster name="Goshnar's Malice" x="-3" y="3" z="5" spawntime="60" direction="1" />
 		<monster name="Goshnar's Hatred" x="3" y="3" z="5" spawntime="60" direction="3" />
 		<monster name="Goshnar's Spite" x="-3" y="5" z="5" spawntime="60" direction="1" />
-		<monster name="Goshnar's Megalomania" x="3" y="5" z="5" spawntime="60" direction="3" />
+		<monster name="Goshnar's Megalomania Purple" x="3" y="5" z="5" spawntime="60" direction="3" />
 	</monster>
 	<monster centerx="909" centery="993" centerz="5" radius="3">
 		<monster name="Cobra Vizier" x="2" y="-2" z="5" spawntime="60" />

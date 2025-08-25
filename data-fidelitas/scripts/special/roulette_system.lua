@@ -21,18 +21,29 @@ local config = {
         {id = 34109, minCount = 1, maxCount = 1, chance = 1, raro = true},
         {id = 39546, minCount = 1, maxCount = 1, chance = 1, raro = true},
         {id = 22118, minCount = 50, maxCount = 150, chance = 1, raro = true},
-        {id = 9803, minCount = 1, maxCount = 1, chance = 1, raro = true},
-        {id = 37061, minCount = 1, maxCount = 1, chance = 1, raro = true},
+        {id = 36725, minCount = 1, maxCount = 1, chance = 1, raro = true},
         {id = 3043, minCount = 1, maxCount = 5, chance = 4},
-        {id = 3587, minCount = 10, maxCount = 30, chance = 8},
         {id = 37110, minCount = 1, maxCount = 1, chance = 4},
-        {id = 645, minCount = 1, maxCount = 1, chance = 6},
-        {id = 3423, minCount = 1, maxCount = 1, chance = 1},
-        {id = 6529, minCount = 1, maxCount = 1, chance = 4},
-        {id = 3363, minCount = 1, maxCount = 1, chance = 4},
-        {id = 34326, minCount = 1, maxCount = 1, chance = 0.5, raro = true}
+        {id = 37335, minCount = 1, maxCount = 1, chance = 4},
+        {id = 37337, minCount = 1, maxCount = 1, chance = 4},
+        {id = 37338, minCount = 1, maxCount = 1, chance = 4},
+        {id = 31633, minCount = 1, maxCount = 1, chance = 2},
+        {id = 36729, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36730, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36731, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36732, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36733, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36734, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36735, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36736, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36737, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36738, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36739, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36740, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36741, minCount = 1, maxCount = 3, chance = 3},
+        {id = 36742, minCount = 1, maxCount = 3, chance = 3},
     },
-    ultraRareItems = {37317, 34109, 39546, 34326, 3587},
+    ultraRareItems = {37317, 34109, 39546},
     ultraRareChatChannel = 15
 }
 
@@ -137,7 +148,7 @@ local function rouletteAction(player)
     isRouletteRunning = true
     clearItems()
     
-    local steps = 10 + math.random(5, 10)
+    local steps = 9 + math.random(5, 8)
     local interval = 25
     
     local currentItem = getRandomItem()
