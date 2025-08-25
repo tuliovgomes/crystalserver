@@ -6,7 +6,7 @@ local config = {
         active = 30411
     },
     positions = {
-        {x = 807, y = 831, z = 6}, -- primeira posição
+        {x = 807, y = 831, z = 6}, -- 1ª posição
         {x = 808, y = 831, z = 6},
         {x = 809, y = 831, z = 6},
         {x = 810, y = 831, z = 6},
@@ -14,7 +14,7 @@ local config = {
         {x = 812, y = 831, z = 6},
         {x = 813, y = 831, z = 6},
         {x = 814, y = 831, z = 6},
-        {x = 815, y = 831, z = 6} -- Última posição
+        {x = 815, y = 831, z = 6}  -- Última posição
     },
     items = {
         {id = 37317, minCount = 1, maxCount = 2, chance = 1, raro = true},
@@ -47,6 +47,9 @@ local config = {
     ultraRareChatChannel = 15
 }
 
+-- Índice do centro calculado dinamicamente
+local CENTER_INDEX = math.ceil(#config.positions / 2) -- para 9 posições, dá 5
+
 local isRouletteRunning = false
 
 local function revertLever(position)
@@ -63,24 +66,12 @@ local function getRandomCount(item)
     return item.count or 1
 end
 
--- Nova função para limpar apenas a última posição
-local function clearLastPosition()
-    local lastPos = config.positions[#config.positions]
-    local tile = Tile(Position(lastPos))
-    if tile then
-        local item = tile:getTopDownItem()
-        if item then
-            item:remove()
-        end
-    end
-end
-
 local function addItemToPlayer(player, item)
     local count = getRandomCount(item)
     player:addItem(item.id, count)
-    player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "Parabens! Voce Ganhou " .. count .. "x " .. ItemType(item.id):getName() .. "!")
+    player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "Parabéns! Você ganhou " .. count .. "x " .. ItemType(item.id):getName() .. "!")
     player:getPosition():sendMagicEffect(CONST_ME_FIREWORK_RED)
-    
+
     if table.contains(config.ultraRareItems, item.id) then
         local message = player:getName() .. " ganhou um item ULTRA RARO: " .. count .. "x " .. ItemType(item.id):getName() .. " na roleta!"
         sendChannelMessage(config.ultraRareChatChannel, TALKTYPE_CHANNEL_Y, message)
@@ -92,26 +83,25 @@ end
 
 local function getRandomItem()
     local totalWeight = 0
-    for _, item in ipairs(config.items) do
-        totalWeight = totalWeight + item.chance
+    for _, it in ipairs(config.items) do
+        totalWeight = totalWeight + it.chance
     end
-    
     local randomWeight = math.random() * totalWeight
     local cumulativeWeight = 0
-    for _, item in ipairs(config.items) do
-        cumulativeWeight = cumulativeWeight + item.chance
+    for _, it in ipairs(config.items) do
+        cumulativeWeight = cumulativeWeight + it.chance
         if randomWeight <= cumulativeWeight then
-            return item
+            return it
         end
     end
 end
 
 local function moveItems()
     for i = #config.positions, 2, -1 do
-        local tile = Tile(config.positions[i - 1])
-        local item = tile and tile:getTopDownItem()
-        if item then
-            item:moveTo(config.positions[i])
+        local fromTile = Tile(Position(config.positions[i - 1]))
+        local top = fromTile and fromTile:getTopDownItem()
+        if top then
+            top:moveTo(Position(config.positions[i]))
         end
     end
 end
@@ -120,10 +110,10 @@ local function clearItems()
     for _, pos in ipairs(config.positions) do
         local tile = Tile(Position(pos))
         if tile then
-            local item = tile:getTopDownItem()
-            while item do
-                item:remove()
-                item = tile:getTopDownItem()
+            local top = tile:getTopDownItem()
+            while top do
+                top:remove()
+                top = tile:getTopDownItem()
             end
         end
     end
@@ -136,9 +126,9 @@ local function createItemWithEffect(position, item)
 end
 
 local function getItemConfigById(itemId)
-    for _, item in ipairs(config.items) do
-        if item.id == itemId then
-            return item
+    for _, it in ipairs(config.items) do
+        if it.id == itemId then
+            return it
         end
     end
     return nil
@@ -147,37 +137,43 @@ end
 local function rouletteAction(player)
     isRouletteRunning = true
     clearItems()
-    
+
     local steps = 9 + math.random(5, 8)
     local interval = 25
-    
+
     local currentItem = getRandomItem()
     createItemWithEffect(config.positions[1], currentItem)
-    
+
     for i = 1, steps do
         addEvent(function()
             moveItems()
             if i == steps then
-                local winningItem = Tile(Position(config.positions[4])):getTopDownItem()
+                -- Sempre captura o item do MEIO como vencedor
+                local centerPos = Position(config.positions[CENTER_INDEX])
+                local winningItem = Tile(centerPos):getTopDownItem()
                 if winningItem then
                     clearItems()
-                    
-                    -- Mostrar itens em todas as posições
+
+                    -- Mostrar o item vencedor em todas as posições (efeito visual)
                     for _, pos in ipairs(config.positions) do
-                        createItemWithEffect(pos, {id = winningItem:getId(), minCount = winningItem:getCount(), maxCount = winningItem:getCount()})
+                        createItemWithEffect(pos, {
+                            id = winningItem:getId(),
+                            minCount = winningItem:getCount(),
+                            maxCount = winningItem:getCount()
+                        })
                     end
-                    
-                    -- Entregar item e efeitos
+
+                    -- Entregar recompensa com base na configuração do item
                     local itemConfig = getItemConfigById(winningItem:getId())
                     if itemConfig then
                         addItemToPlayer(player, itemConfig)
-                        
+
                         -- Fogos em todas as posições
                         for _, pos in ipairs(config.positions) do
                             Position(pos):sendMagicEffect(CONST_ME_FIREWORK_YELLOW)
                         end
-                        
-                        -- Limpar apenas o último item após 1 segundos
+
+                        -- Limpeza após 1s
                         addEvent(function()
                             clearItems()
                         end, 1000)
@@ -185,19 +181,22 @@ local function rouletteAction(player)
                 end
                 isRouletteRunning = false
             else
-                local lastPositionTile = Tile(Position(config.positions[#config.positions]))
-                if lastPositionTile then
-                    local lastItem = lastPositionTile:getTopDownItem()
+                -- Remove o último da fila e dá um puff
+                local lastPos = Position(config.positions[#config.positions])
+                local lastTile = Tile(lastPos)
+                if lastTile then
+                    local lastItem = lastTile:getTopDownItem()
                     if lastItem then
                         lastItem:remove()
-                        Position(config.positions[#config.positions]):sendMagicEffect(CONST_ME_POFF)
+                        lastPos:sendMagicEffect(CONST_ME_POFF)
                     end
                 end
+                -- Adiciona um novo item no início
                 currentItem = getRandomItem()
                 createItemWithEffect(config.positions[1], currentItem)
             end
         end, i * interval)
-        
+
         interval = interval + 25
     end
 end
@@ -209,15 +208,16 @@ function rouletteLever.onUse(player, item, fromPosition, target, toPosition, isH
         player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "Roleta funcionando. Por favor, espere.")
         return false
     end
-    
+
     if fromPosition == config.leverPosition then
         if player:removeItem(config.requiredItemId, 1) then
             item:transform(config.leverIds.active)
-            addEvent(revertLever, 5 * 1000, toPosition)
+            -- Corrigido: reverte a alavanca usando a posição correta da alavanca
+            addEvent(revertLever, 5 * 1000, config.leverPosition)
             rouletteAction(player)
             return true
         else
-            player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "Precisa de um Tigrinho token para acionar a roleta.")
+            player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "Você precisa de um Tigrinho token para acionar a roleta.")
             return false
         end
     end
