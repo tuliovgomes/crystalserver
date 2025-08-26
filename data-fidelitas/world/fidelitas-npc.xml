@@ -1,89 +1,38 @@
 <?xml version="1.0"?>
 <npcs>
-	<npc centerx="1445" centery="490" centerz="5" radius="1">
-		<npc name="Eruaran" x="0" y="0" z="5" spawntime="60" />
-	</npc>
-	<npc centerx="1363" centery="621" centerz="5" radius="1">
-		<npc name="Mortis" x="0" y="0" z="5" spawntime="60" />
-	</npc>
-	<npc centerx="743" centery="649" centerz="5" radius="10">
-		<npc name="Imbuement Assistant" x="0" y="-8" z="5" spawntime="60" />
-		<npc name="Haroun" x="-8" y="-2" z="5" spawntime="60" />
-		<npc name="Yaman" x="8" y="-1" z="5" spawntime="60" />
-	</npc>
-	<npc centerx="1455" centery="462" centerz="6" radius="1">
-		<npc name="Morax" x="0" y="0" z="6" spawntime="60" />
-	</npc>
-	<npc centerx="1342" centery="481" centerz="6" radius="1">
-		<npc name="Zedrulon The Fallen" x="0" y="0" z="6" spawntime="60" />
-	</npc>
-	<npc centerx="1543" centery="494" centerz="6" radius="1">
-		<npc name="Dream Butterfly" x="0" y="0" z="6" spawntime="60" />
-	</npc>
 	<npc centerx="759" centery="515" centerz="6" radius="1">
-		<npc name="banker" x="0" y="1" z="6" spawntime="60" />
+		<npc name="Paulie" x="0" y="1" z="6" spawntime="60" />
 	</npc>
-	<npc centerx="744" centery="654" centerz="6" radius="15">
-		<npc name="Rashid of Island" x="7" y="-7" z="6" spawntime="60" />
-		<npc name="Alesar" x="-9" y="-2" z="6" spawntime="60" />
-		<npc name="Yasir" x="7" y="-1" z="6" spawntime="60" />
-		<npc name="Nah'Bob" x="-8" y="4" z="6" spawntime="60" />
-		<npc name="Esrik" x="6" y="5" z="6" spawntime="60" />
+	<npc centerx="762" centery="685" centerz="6" radius="1">
+		<npc name="Alice" x="0" y="0" z="6" spawntime="60" />
 	</npc>
-	<npc centerx="1340" centery="482" centerz="7" radius="1">
-		<npc name="..." x="0" y="0" z="7" spawntime="60" />
+	<npc centerx="766" centery="724" centerz="6" radius="1">
+		<npc name="Cledwyn" x="0" y="0" z="6" spawntime="60" />
 	</npc>
 	<npc centerx="1369" centery="501" centerz="7" radius="1">
-		<npc name="Asnarus" x="0" y="0" z="7" spawntime="60" />
-	</npc>
-	<npc centerx="1353" centery="503" centerz="7" radius="1">
-		<npc name="Auron" x="0" y="0" z="7" spawntime="60" />
-	</npc>
-	<npc centerx="1386" centery="506" centerz="7" radius="1">
-		<npc name="Siestaar" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Dark Rodo" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="759" centery="517" centerz="7" radius="1">
-		<npc name="Isaias" x="0" y="0" z="7" spawntime="60" />
+		<npc name="adolfo" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="743" centery="654" centerz="7" radius="10">
-		<npc name="Hanna" x="-8" y="-7" z="7" spawntime="60" />
-		<npc name="Archery" x="7" y="4" z="7" spawntime="60" />
-		<npc name="Lailene" x="-7" y="5" z="7" spawntime="60" />
+		<npc name="Maria" x="-8" y="-7" z="7" spawntime="60" />
+		<npc name="Nist Merchant" x="8" y="-7" z="7" spawntime="60" />
+		<npc name="Steven" x="-8" y="-1" z="7" spawntime="60" />
+		<npc name="Imbuement Assistant" x="8" y="-1" z="7" spawntime="60" />
+		<npc name="Roger" x="7" y="4" z="7" spawntime="60" />
+		<npc name="seller" x="-7" y="5" z="7" spawntime="60" />
 	</npc>
-	<npc centerx="1324" centery="667" centerz="7" radius="1">
-		<npc name="Gederas" x="0" y="0" z="7" spawntime="60" />
+	<npc centerx="756" centery="721" centerz="7" radius="1">
+		<npc name="Paulie" x="0" y="0" z="7" spawntime="60" />
 	</npc>
-	<npc centerx="1333" centery="671" centerz="7" radius="1">
-		<npc name="Sandomo" x="0" y="0" z="7" spawntime="60" />
+	<npc centerx="762" centery="725" centerz="7" radius="1">
+		<npc name="orlan" x="0" y="0" z="7" spawntime="60" />
 	</npc>
-	<npc centerx="1349" centery="680" centerz="7" radius="1">
-		<npc name="Maun" x="0" y="0" z="7" spawntime="60" />
+	<npc centerx="776" centery="728" centerz="7" radius="1">
+		<npc name="adolfo" x="0" y="0" z="7" spawntime="60" />
 	</npc>
-	<npc centerx="1321" centery="686" centerz="7" radius="1">
-		<npc name="Captain Chelop" x="0" y="0" z="7" spawntime="60" />
-	</npc>
-	<npc centerx="465" centery="1052" centerz="7" radius="1">
-		<npc name="Gnomish Operative (Volcano)" x="0" y="0" z="7" spawntime="60" />
-	</npc>
-	<npc centerx="589" centery="471" centerz="8" radius="1">
-		<npc name="Ortelio" x="1" y="0" z="8" spawntime="60" />
-	</npc>
-	<npc centerx="737" centery="862" centerz="8" radius="1">
-		<npc name="Emberwing" x="0" y="0" z="8" spawntime="60" />
-	</npc>
-	<npc centerx="615" centery="872" centerz="8" radius="1">
-		<npc name="Oberon'S Bile" x="0" y="0" z="8" spawntime="60" />
-	</npc>
-	<npc centerx="621" centery="872" centerz="8" radius="1">
-		<npc name="Oberon'S Hate" x="0" y="0" z="8" spawntime="60" />
-	</npc>
-	<npc centerx="615" centery="876" centerz="8" radius="1">
-		<npc name="Oberon'S Spite" x="0" y="0" z="8" spawntime="60" />
-	</npc>
-	<npc centerx="621" centery="876" centerz="8" radius="1">
-		<npc name="Oberon'S Ire" x="0" y="0" z="8" spawntime="60" />
-	</npc>
-	<npc centerx="588" centery="336" centerz="11" radius="1">
-		<npc name="The Forgemaster" x="0" y="0" z="11" spawntime="60" />
+	<npc centerx="743" centery="732" centerz="7" radius="1">
+		<npc name="Larek" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 </npcs>

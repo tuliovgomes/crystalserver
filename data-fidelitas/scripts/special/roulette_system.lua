@@ -213,7 +213,7 @@ function rouletteLever.onUse(player, item, fromPosition, target, toPosition, isH
         if player:removeItem(config.requiredItemId, 1) then
             item:transform(config.leverIds.active)
             -- Corrigido: reverte a alavanca usando a posição correta da alavanca
-            addEvent(revertLever, 5 * 1000, config.leverPosition)
+            addEvent(revertLever, 15 * 1000, config.leverPosition)
             rouletteAction(player)
             return true
         else
