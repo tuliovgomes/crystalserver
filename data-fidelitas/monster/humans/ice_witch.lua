@@ -2,7 +2,7 @@ local mType = Game.createMonsterType("Ice Witch")
 local monster = {}
 
 monster.description = "an ice witch"
-monster.experience = 580
+monster.experience = 880
 monster.outfit = {
 	lookType = 149,
 	lookHead = 0,

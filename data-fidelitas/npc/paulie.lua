@@ -11,12 +11,12 @@ npcConfig.walkInterval = 0
 npcConfig.walkRadius = 2
 
 npcConfig.outfit = {
-	lookType = 128,
-	lookHead = 78,
-	lookBody = 86,
-	lookLegs = 114,
-	lookFeet = 116,
-	lookAddons = 0,
+	lookType = 151,
+	lookHead = 97,
+	lookBody = 19,
+	lookLegs = 124,
+	lookFeet = 115,
+	lookAddons = 1,
 }
 
 npcConfig.flags = {
@@ -26,7 +26,9 @@ npcConfig.flags = {
 npcConfig.voices = {
 	interval = 15000,
 	chance = 50,
-	{ text = "Don't forget to deposit your money here in the Global Bank before you head out for adventure.", yell = false },
+	{ text = "Waste not, want not!" },
+	{ text = "Don't burden yourself with too much cash - store it here!" },
+	{ text = "Don't take the money and run - deposit it and walk instead!" },
 }
 
 local keywordHandler = KeywordHandler:new()
@@ -60,13 +62,7 @@ local count = {}
 
 local function greetCallback(npc, creature)
 	local playerId = creature:getId()
-	local player = Player(creature)
-	-- Mission 8: The Rookie Guard Quest
-	if player:getStorageValue(Storage.Quest.U9_1.TheRookieGuard.Mission08) == 1 then
-		npcHandler:setMessage(MESSAGE_GREET, "Welcome |PLAYERNAME|! Special newcomer offer, today only! Deposit some money - or {deposit ALL} of your money! - and get 50 gold for free!")
-	else
-		npcHandler:setMessage(MESSAGE_GREET, "Yes? What may I do for you, |PLAYERNAME|? Bank business, perhaps?")
-	end
+	count[playerId] = nil
 	return true
 end
 
@@ -158,15 +154,6 @@ local function creatureSayCallback(npc, creature, type, message)
 		end
 	elseif npcHandler:getTopic(playerId) == 2 then
 		if MsgContains(message, "yes") then
-			if player:getStorageValue(Storage.Quest.U9_1.TheRookieGuard.Mission08) == 1 then
-				player:depositMoney(count[playerId])
-				Bank.credit(player, 50)
-				npcHandler:say("Alright, we have added the amount of " .. count[playerId] .. " +50 gold to your {balance} - that is the money you deposited plus a bonus of 50 gold. \z
-				Thank you! You can withdraw your money anytime.", npc, creature)
-				player:setStorageValue(Storage.Quest.U9_1.TheRookieGuard.Mission08, 2)
-				npcHandler:setTopic(playerId, 0)
-				return false
-			end
 			if player:depositMoney(count[playerId]) then
 				npcHandler:say("Alright, we have added the amount of " .. count[playerId] .. " gold to your {balance}. \z
 				You can {withdraw} your money anytime you want to.", npc, creature)
@@ -341,10 +328,56 @@ local function creatureSayCallback(npc, creature, type, message)
 	return true
 end
 
-npcHandler:setCallback(CALLBACK_GREET, greetCallback)
+keywordHandler:addKeyword({ "money" }, StdModule.say, {
+	npcHandler = npcHandler,
+	text = "We can {change} money for you. You can also access your {bank account}.",
+})
+keywordHandler:addKeyword({ "change" }, StdModule.say, {
+	npcHandler = npcHandler,
+	text = "There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, \z
+			100 platinum coins equal 1 crystal coin. \z
+			So if you'd like to change 100 gold into 1 platinum, simply say '{change gold}' and then '1 platinum'.",
+})
+keywordHandler:addKeyword({ "bank" }, StdModule.say, {
+	npcHandler = npcHandler,
+	text = "We can {change} money for you. You can also access your {bank account}.",
+})
+keywordHandler:addKeyword({ "advanced" }, StdModule.say, {
+	npcHandler = npcHandler,
+	text = "Your bank account will be used automatically when you want to {rent} a house or place an offer \z
+			on an item on the {market}. Let me know if you want to know about how either one works.",
+})
+keywordHandler:addKeyword({ "help" }, StdModule.say, {
+	npcHandler = npcHandler,
+	text = "You can check the {balance} of your bank account, {deposit} money or {withdraw} it. \z
+			You can also {transfer} money to other characters, provided that they have a vocation.",
+})
+keywordHandler:addKeyword({ "functions" }, StdModule.say, {
+	npcHandler = npcHandler,
+	text = "You can check the {balance} of your bank account, {deposit} money or {withdraw} it. \z
+			You can also {transfer} money to other characters, provided that they have a vocation.",
+})
+keywordHandler:addKeyword({ "basic" }, StdModule.say, {
+	npcHandler = npcHandler,
+	text = "You can check the {balance} of your bank account, {deposit} money or {withdraw} it. \z
+			You can also {transfer} money to other characters, provided that they have a vocation.",
+})
+keywordHandler:addKeyword({ "job" }, StdModule.say, {
+	npcHandler = npcHandler,
+	text = "I work in this bank. I can change money for you and help you with your bank account.",
+})
+keywordHandler:addKeyword({ "transfer" }, StdModule.say, {
+	npcHandler = npcHandler,
+	text = "I'm afraid this service is not available to you until you reach the World mainland.",
+})
+
+npcHandler:setMessage(MESSAGE_GREET, "Yes? What may I do for you, |PLAYERNAME|? Bank business, perhaps?")
 npcHandler:setMessage(MESSAGE_FAREWELL, "Have a nice day.")
 npcHandler:setMessage(MESSAGE_WALKAWAY, "Have a nice day.")
+
+npcHandler:setCallback(CALLBACK_GREET, greetCallback)
 npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, creatureSayCallback)
+
 npcHandler:addModule(FocusModule:new(), npcConfig.name, true, true, true)
 
 -- npcType registering the npcConfig table

@@ -33,6 +33,6 @@
 		<npc name="adolfo" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="743" centery="732" centerz="7" radius="1">
-		<npc name="Larek" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Lara" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 </npcs>

@@ -6,7 +6,7 @@ local table =
 	-- [level] = type = "coin", id = {QUANTITY, 0}, msg = "MESSAGE"},
 	-- [level] = type = "mount", id = {ID_MOUNT, 0}, msg = "MESSAGE"},
 
-	[30] = {type = "item", id = {2160, 10}, msg = "You win 10 crystal coins for reach the level 30!"},
+	[30] = {type = "item", id = {3043, 10}, msg = "You win 10 crystal coins for reach the level 30!"},
 	[100] = {type = "coin", id = {10, 0}, msg = "You win 10 coins for reach the level 100!"},
 	[150] = {type = "bank", id = {200000, 0}, msg = "Was deposited in your bank 200000 gold coins!"},
 	[200] = {type = "item", id = {37317, 5}, msg = "You win 5 tigrinho coins for reach the level 200!"},
