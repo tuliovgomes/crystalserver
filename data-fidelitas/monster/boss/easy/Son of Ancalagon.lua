@@ -80,8 +80,8 @@ monster.elements = {
 
 monster.attacks = {
 	{name ="melee", interval = 2000, chance = 100, skill = 100, attack = 80, condition = {type = CONDITION_POISON, startDamage = 220, interval = 4000}},
-	{name ="condition", interval = 3000, chance = 18, type = CONDITION_POISON, startDamage = 0, tick = 4000, minDamage = -700, maxDamage = -750, length = 8, spread = 3, effect = CONST_ME_POISONAREA},
-	{name ="melee", interval = 2000, chance = 12, minDamage = -630, maxDamage = -720},
+	{name ="condition", interval = 3000, chance = 18, type = CONDITION_POISON, startDamage = 0, tick = 4000, minDamage = -200, maxDamage = -750, length = 8, spread = 3, effect = CONST_ME_POISONAREA},
+	{name ="melee", interval = 2000, chance = 12, minDamage = -230, maxDamage = -720},
 	{name ="drunk", interval = 4000, chance = 2, drunkenness = 25, duration = 10000, range = 7, shootEffect = CONST_ANI_POISON, effect = CONST_ME_SOUND_RED}
 }
 

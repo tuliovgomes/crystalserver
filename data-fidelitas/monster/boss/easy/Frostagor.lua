@@ -38,7 +38,7 @@ monster.flags = {
 	hostile = true,
 	convinceable = false,
 	pushable = false,
-	rewardBoss = false,
+	rewardBoss = true,
 	illusionable = false,
 	canPushItems = true,
 	canPushCreatures = true,
@@ -66,15 +66,26 @@ monster.voices = {
 }
 
 monster.loot = {
-	{name = "blue robe", chance = 1600},
-	{name = "lightning robe", chance = 1970},
-	{name = "lightning boots", chance = 1880},
-	{name = "winged boots", chance = 102},
-	{name = "lightning legs", chance = 1600},
-	{name = "lightning headband", chance = 1800},
-	{name = "sapphire hammer", chance = 1300},
-	{name = "glacial rod", chance = 2150},
-	{name = "crystalline armor", chance = 1250}
+	{name = "blue robe", chance = 4600},
+	{name = "lightning robe", chance = 8970},
+	{name = "lightning boots", chance = 8880},
+	{name = "winged boots", chance = 2002},
+	{name = "lightning legs", chance = 3600},
+	{name = "lightning headband", chance = 18000},
+	{name = "sapphire hammer", chance = 13000},
+	{name = "glacial rod", chance = 21500},
+	{name = "crystalline armor", chance = 12500},
+	{name = "bast legs", chance = 2600},
+	{name = "exotic legs", chance = 2600},
+	{name = "gill legs", chance = 2600},
+	{id = 3549, chance = 3800},
+	{name = "bear skin", chance = 2600},
+	{name = "master archer's armor", chance = 2600},
+	{name = "royal draken mail", chance = 2600},
+	{name = "royal scale robe", chance = 2600},
+	{name = "yalahari armor", chance = 2600},
+	{name = "yalahari leg piece", chance = 2600},
+	{name = "yalahari mask", chance = 2600},
 }
 
 monster.attacks = {

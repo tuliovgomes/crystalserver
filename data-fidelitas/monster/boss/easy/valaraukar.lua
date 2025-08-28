@@ -66,43 +66,56 @@ monster.voices = {
 }
 
 monster.loot = {
-	{id = 3031, chance = 98000, maxCount = 184}, -- gold coin
-	{id = 9058, chance = 75000, maxCount = 2}, -- gold ingot
-	{id = 3422, chance = 2600, unique = true}, -- great shield
-	{id = 8075, chance = 26000}, -- spellbook of lost souls
-	{id = 3360, chance = 2400}, -- golden armor
-	{id = 3364, chance = 2200}, -- golden legs
-	{id = 8074, chance = 22000}, -- spellbook of mind control
-	{id = 8040, chance = 22000}, -- velvet mantle
-	{id = 3420, chance = 20000}, -- demon shield
-	{id = 8057, chance = 20000}, -- divine plate
-	{id = 821, chance = 20000}, -- magma legs
-	{id = 3442, chance = 20000}, -- tempest shield
-	{id = 3010, chance = 18000}, -- emerald bangle
-	{id = 823, chance = 18000}, -- glacier kilt
-	{id = 822, chance = 18000}, -- lightning legs
-	{id = 3439, chance = 18000}, -- phoenix shield
-	{id = 8090, chance = 18000}, -- spellbook of dark mysteries
-	{id = 812, chance = 18000}, -- terra legs
-	{id = 8102, chance = 16000}, -- emerald sword
-	{id = 7405, chance = 16000}, -- havoc blade
-	{id = 7451, chance = 16000}, -- shadow sceptre
-	{id = 3032, chance = 16000, maxCount = 100}, -- small emerald
-	{id = 3366, chance = 14000}, -- magic plate armor
-	{id = 3414, chance = 14000}, -- mastermind shield
-	{id = 7417, chance = 14000}, -- runed sword
-	{id = 8076, chance = 14000}, -- spellscroll of prophecies
-	{id = 7427, chance = 12000}, -- chaos mace
-	{id = 8041, chance = 12000}, -- greenwood coat
-	{id = 3029, chance = 12000, maxCount = 98}, -- small sapphire
-	{id = 3026, chance = 12000, maxCount = 88}, -- white pearl
-	{id = 7407, chance = 10000}, -- haunted blade
-	{id = 3033, chance = 10000, maxCount = 54}, -- small amethyst
-	{id = 9057, chance = 10000, maxCount = 87}, -- small topaz
-	{id = 7382, chance = 8000}, -- demonrage sword
-	{id = 3035, chance = 8000, maxCount = 58}, -- platinum coin
-	{id = 5944, chance = 8000, maxCount = 9}, -- soul orb
-	{id = 21186, chance = 8000}, -- mount
+	{id = 3031, chance = 98000, maxCount = 184},
+	{id = 9058, chance = 75000, maxCount = 2},
+	{id = 3422, chance = 2600, unique = true},
+	{id = 8075, chance = 26000},
+	{id = 16115, chance = 2400},
+	{id = 16117, chance = 2400},
+	{id = 27457, chance = 2400},
+	{id = 27458, chance = 2400},
+	{id = 27455, chance = 2400},
+	{id = 27456, chance = 2400},
+	{id = 27449, chance = 2400},
+	{id = 27450, chance = 2400},
+	{id = 27451, chance = 2400},
+	{id = 27452, chance = 2400},
+	{id = 27453, chance = 2400},
+	{id = 27454, chance = 2400},
+	{id = 50168, chance = 2400},
+	{id = 3360, chance = 2400},
+	{id = 3364, chance = 2200},
+	{id = 8074, chance = 22000}, 
+	{id = 8040, chance = 22000},
+	{id = 3420, chance = 20000},
+	{id = 8057, chance = 20000},
+	{id = 821, chance = 20000},
+	{id = 3442, chance = 20000},
+	{id = 3010, chance = 18000},
+	{id = 823, chance = 18000},
+	{id = 822, chance = 18000},
+	{id = 3439, chance = 18000},
+	{id = 8090, chance = 18000},
+	{id = 812, chance = 18000},
+	{id = 8102, chance = 16000},
+	{id = 7405, chance = 16000},
+	{id = 7451, chance = 16000},
+	{id = 3032, chance = 16000, maxCount = 100},
+	{id = 3366, chance = 14000}, 
+	{id = 3414, chance = 14000},
+	{id = 7417, chance = 14000},
+	{id = 8076, chance = 14000}, 
+	{id = 7427, chance = 12000},
+	{id = 8041, chance = 12000},
+	{id = 3029, chance = 12000, maxCount = 98},
+	{id = 3026, chance = 12000, maxCount = 88},
+	{id = 7407, chance = 10000},
+	{id = 3033, chance = 10000, maxCount = 54},
+	{id = 9057, chance = 10000, maxCount = 87},
+	{id = 7382, chance = 8000},
+	{id = 3035, chance = 8000, maxCount = 58},
+	{id = 5944, chance = 8000, maxCount = 9},
+	{id = 21186, chance = 8000},
 }
 
 monster.attacks = {

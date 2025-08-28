@@ -9800,6 +9800,7 @@
 		<monster name="Crazed Winter Rearguard" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Crazed Winter Vanguard" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Crazed Winter Rearguard" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Thanatursus" x="-1" y="4" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="856" centery="596" centerz="7" radius="5">
 		<monster name="Crazed Winter Vanguard" x="-1" y="0" z="7" spawntime="60" />
@@ -9858,8 +9859,7 @@
 		<monster name="Barbarian Bloodwalker" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="824" centery="599" centerz="7" radius="3">
-		<monster name="Crazed Winter Rearguard" x="1" y="3" z="7" spawntime="60" />
-		<monster name="Thanatursus" x="2" y="3" z="7" spawntime="60" />
+		<monster name="Crazed Winter Rearguard" x="-1" y="2" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="845" centery="599" centerz="7" radius="3">
 		<monster name="Crazed Winter Vanguard" x="3" y="-1" z="7" spawntime="60" />
@@ -11455,6 +11455,9 @@
 	<monster centerx="567" centery="693" centerz="7" radius="1">
 		<monster name="Demon Skeleton" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="894" centery="693" centerz="7" radius="1">
+		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="508" centery="694" centerz="7" radius="1">
 		<monster name="Fire Devil" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -11516,6 +11519,12 @@
 	<monster centerx="655" centery="699" centerz="7" radius="1">
 		<monster name="Vampire" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="875" centery="699" centerz="7" radius="1">
+		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="888" centery="699" centerz="7" radius="1">
+		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1219" centery="699" centerz="7" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="7" spawntime="90" />
 	</monster>
@@ -11548,6 +11557,9 @@
 		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Giant Spider" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Giant Spider" x="0" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="892" centery="701" centerz="7" radius="1">
+		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="572" centery="702" centerz="7" radius="1">
 		<monster name="Demon Skeleton" x="0" y="0" z="7" spawntime="60" />
@@ -11618,6 +11630,9 @@
 		<monster name="Turbulent Elemental" x="-4" y="4" z="7" spawntime="60" />
 		<monster name="Capricious Phantom" x="1" y="4" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="887" centery="706" centerz="7" radius="1">
+		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="913" centery="706" centerz="7" radius="1">
 		<monster name="Noble Lion" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
@@ -11649,6 +11664,9 @@
 		<monster name="Wolf" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Wolf" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Wolf" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="891" centery="709" centerz="7" radius="1">
+		<monster name="Giant Spider" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="944" centery="709" centerz="7" radius="1">
 		<monster name="Noble Lion" x="0" y="0" z="7" spawntime="60" />
@@ -12333,9 +12351,6 @@
 	<monster centerx="335" centery="741" centerz="7" radius="1">
 		<monster name="Darklight Striker" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="385" centery="741" centerz="7" radius="1">
-		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
-	</monster>
 	<monster centerx="1082" centery="741" centerz="7" radius="1">
 		<monster name="Glooth Bandit" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Glooth Brigand" x="0" y="0" z="7" spawntime="60" />
@@ -12351,6 +12366,9 @@
 	</monster>
 	<monster centerx="372" centery="742" centerz="7" radius="1">
 		<monster name="Darklight Striker" x="-1" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="385" centery="742" centerz="7" radius="1">
+		<monster name="Walking Pillar" x="0" y="-1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1111" centery="742" centerz="7" radius="3">
 		<monster name="Glooth Brigand" x="-2" y="-3" z="7" spawntime="60" />

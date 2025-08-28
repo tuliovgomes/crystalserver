@@ -46862,9 +46862,56 @@ hands of its owner. Granted by TibiaRoyal.com" />
 		<attribute key="weight" value="1508" />
 	</item>
 	<item id="23683" name="imortus">
-		<attribute key="primarytype" value="fansite items" />
-		<attribute key="description" value="Souvenir from Thais Museum" />
-		<attribute key="weight" value="4690" />
+		<attribute key="primarytype" value="quest items" />
+		<attribute key="showAttributes" value="1" />
+		<attribute key="script" value="moveevent">
+			<attribute key="slot" value="ammo" />
+		</attribute>
+		<attribute key="weight" value="666" />
+		<attribute key="magiclevelpoints" value="10" />
+		<attribute key="absorbpercentall" value="25" />
+		<attribute key="criticalhitdamage" value="1500" />
+		<attribute key="criticalhitchance" value="1000" />
+		<attribute key="manaticks" value="3000" />
+		<attribute key="managain" value="20" />
+		<attribute key="healthticks" value="3000" />
+		<attribute key="healthgain" value="20" />
+		<attribute key="lifeleechamount" value="2000" />
+		<attribute key="lifeleechchance" value="2000" />
+		<attribute key="manaleechamount" value="2000" />
+		<attribute key="manaleechchance" value="2000" />
+		<attribute key="augments" value="1">
+			<attribute key="annihilation" value="cooldown">
+				<attribute key="value" value="8000" />
+			</attribute>
+			<attribute key="divine caldera" value="cooldown">
+				<attribute key="value" value="8000" />
+			</attribute>
+			<attribute key="rage of the skies" value="cooldown">
+				<attribute key="value" value="8000" />
+			</attribute>
+			<attribute key="strong ice wave" value="cooldown">
+				<attribute key="value" value="8000" />
+			</attribute>
+			<attribute key="fierce berserk" value="cooldown">
+				<attribute key="value" value="8000" />
+			</attribute>
+			<attribute key="avatar of steel" value="cooldown">
+				<attribute key="value" value="800000" />
+			</attribute>
+			<attribute key="avatar of balance" value="cooldown">
+				<attribute key="value" value="800000" />
+			</attribute>
+			<attribute key="avatar of nature" value="cooldown">
+				<attribute key="value" value="800000" />
+			</attribute>
+			<attribute key="avatar of storm" value="cooldown">
+				<attribute key="value" value="800000" />
+			</attribute>
+			<attribute key="avatar of light" value="cooldown">
+				<attribute key="value" value="800000" />
+			</attribute>
+		</attribute>
 	</item>
 	<item id="23684" article="a" name="crackling egg">
 		<attribute key="primarytype" value="taming items" />
@@ -63968,8 +64015,55 @@ hands of its owner. Granted by TibiaRoyal.com" />
 		<attribute key="weight" value="5500" />
 	</item>
 	<item id="34079" name="Seal of Quality">
-		<attribute key="description" value="It was awarded by a CM as a token of gratitude for valuable feedback" />
-		<attribute key="weight" value="1000" />
+		<attribute key="primarytype" value="quest items" />
+		<attribute key="showAttributes" value="1" />
+		<attribute key="script" value="moveevent">
+			<attribute key="slot" value="ammo" />
+		</attribute>
+		<attribute key="weight" value="666" />
+		<attribute key="magiclevelpoints" value="8" />
+		<attribute key="absorbpercentall" value="20" />
+		<attribute key="criticalhitdamage" value="1200" />
+		<attribute key="criticalhitchance" value="1000" />
+		<attribute key="manaticks" value="3000" />
+		<attribute key="managain" value="12" />
+		<attribute key="healthticks" value="3000" />
+		<attribute key="healthgain" value="8" />
+		<attribute key="lifeleechamount" value="1000" />
+		<attribute key="manaleechamount" value="1000" />
+		<attribute key="manaleechchance" value="1000" />
+		<attribute key="augments" value="1">
+			<attribute key="annihilation" value="cooldown">
+				<attribute key="value" value="4000" />
+			</attribute>
+			<attribute key="divine caldera" value="cooldown">
+				<attribute key="value" value="4000" />
+			</attribute>
+			<attribute key="rage of the skies" value="cooldown">
+				<attribute key="value" value="4000" />
+			</attribute>
+			<attribute key="strong ice wave" value="cooldown">
+				<attribute key="value" value="4000" />
+			</attribute>
+			<attribute key="fierce berserk" value="cooldown">
+				<attribute key="value" value="4000" />
+			</attribute>
+			<attribute key="avatar of steel" value="cooldown">
+				<attribute key="value" value="400000" />
+			</attribute>
+			<attribute key="avatar of balance" value="cooldown">
+				<attribute key="value" value="400000" />
+			</attribute>
+			<attribute key="avatar of nature" value="cooldown">
+				<attribute key="value" value="400000" />
+			</attribute>
+			<attribute key="avatar of storm" value="cooldown">
+				<attribute key="value" value="400000" />
+			</attribute>
+			<attribute key="avatar of light" value="cooldown">
+				<attribute key="value" value="400000" />
+			</attribute>
+		</attribute>
 	</item>
 	<item id="34080" article="a" name="lion ring">
 		<attribute key="primarytype" value="rings" />
@@ -70738,6 +70832,38 @@ Granted by TibiaGoals.com" />
 		<attribute key="healthgain" value="4" />
 		<attribute key="manaleechamount" value="100" />
 		<attribute key="manaleechchance" value="100" />
+		<attribute key="augments" value="1">
+			<attribute key="annihilation" value="cooldown">
+				<attribute key="value" value="2000" />
+			</attribute>
+			<attribute key="divine caldera" value="cooldown">
+				<attribute key="value" value="2000" />
+			</attribute>
+			<attribute key="rage of the skies" value="cooldown">
+				<attribute key="value" value="2000" />
+			</attribute>
+			<attribute key="strong ice wave" value="cooldown">
+				<attribute key="value" value="2000" />
+			</attribute>
+			<attribute key="fierce berserk" value="cooldown">
+				<attribute key="value" value="2000" />
+			</attribute>
+			<attribute key="avatar of steel" value="cooldown">
+				<attribute key="value" value="200000" />
+			</attribute>
+			<attribute key="avatar of balance" value="cooldown">
+				<attribute key="value" value="200000" />
+			</attribute>
+			<attribute key="avatar of nature" value="cooldown">
+				<attribute key="value" value="200000" />
+			</attribute>
+			<attribute key="avatar of storm" value="cooldown">
+				<attribute key="value" value="200000" />
+			</attribute>
+			<attribute key="avatar of light" value="cooldown">
+				<attribute key="value" value="200000" />
+			</attribute>
+		</attribute>
 	</item>
 	<item fromid="37763" toid="37774" name="Zaoan bamboo tiles">
 		<attribute key="type" value="carpet" />
