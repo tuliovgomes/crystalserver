@@ -65,6 +65,17 @@ local questConfig = {
             {id = 10385, count = 1},
             {id = 3006, count = 1},
         }
+    },
+    {
+        storage = 70008,
+        chestId = 5915,
+        position = Position(973, 846, 8),
+        rewards = {
+            {id = 3043, count = 10},
+            {id = 3063, count = 1},
+            {id = 36725, count = 1},
+            {id = 8102, count = 1},
+        }
     }
 
     

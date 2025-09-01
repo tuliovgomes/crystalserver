@@ -1364,9 +1364,9 @@
 	<monster centerx="830" centery="349" centerz="5" radius="3">
 		<monster name="Schiach" x="-3" y="-2" z="5" spawntime="60" />
 	</monster>
-	<monster centerx="809" centery="356" centerz="5" radius="3">
-		<monster name="Schiach" x="1" y="-3" z="5" spawntime="60" />
-		<monster name="Schiach" x="1" y="2" z="5" spawntime="60" />
+	<monster centerx="810" centery="356" centerz="5" radius="3">
+		<monster name="Schiach" x="0" y="-3" z="5" spawntime="60" />
+		<monster name="Schiach" x="0" y="2" z="5" spawntime="60" />
 	</monster>
 	<monster centerx="823" centery="356" centerz="5" radius="3">
 		<monster name="Schiach" x="-1" y="-3" z="5" spawntime="60" />
@@ -2548,8 +2548,8 @@
 	<monster centerx="816" centery="363" centerz="6" radius="3">
 		<monster name="Schiach" x="-3" y="0" z="6" spawntime="60" />
 	</monster>
-	<monster centerx="795" centery="370" centerz="6" radius="3">
-		<monster name="Schiach" x="0" y="-3" z="6" spawntime="60" />
+	<monster centerx="796" centery="370" centerz="6" radius="3">
+		<monster name="Schiach" x="-1" y="-3" z="6" spawntime="60" />
 	</monster>
 	<monster centerx="823" centery="370" centerz="6" radius="3">
 		<monster name="Percht" x="1" y="3" z="6" spawntime="60" />
