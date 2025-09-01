@@ -66,12 +66,12 @@ local DAILY_REWARD_STATUS_FREE = 0
 local DAILY_REWARD_STATUS_PREMIUM = 1
 
 local DailyRewardItems = {
-	[0] = { 28555, 28556, 28557, 28552, 50293, 44065 }, -- God/no vocation character
-	[VOCATION.BASE_ID.PALADIN] = {28555},
-	[VOCATION.BASE_ID.DRUID] = { 28556 },
-	[VOCATION.BASE_ID.SORCERER] = { 28557 },
-	[VOCATION.BASE_ID.KNIGHT] = { 28552, 44065 },
-	[VOCATION.BASE_ID.MONK] = { 50293, 44065 },
+	[0] = { 266, 268 }, -- God/no vocation character
+	[VOCATION.BASE_ID.PALADIN] = { 266, 236, 268, 237, 7642, 23374, 3203, 3161, 3178, 3153, 3197, 3149, 3164, 3200, 3192, 3188, 3190, 3189, 3191, 3158, 3152, 3180, 3173, 3176, 3195, 3175, 3155, 3202 },
+	[VOCATION.BASE_ID.DRUID] = { 266, 268, 237, 238, 23373, 3203, 3161, 3178, 3153, 3197, 3149, 3164, 3200, 3192, 3188, 3190, 3189, 3156, 3191, 3158, 3152, 3180, 3173, 3176, 3195, 3175, 3155, 3202 },
+	[VOCATION.BASE_ID.SORCERER] = { 266, 268, 237, 238, 23373, 3203, 3161, 3178, 3153, 3197, 3149, 3164, 3200, 3192, 3188, 3190, 3189, 3191, 3158, 3152, 3180, 3173, 3176, 3195, 3175, 3155, 3202 },
+	[VOCATION.BASE_ID.KNIGHT] = { 266, 236, 239, 7643, 23375, 268, 3203, 3161, 3178, 3153, 3197, 3149, 3164, 3200, 3192, 3188, 3190, 3189, 3191, 3158, 3152, 3180, 3173, 3176, 3195, 3175, 3155, 3202 },
+	[VOCATION.BASE_ID.MONK] = { 266, 236, 268, 237, 7642, 23374, 3203, 3161, 3178, 3153, 3197, 3149, 3164, 3200, 3192, 3188, 3190, 3189, 3191, 3158, 3152, 3180, 3173, 3176, 3195, 3175, 3155, 3202 },
 }
 
 DailyReward = {
@@ -108,39 +108,39 @@ DailyReward = {
 		[1] = {
 			type = DAILY_REWARD_TYPE_ITEM,
 			systemType = DAILY_REWARD_SYSTEM_TYPE_ONE,
-			freeAccount = 1,
-			premiumAccount = 2,
+			freeAccount = 10,
+			premiumAccount = 20,
 		},
 		[2] = {
 			type = DAILY_REWARD_TYPE_ITEM,
 			systemType = DAILY_REWARD_SYSTEM_TYPE_ONE,
-			freeAccount = 1,
-			premiumAccount = 2,
+			freeAccount = 10,
+			premiumAccount = 20,
 		},
 		[3] = {
 			type = DAILY_REWARD_TYPE_PREY_REROLL,
 			systemType = DAILY_REWARD_SYSTEM_TYPE_TWO,
-			freeAccount = 1,
-			premiumAccount = 2,
+			freeAccount = 10,
+			premiumAccount = 20,
 		},
 		[4] = {
 			type = DAILY_REWARD_TYPE_ITEM,
 			systemType = DAILY_REWARD_SYSTEM_TYPE_ONE,
-			freeAccount = 2,
-			premiumAccount = 4,
+			freeAccount = 20,
+			premiumAccount = 40,
 		},
 		[5] = {
 			type = DAILY_REWARD_TYPE_PREY_REROLL,
 			systemType = DAILY_REWARD_SYSTEM_TYPE_TWO,
-			freeAccount = 1,
-			premiumAccount = 2,
+			freeAccount = 10,
+			premiumAccount = 20,
 		},
 		[6] = {
 			type = DAILY_REWARD_TYPE_ITEM,
 			systemType = DAILY_REWARD_SYSTEM_TYPE_ONE,
 			items = { 35279, 35280, 35281, 35282, 35283, 35284, 44066, 50294 },
-			freeAccount = 1,
-			premiumAccount = 2,
+			freeAccount = 2,
+			premiumAccount = 4,
 			itemCharges = 8000,
 		},
 		[7] = {
