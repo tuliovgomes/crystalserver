@@ -1,8 +1,8 @@
 local questConfig = {
     {
-        storage = 70001, 
-        chestId = 1740,
-        position = Position(903, 442, 4), 
+        storage = 70001,
+        chestId = 2482,
+        position = Position(903, 442, 4),
         rewards = {
             {id = 3043, count = 10},
             {id = 3386, count = 1},
@@ -10,7 +10,7 @@ local questConfig = {
     },
     {
         storage = 70002,
-        chestId = 1740,
+        chestId = 2481,
         position = Position(813, 718, 2),
         rewards = {
             {id = 3043, count = 5},
@@ -47,7 +47,7 @@ local questConfig = {
     {
         storage = 70006,
         chestId = 5915,
-        position = Position(613, 774, 0),
+        position = Position(612, 774, 0),
         rewards = {
             {id = 3043, count = 15},
             {id = 22726, count = 1},
@@ -58,7 +58,7 @@ local questConfig = {
     {
         storage = 70007,
         chestId = 10033,
-        position = Position(613, 774, 0),
+        position = Position(1300, 785, 1),
         rewards = {
             {id = 3043, count = 15},
             {id = 22726, count = 1},
@@ -77,40 +77,33 @@ local questConfig = {
             {id = 8102, count = 1},
         }
     }
-
-    
 }
 
 local questAction = Action()
 
 function questAction.onUse(player, item, fromPosition, target, toPosition, isHotkey)
     for _, quest in ipairs(questConfig) do
-        if item:getId() == quest.chestId and toPosition == quest.position then
-            -- Verifica storage
+        if toPosition == quest.position then
             if player:getStorageValue(quest.storage) > 0 then
                 player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "Você já pegou essa recompensa.")
                 return true
             end
 
-            -- Dá os itens
             for _, reward in ipairs(quest.rewards) do
                 player:addItem(reward.id, reward.count)
             end
 
-            -- Marca no storage
             player:setStorageValue(quest.storage, 1)
-
             player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "Você recebeu sua recompensa!")
             return true
         end
     end
-
     return false
 end
 
--- Registra a action para todos os baús/estátuas configurados
+-- Registra pelas posições dos baús
 for _, quest in ipairs(questConfig) do
-    questAction:id(quest.chestId)
+    questAction:position(quest.position)
 end
 
 questAction:register()
