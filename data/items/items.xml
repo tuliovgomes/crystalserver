@@ -2634,31 +2634,26 @@
 	<item id="811" article="a" name="terra mantle">
 		<attribute key="primarytype" value="armors" />
 		<attribute key="absorbpercentpoison" value="8" />
-		<attribute key="absorbpercentfire" value="-8" />
 		<attribute key="armor" value="11" />
 		<attribute key="weight" value="2250" />
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="50" />
 			<attribute key="slot" value="armor" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="812" name="terra legs">
 		<attribute key="primarytype" value="legs" />
 		<attribute key="absorbpercentpoison" value="6" />
-		<attribute key="absorbpercentfire" value="-6" />
 		<attribute key="armor" value="8" />
 		<attribute key="weight" value="1900" />
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="40" />
 			<attribute key="slot" value="legs" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="813" name="terra boots">
 		<attribute key="primarytype" value="boots" />
 		<attribute key="absorbpercentpoison" value="5" />
-		<attribute key="absorbpercentfire" value="-5" />
 		<attribute key="armor" value="2" />
 		<attribute key="weight" value="750" />
 		<attribute key="imbuementslot" value="1">
@@ -2667,15 +2662,12 @@
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="35" />
 			<attribute key="slot" value="feet" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="814" article="a" name="terra amulet">
 		<attribute key="primarytype" value="amulets and necklaces" />
-		<attribute key="showCharges" value="1" />
 		<attribute key="showAttributes" value="1" />
-		<attribute key="absorbpercentpoison" value="20" />
-		<attribute key="absorbpercentfire" value="-10" />
+		<attribute key="absorbpercentpoison" value="5" />
 		<attribute key="charges" value="200" />
 		<attribute key="weight" value="500" />
 		<attribute key="script" value="moveevent">
@@ -2685,11 +2677,8 @@
 	</item>
 	<item id="815" article="a" name="glacier amulet">
 		<attribute key="primarytype" value="amulets and necklaces" />
-		<attribute key="showCharges" value="1" />
 		<attribute key="showAttributes" value="1" />
-		<attribute key="absorbpercentice" value="20" />
-		<attribute key="absorbpercentenergy" value="-10" />
-		<attribute key="charges" value="200" />
+		<attribute key="absorbpercentice" value="5" />
 		<attribute key="weight" value="500" />
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="60" />
@@ -2698,11 +2687,8 @@
 	</item>
 	<item id="816" article="a" name="lightning pendant">
 		<attribute key="primarytype" value="amulets and necklaces" />
-		<attribute key="showCharges" value="1" />
 		<attribute key="showAttributes" value="1" />
-		<attribute key="absorbpercentpoison" value="-10" />
-		<attribute key="absorbpercentenergy" value="20" />
-		<attribute key="charges" value="200" />
+		<attribute key="absorbpercentenergy" value="5" />
 		<attribute key="weight" value="500" />
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="60" />
@@ -2711,11 +2697,8 @@
 	</item>
 	<item id="817" article="a" name="magma amulet">
 		<attribute key="primarytype" value="amulets and necklaces" />
-		<attribute key="showCharges" value="1" />
 		<attribute key="showAttributes" value="1" />
-		<attribute key="absorbpercentice" value="-10" />
-		<attribute key="absorbpercentfire" value="20" />
-		<attribute key="charges" value="200" />
+		<attribute key="absorbpercentfire" value="5" />
 		<attribute key="weight" value="500" />
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="60" />
@@ -2724,7 +2707,6 @@
 	</item>
 	<item id="818" name="magma boots">
 		<attribute key="primarytype" value="boots" />
-		<attribute key="absorbpercentice" value="-5" />
 		<attribute key="absorbpercentfire" value="5" />
 		<attribute key="armor" value="2" />
 		<attribute key="weight" value="750" />
@@ -2735,13 +2717,11 @@
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="35" />
 			<attribute key="slot" value="feet" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="819" name="glacier shoes">
 		<attribute key="primarytype" value="boots" />
 		<attribute key="absorbpercentice" value="5" />
-		<attribute key="absorbpercentenergy" value="-5" />
 		<attribute key="armor" value="2" />
 		<attribute key="weight" value="750" />
 		<attribute key="imbuementslot" value="1">
@@ -2750,12 +2730,10 @@
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="35" />
 			<attribute key="slot" value="feet" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="820" name="lightning boots">
 		<attribute key="primarytype" value="boots" />
-		<attribute key="absorbpercentpoison" value="-5" />
 		<attribute key="absorbpercentenergy" value="5" />
 		<attribute key="armor" value="2" />
 		<attribute key="weight" value="750" />
@@ -2766,123 +2744,102 @@
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="35" />
 			<attribute key="slot" value="feet" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="821" name="magma legs">
 		<attribute key="primarytype" value="legs" />
-		<attribute key="absorbpercentice" value="-6" />
 		<attribute key="absorbpercentfire" value="6" />
 		<attribute key="armor" value="8" />
 		<attribute key="weight" value="1900" />
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="40" />
 			<attribute key="slot" value="legs" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="822" name="lightning legs">
 		<attribute key="primarytype" value="legs" />
-		<attribute key="absorbpercentpoison" value="-6" />
 		<attribute key="absorbpercentenergy" value="6" />
 		<attribute key="armor" value="8" />
 		<attribute key="weight" value="1900" />
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="40" />
 			<attribute key="slot" value="legs" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="823" article="a" name="glacier kilt">
 		<attribute key="primarytype" value="legs" />
 		<attribute key="absorbpercentice" value="6" />
-		<attribute key="absorbpercentenergy" value="-6" />
 		<attribute key="armor" value="8" />
 		<attribute key="weight" value="1900" />
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="40" />
 			<attribute key="slot" value="legs" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="824" article="a" name="glacier robe">
 		<attribute key="primarytype" value="armors" />
 		<attribute key="absorbpercentice" value="8" />
-		<attribute key="absorbpercentenergy" value="-8" />
 		<attribute key="armor" value="11" />
 		<attribute key="weight" value="2250" />
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="50" />
 			<attribute key="slot" value="armor" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="825" article="a" name="lightning robe">
 		<attribute key="primarytype" value="armors" />
-		<attribute key="absorbpercentpoison" value="-8" />
 		<attribute key="absorbpercentenergy" value="8" />
 		<attribute key="armor" value="11" />
 		<attribute key="weight" value="2250" />
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="50" />
 			<attribute key="slot" value="armor" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="826" article="a" name="magma coat">
 		<attribute key="primarytype" value="armors" />
-		<attribute key="absorbpercentice" value="-8" />
 		<attribute key="absorbpercentfire" value="8" />
 		<attribute key="armor" value="11" />
 		<attribute key="weight" value="2250" />
 		<attribute key="script" value="moveevent">
 			<attribute key="level" value="50" />
 			<attribute key="slot" value="armor" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="827" article="a" name="magma monocle">
 		<attribute key="primarytype" value="helmets" />
-		<attribute key="absorbpercentice" value="-5" />
 		<attribute key="absorbpercentfire" value="4" />
 		<attribute key="armor" value="5" />
 		<attribute key="weight" value="1000" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="head" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="828" article="a" name="lightning headband">
 		<attribute key="primarytype" value="helmets" />
-		<attribute key="absorbpercentpoison" value="-5" />
 		<attribute key="absorbpercentenergy" value="4" />
 		<attribute key="armor" value="5" />
 		<attribute key="weight" value="1000" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="head" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="829" article="a" name="glacier mask">
 		<attribute key="primarytype" value="helmets" />
 		<attribute key="absorbpercentice" value="4" />
-		<attribute key="absorbpercentenergy" value="-5" />
 		<attribute key="armor" value="5" />
 		<attribute key="weight" value="1000" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="head" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="830" article="a" name="terra hood">
 		<attribute key="primarytype" value="helmets" />
 		<attribute key="absorbpercentpoison" value="4" />
-		<attribute key="absorbpercentfire" value="-5" />
 		<attribute key="armor" value="5" />
 		<attribute key="weight" value="1000" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="head" />
-			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="831" article="a" name="green bed kit">
@@ -6643,6 +6600,11 @@
 	</item>
 	<item id="3006" article="a" name="ring of the sky">
 		<attribute key="weight" value="40" />
+		<attribute key="absorbpercentmagic" value="10" />
+		<attribute key="manaticks" value="5000" />
+		<attribute key="managain" value="2" />
+		<attribute key="healthticks" value="5000" />
+		<attribute key="healthgain" value="2" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="ring" />
 		</attribute>
@@ -6650,6 +6612,10 @@
 	<item id="3007" article="a" name="crystal ring">
 		<attribute key="primarytype" value="rings" />
 		<attribute key="weight" value="90" />
+		<attribute key="manaticks" value="6000" />
+		<attribute key="managain" value="8" />
+		<attribute key="healthticks" value="6000" />
+		<attribute key="healthgain" value="4" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="ring" />
 		</attribute>
@@ -9646,6 +9612,7 @@
 		<attribute key="primarytype" value="armors" />
 		<attribute key="armor" value="14" />
 		<attribute key="weight" value="8000" />
+		<attribute key="absorbpercentallelements" value="5" />
 		<attribute key="imbuementslot" value="2">
 			<attribute key="life leech" value="3" />
 			<attribute key="elemental protection death" value="3" />
@@ -9657,7 +9624,6 @@
 		</attribute>
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="armor" />
-			<attribute key="vocation" value="Knight;true, Paladin;true, Elite Knight, Royal Paladin" />
 		</attribute>
 	</item>
 	<item id="3361" article="a" name="leather armor">
@@ -9680,6 +9646,9 @@
 		<attribute key="primarytype" value="legs" />
 		<attribute key="armor" value="10" />
 		<attribute key="weight" value="4800" />
+		<attribute key="absorbpercentfire" value="5" />
+		<attribute key="absorbpercentpoison" value="5" />
+		<attribute key="absorbpercentearth" value="5" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="legs" />
 		</attribute>
@@ -9688,15 +9657,16 @@
 		<attribute key="primarytype" value="legs" />
 		<attribute key="armor" value="9" />
 		<attribute key="weight" value="5600" />
+		<attribute key="absorbpercentelements" value="5" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="legs" />
-			<attribute key="vocation" value="Knight;true, Paladin;true, Elite Knight, Royal Paladin" />
 		</attribute>
 	</item>
 	<item id="3365" article="a" name="golden helmet">
 		<attribute key="primarytype" value="helmets" />
 		<attribute key="description" value="It's the famous Helmet of the Stars" />
 		<attribute key="armor" value="12" />
+		<attribute key="absorbpercentmagic" value="15" />
 		<attribute key="weight" value="3200" />
 		<attribute key="imbuementslot" value="2">
 			<attribute key="mana leech" value="3" />
@@ -9714,6 +9684,7 @@
 		<attribute key="primarytype" value="armors" />
 		<attribute key="armor" value="17" />
 		<attribute key="weight" value="8500" />
+		<attribute key="absorbpercentall" value="5" />
 		<attribute key="imbuementslot" value="2">
 			<attribute key="life leech" value="3" />
 			<attribute key="elemental protection death" value="3" />
@@ -9725,7 +9696,6 @@
 		</attribute>
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="armor" />
-			<attribute key="vocation" value="Knight;true, Paladin;true, Elite Knight, Royal Paladin" />
 		</attribute>
 	</item>
 	<item id="3367" article="a" name="viking helmet">
@@ -9932,6 +9902,9 @@
 		<attribute key="primarytype" value="armors" />
 		<attribute key="armor" value="15" />
 		<attribute key="weight" value="11400" />
+		<attribute key="absorbpercentfire" value="5" />
+		<attribute key="absorbpercentpoison" value="5" />
+		<attribute key="absorbpercentearth" value="5" />
 		<attribute key="imbuementslot" value="1">
 			<attribute key="life leech" value="3" />
 			<attribute key="elemental protection death" value="3" />
@@ -10138,6 +10111,9 @@
 		<attribute key="primarytype" value="helmets" />
 		<attribute key="description" value="It's made of dragon scales." />
 		<attribute key="armor" value="9" />
+		<attribute key="absorbpercentfire" value="5" />
+		<attribute key="absorbpercentpoison" value="5" />
+		<attribute key="absorbpercentearth" value="5" />
 		<attribute key="weight" value="3250" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="head" />
@@ -11061,15 +11037,12 @@
 		<attribute key="weight" value="500" />
 	</item>
 	<item id="3549" article="a" name="pair of soft boots">
-		<attribute key="showduration" value="1" />
 		<attribute key="showAttributes" value="1" />
 		<attribute key="manaticks" value="6000" />
-		<attribute key="managain" value="12" />
+		<attribute key="managain" value="20" />
 		<attribute key="healthticks" value="6000" />
-		<attribute key="healthgain" value="3" />
-		<attribute key="duration" value="14400" />
+		<attribute key="healthgain" value="8" />
 		<attribute key="transformdeequipto" value="6529" />
-		<attribute key="decayTo" value="6530" />
 		<attribute key="weight" value="800" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="feet" />
@@ -11137,6 +11110,7 @@
 		<attribute key="primarytype" value="boots" />
 		<attribute key="armor" value="4" />
 		<attribute key="weight" value="3100" />
+		<attribute key="absorbpercentall" value="5" />
 		<attribute key="imbuementslot" value="1">
 			<attribute key="increase speed" value="3" />
 			<attribute key="paralysis removal" value="3" />
@@ -21901,8 +21875,7 @@
 	</item>
 	<item id="8061" article="a" name="skullcracker armor">
 		<attribute key="primarytype" value="armors" />
-		<attribute key="absorbpercentdeath" value="5" />
-		<attribute key="absorbpercentholy" value="-5" />
+		<attribute key="absorbpercentdeath" value="8" />
 		<attribute key="armor" value="14" />
 		<attribute key="weight" value="11000" />
 		<attribute key="script" value="moveevent">
@@ -21924,7 +21897,7 @@
 	</item>
 	<item id="8063" article="a" name="paladin armor">
 		<attribute key="primarytype" value="armors" />
-		<attribute key="skilldist" value="2" />
+		<attribute key="skilldist" value="4" />
 		<attribute key="armor" value="12" />
 		<attribute key="weight" value="6500" />
 		<attribute key="imbuementslot" value="1">
@@ -23483,7 +23456,7 @@
 	</item>
 	<item id="8862" article="a" name="yalahari armor">
 		<attribute key="primarytype" value="armors" />
-		<attribute key="absorbpercentdeath" value="3" />
+		<attribute key="absorbpercentdeath" value="8" />
 		<attribute key="armor" value="16" />
 		<attribute key="weight" value="7000" />
 		<attribute key="script" value="moveevent">
@@ -23495,7 +23468,7 @@
 	<item id="8863" article="a" name="yalahari leg piece">
 		<attribute key="primarytype" value="legs" />
 		<attribute key="absorbpercentdeath" value="5" />
-		<attribute key="skilldist" value="2" />
+		<attribute key="skilldist" value="4" />
 		<attribute key="armor" value="8" />
 		<attribute key="weight" value="6500" />
 		<attribute key="script" value="moveevent">
@@ -23506,7 +23479,7 @@
 	</item>
 	<item id="8864" article="a" name="yalahari mask">
 		<attribute key="primarytype" value="helmets" />
-		<attribute key="magiclevelpoints" value="2" />
+		<attribute key="magiclevelpoints" value="5" />
 		<attribute key="armor" value="5" />
 		<attribute key="weight" value="3500" />
 		<attribute key="imbuementslot" value="1">
@@ -23942,12 +23915,9 @@
 	<item id="9018" article="a" name="firewalker boots">
 		<attribute key="primarytype" value="boots" />
 		<attribute key="description" value="Wearing these boots reduces the damage gotten from fiery ground" />
-		<attribute key="showduration" value="1" />
 		<attribute key="showAttributes" value="1" />
-		<attribute key="fieldabsorbpercentfire" value="90" />
-		<attribute key="duration" value="3600" />
+		<attribute key="absorbpercentall" value="3" />
 		<attribute key="transformdeequipto" value="9019" />
-		<attribute key="decayTo" value="9020" />
 		<attribute key="armor" value="2" />
 		<attribute key="weight" value="950" />
 		<attribute key="script" value="moveevent">
@@ -23958,9 +23928,8 @@
 	<item id="9019" article="a" name="firewalker boots">
 		<attribute key="primarytype" value="boots" />
 		<attribute key="description" value="Wearing these boots reduces the damage gotten from fiery ground" />
-		<attribute key="stopduration" value="1" />
-		<attribute key="showduration" value="1" />
 		<attribute key="transformequipto" value="9018" />
+		<attribute key="absorbpercentall" value="3" />
 		<attribute key="armor" value="2" />
 		<attribute key="weight" value="950" />
 		<attribute key="script" value="moveevent">
