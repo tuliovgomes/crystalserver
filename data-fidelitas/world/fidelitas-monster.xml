@@ -6771,9 +6771,6 @@
 	<monster centerx="1498" centery="411" centerz="7" radius="1">
 		<monster name="Choking Fear" x="0" y="0" z="7" spawntime="90" />
 	</monster>
-	<monster centerx="816" centery="412" centerz="7" radius="3">
-		<monster name="Schiach" x="3" y="-2" z="7" spawntime="60" />
-	</monster>
 	<monster centerx="1437" centery="412" centerz="7" radius="3">
 		<monster name="Retching Horror" x="-3" y="0" z="7" spawntime="60" />
 		<monster name="Silencer" x="2" y="2" z="7" spawntime="60" />
@@ -6881,6 +6878,9 @@
 	<monster centerx="706" centery="415" centerz="7" radius="1">
 		<monster name="Bulltaur Forgepriest" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="820" centery="415" centerz="7" radius="3">
+		<monster name="Percht" x="0" y="3" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="972" centery="415" centerz="7" radius="2">
 		<monster name="Plaguesmith" x="-1" y="1" z="7" spawntime="90" />
 		<monster name="Plaguesmith" x="2" y="1" z="7" spawntime="60" />
@@ -6899,6 +6899,12 @@
 	</monster>
 	<monster centerx="737" centery="416" centerz="7" radius="1">
 		<monster name="Bulltaur Alchemist" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="802" centery="416" centerz="7" radius="1">
+		<monster name="Baleful Bunny" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="805" centery="416" centerz="7" radius="1">
+		<monster name="Bonny Bunny" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="713" centery="417" centerz="7" radius="1">
 		<monster name="Bulltaur brute" x="0" y="0" z="7" spawntime="60" />
@@ -6937,9 +6943,6 @@
 	</monster>
 	<monster centerx="722" centery="419" centerz="7" radius="1">
 		<monster name="Bulltaur Forgepriest" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="816" centery="419" centerz="7" radius="3">
-		<monster name="Percht" x="3" y="-2" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="872" centery="419" centerz="7" radius="3">
 		<monster name="Percht" x="1" y="2" z="7" spawntime="60" />
@@ -7032,6 +7035,8 @@
 	<monster centerx="717" centery="422" centerz="7" radius="1">
 		<monster name="Bulltaur brute" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="799" centery="422" centerz="7" radius="5" />
+	<monster centerx="806" centery="422" centerz="7" radius="3" />
 	<monster centerx="963" centery="422" centerz="7" radius="2">
 		<monster name="Nightmare" x="0" y="1" z="7" spawntime="90" />
 	</monster>
@@ -7171,8 +7176,17 @@
 	<monster centerx="732" centery="429" centerz="7" radius="1">
 		<monster name="Bulltaur brute" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="820" centery="429" centerz="7" radius="3">
+		<monster name="Percht" x="0" y="3" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="699" centery="430" centerz="7" radius="1">
 		<monster name="Bulltaur Alchemist" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="802" centery="430" centerz="7" radius="1">
+		<monster name="Baleful Bunny" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="805" centery="430" centerz="7" radius="1">
+		<monster name="Bonny Bunny" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="908" centery="430" centerz="7" radius="1">
 		<monster name="Frost Dragon" x="0" y="0" z="7" spawntime="60" />
@@ -7306,6 +7320,12 @@
 	</monster>
 	<monster centerx="673" centery="436" centerz="7" radius="1">
 		<monster name="Bulltaur Forgepriest" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="799" centery="436" centerz="7" radius="5">
+		<monster name="Schiach" x="0" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="806" centery="436" centerz="7" radius="3">
+		<monster name="Schiach" x="1" y="2" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1531" centery="436" centerz="7" radius="1">
 		<monster name="Retching Horror" x="0" y="-1" z="7" spawntime="14219" />
@@ -7455,6 +7475,9 @@
 	<monster centerx="642" centery="443" centerz="7" radius="1">
 		<monster name="Bulltaur brute" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="813" centery="443" centerz="7" radius="3">
+		<monster name="Schiach" x="3" y="-2" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="964" centery="443" centerz="7" radius="2">
 		<monster name="Plaguesmith" x="1" y="0" z="7" spawntime="90" />
 	</monster>
@@ -7554,6 +7577,9 @@
 	</monster>
 	<monster centerx="633" centery="450" centerz="7" radius="1">
 		<monster name="Bulltaur Forgepriest" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="813" centery="450" centerz="7" radius="3">
+		<monster name="Percht" x="3" y="-2" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1040" centery="450" centerz="7" radius="3">
 		<monster name="Lost Soul" x="3" y="-2" z="7" spawntime="90" />

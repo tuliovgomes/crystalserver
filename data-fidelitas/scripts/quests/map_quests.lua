@@ -76,8 +76,37 @@ local questConfig = {
             {id = 36725, count = 1},
             {id = 8102, count = 1},
         }
+    },
+    {
+        storage = 70009,
+        chestId = 5915,
+        position = Position(698, 783, 7),
+        rewards = {
+            {id = 3043, count = 10},
+            {id = 3245, count = 1},
+        }
+    },
+    {
+        storage = 70010,
+        chestId = 153,
+        position = Position(783, 494, 8),
+        rewards = {
+            {id = 3043, count = 10},
+            {id = 6299, count = 1},
+        }
+    },
+    {
+        storage = 70011,
+        chestId = 153,
+        position = Position(711, 538, 8),
+        rewards = {
+            {id = 3043, count = 1},
+            {id = 816, count = 1},
+        }
     }
 }
+
+
 
 local questAction = Action()
 

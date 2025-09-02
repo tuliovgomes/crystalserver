@@ -6615,7 +6615,8 @@ GameStore.Categories = {
 				itemtype = 31633,
 				count = 1,
 				description = "<i>Teleport Hunts.</i>",
-				type = GameStore.OfferTypes.OFFER_TYPE_STACKABLE,
+				type = GameStore.OfferTypes.OFFER_TYPE_ITEM,
+				movable = true,
 				home = true,
 			},
 			{
@@ -6625,7 +6626,8 @@ GameStore.Categories = {
 				itemtype = 16262,
 				count = 1,
 				description = "<i>Teleport Basics.</i>",
-				type = GameStore.OfferTypes.OFFER_TYPE_STACKABLE,
+				type = GameStore.OfferTypes.OFFER_TYPE_ITEM,
+				movable = true,
 				home = true,
 			},
 			{
@@ -6635,7 +6637,8 @@ GameStore.Categories = {
 				itemtype = 37749,
 				count = 1,
 				description = "<i>Ammo item, Protection, regen....</i>",
-				type = GameStore.OfferTypes.OFFER_TYPE_STACKABLE,
+				type = GameStore.OfferTypes.OFFER_TYPE_ITEM,
+				movable = true,
 				home = true,
 			},
 			{
@@ -6645,7 +6648,8 @@ GameStore.Categories = {
 				itemtype = 23683,
 				count = 1,
 				description = "<i>Ammo item, Protection, regen....</i>",
-				type = GameStore.OfferTypes.OFFER_TYPE_STACKABLE,
+				type = GameStore.OfferTypes.OFFER_TYPE_ITEM,
+				movable = true,
 				home = true,
 			},
 			{
@@ -6655,7 +6659,8 @@ GameStore.Categories = {
 				itemtype = 34079,
 				count = 1,
 				description = "<i>Ammo item, Protection, regen....</i>",
-				type = GameStore.OfferTypes.OFFER_TYPE_STACKABLE,
+				type = GameStore.OfferTypes.OFFER_TYPE_ITEM,
+				movable = true,
 				home = true,
 			},
 			{
