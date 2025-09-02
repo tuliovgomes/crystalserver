@@ -2,7 +2,7 @@ local mType = Game.createMonsterType("Behemoth")
 local monster = {}
 
 monster.description = "a behemoth"
-monster.experience = 2500
+monster.experience = 3800
 monster.outfit = {
 	lookType = 55,
 	lookHead = 0,
@@ -106,8 +106,8 @@ monster.loot = {
 }
 
 monster.attacks = {
-	{ name = "melee", interval = 2000, chance = 100, minDamage = 0, maxDamage = -450 },
-	{ name = "combat", interval = 2000, chance = 15, type = COMBAT_PHYSICALDAMAGE, minDamage = 0, maxDamage = -200, range = 7, shootEffect = CONST_ANI_LARGEROCK, target = false },
+	{ name = "melee", interval = 2000, chance = 100, minDamage = -200, maxDamage = -450 },
+	{ name = "combat", interval = 2000, chance = 15, type = COMBAT_PHYSICALDAMAGE, minDamage = -200, maxDamage = -400, range = 7, shootEffect = CONST_ANI_LARGEROCK, target = false },
 }
 
 monster.defenses = {

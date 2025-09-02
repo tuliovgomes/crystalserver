@@ -97,6 +97,7 @@ monster.loot = {
 	{name = "ultimate mana potion", minCount = 10, maxCount = 60, chance = 42000},
 	{name = "ultimate spirit potion", minCount = 0, maxCount = 88, chance = 42000},
 	{name = "slingshot", chance = 42000},
+	{id = 29294, chance = 2000},
 }
 
 mType:register(monster)

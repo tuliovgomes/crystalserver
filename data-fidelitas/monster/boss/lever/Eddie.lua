@@ -112,6 +112,7 @@ monster.loot = {
 	{name = "winged boots", chance = 1800},
 	{name = "winged helmet", chance = 1800},
 	{name = "amulet of loss", chance = 8100},
+	{id = 29294, chance = 2000},
 }
 
 mType.onThink = function(monster, interval)
