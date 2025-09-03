@@ -110,6 +110,11 @@ local itemsTable = {
 		{ itemName = "thunderstorm rune", clientId = 3202, buy = 47 },
 		{ itemName = "ultimate healing rune", clientId = 3160, buy = 175 },
 		{ itemName = "wild growth rune", clientId = 3156, buy = 160 },
+		{ itemName = "icicle of chaos runes", clientId = 3162, buy = 1270 },
+		{ itemName = "Fire Missile runes", clientId = 3193, buy = 870 },
+		{ itemName = "dharmas of chaos runes", clientId = 3150, buy = 980 },
+		{ itemName = "diamond dust rune", clientId = 3163, buy = 950 },
+		{ itemName = "rejuvenation healing rune", clientId = 3159, buy = 567 },
 	},
 	["wands"] = {
 		{ itemName = "hailstorm rod", clientId = 3067, buy = 15000 },
