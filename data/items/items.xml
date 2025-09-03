@@ -7611,7 +7611,12 @@
 		<attribute key="charges" value="2" />
 		<attribute key="weight" value="105" />
 	</item>
-	<item fromid="3150" toid="3151" article="a" name="spell rune">
+	<item id="3150" article="a" name="dharmas of chaos rune">
+		<attribute key="primarytype" value="utilities" />
+		<attribute key="type" value="rune" />
+		<attribute key="weight" value="120" />
+	</item>
+	<item id="3151" article="a" name="spell rune">
 		<attribute key="primarytype" value="utilities" />
 		<attribute key="type" value="rune" />
 		<attribute key="weight" value="120" />
@@ -7659,7 +7664,7 @@
 		<attribute key="charges" value="5" />
 		<attribute key="weight" value="42" />
 	</item>
-	<item id="3159" article="a" name="spell rune">
+	<item id="3159" article="a" name="rejuvenation healing rune">
 		<attribute key="primarytype" value="utilities" />
 		<attribute key="type" value="rune" />
 		<attribute key="weight" value="120" />
@@ -7677,10 +7682,17 @@
 		<attribute key="charges" value="4" />
 		<attribute key="weight" value="52" />
 	</item>
-	<item fromid="3162" toid="3163" article="a" name="spell rune">
+	<item id="3162" article="a" name="icicle of chaos rune">
 		<attribute key="primarytype" value="utilities" />
 		<attribute key="type" value="rune" />
 		<attribute key="weight" value="120" />
+	</item>
+	<item id="3163" article="an" name="diamond dust rune">
+		<attribute key="primarytype" value="attack runes" />
+		<attribute key="type" value="rune" />
+		<attribute key="runespellname" value="adevo grav vis" />
+		<attribute key="charges" value="3" />
+		<attribute key="weight" value="70" />
 	</item>
 	<item id="3164" article="an" name="energy field rune">
 		<attribute key="primarytype" value="attack runes" />
@@ -7823,7 +7835,12 @@
 		<attribute key="charges" value="2" />
 		<attribute key="weight" value="105" />
 	</item>
-	<item fromid="3193" toid="3194" article="a" name="spell rune">
+	<item id="3193"  article="a" name="Fire Missile rune">
+		<attribute key="primarytype" value="utilities" />
+		<attribute key="type" value="rune" />
+		<attribute key="weight" value="120" />
+	</item>
+	<item id="3194" article="a" name="spell rune">
 		<attribute key="primarytype" value="utilities" />
 		<attribute key="type" value="rune" />
 		<attribute key="weight" value="120" />
@@ -9931,6 +9948,8 @@
 		<attribute key="primarytype" value="helmets" />
 		<attribute key="description" value="You hear an evil whispering from inside" />
 		<attribute key="armor" value="10" />
+		<attribute key="absorbpercentfire" value="10" />
+		<attribute key="absorbpercentdeath" value="10" />
 		<attribute key="weight" value="2950" />
 		<attribute key="imbuementslot" value="2">
 			<attribute key="mana leech" value="3" />
@@ -9948,6 +9967,8 @@
 		<attribute key="primarytype" value="armors" />
 		<attribute key="armor" value="16" />
 		<attribute key="weight" value="8000" />
+		<attribute key="absorbpercentfire" value="10" />
+		<attribute key="absorbpercentdeath" value="10" />
 		<attribute key="imbuementslot" value="2">
 			<attribute key="life leech" value="3" />
 			<attribute key="elemental protection death" value="3" />
@@ -9964,6 +9985,8 @@
 	<item id="3389" name="demon legs">
 		<attribute key="primarytype" value="legs" />
 		<attribute key="armor" value="9" />
+		<attribute key="absorbpercentfire" value="10" />
+		<attribute key="absorbpercentdeath" value="10" />
 		<attribute key="weight" value="7000" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="legs" />
@@ -48969,18 +48992,13 @@ hands of its owner. Granted by TibiaRoyal.com" />
 	<item id="25757" article="a" name="diamond arrow">
 		<attribute key="primarytype" value="ammunition" />
 		<attribute key="ammotype" value="arrow" />
-		<attribute key="attack" value="37" />
+		<attribute key="attack" value="57" />
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="3600" />
 		<attribute key="maxhitchance" value="100" />
-		<attribute key="ammotype" value="arrow" />
 		<attribute key="shootType" value="diamondarrow" />
 		<attribute key="stopduration" value="0" />
 		<attribute key="showduration" value="1" />
-		<attribute key="maxhitchance" value="100" />
-		<attribute key="duration" value="3600" />
-		<attribute key="decayTo" value="0" />
-		<attribute key="attack" value="37" />
 		<attribute key="weight" value="80" />
 	</item>
 	<item id="25758" article="a" name="spectral bolt">
@@ -48992,7 +49010,7 @@ hands of its owner. Granted by TibiaRoyal.com" />
 		<attribute key="showduration" value="1" />
 		<attribute key="maxhitchance" value="100" />
 		<attribute key="duration" value="3600" />
-		<attribute key="attack" value="78" />
+		<attribute key="attack" value="98" />
 		<attribute key="weight" value="90" />
 		<attribute key="script" value="moveevent;weapon">
 			<attribute key="action" value="removecount" />
@@ -66753,7 +66771,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com" />
 		<attribute key="ammotype" value="arrow" />
 		<attribute key="shootType" value="diamondarrow" />
 		<attribute key="maxhitchance" value="100" />
-		<attribute key="attack" value="37" />
+		<attribute key="attack" value="57" />
 		<attribute key="weight" value="80" />
 	</item>
 	<item id="35902" article="a" name="spectral bolt">
@@ -66762,7 +66780,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com" />
 		<attribute key="ammotype" value="bolt" />
 		<attribute key="shootType" value="spectralbolt" />
 		<attribute key="maxhitchance" value="100" />
-		<attribute key="attack" value="78" />
+		<attribute key="attack" value="98" />
 		<attribute key="weight" value="90" />
 		<attribute key="script" value="moveevent;weapon">
 			<attribute key="action" value="removecount" />
