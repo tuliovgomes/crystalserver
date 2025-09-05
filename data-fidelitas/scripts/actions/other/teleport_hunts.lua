@@ -65,7 +65,7 @@ local function showHuntsByRange(player, minLevel, maxLevel)
     }
 
     for _, info in pairs(config) do
-		player:getPosition():sendMagicEffect(CONST_ME_ROOTS)
+		player:getPosition():sendMagicEffect(CONST_ME_ROOTS) 	
         if info.level >= minLevel and (maxLevel == -1 or info.level <= maxLevel) then
             window:addChoice(info.name ..' - '.. info.level, function(player, button, choice)
                 if button.name ~= "Select" then
