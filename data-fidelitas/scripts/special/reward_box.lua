@@ -1,7 +1,7 @@
 local storeBox = Action()
 
 local JEWEL = {11470, 3013, 3034, 3036, 3037, 3038, 3039, 3041}
-local REWARD = {3366, 3364, 3360}
+local REWARD = {3366, 3364, 3549, 36725, 3360, 29291, 29292, 29293, 29294, 10385}
 function storeBox.onUse(cid, item, fromPosition, itemEx, toPosition)
       local randomChance = math.random(1, #REWARD)
       doPlayerAddItem(cid, REWARD[randomChance], 1)

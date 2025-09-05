@@ -17,13 +17,18 @@ function teleportBasic.onUse(player, item, fromPosition, target, toPosition, isH
 		message = "Locations"
 	}
 	for i, info in pairs(config) do
+		player:getPosition():sendMagicEffect(CONST_ME_TREASURE_MAP)
 		window:addChoice(string.format("%s", info.name), function (player, button, choice)
 			if button.name ~= "Select" then
 				return true
 			end
+			player:getPosition():sendMagicEffect(CONST_ME_ROOTS)
+			player:getPosition():sendMagicEffect(CONST_ME_AVATAR_APPEAR)
 			player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "You were teleported to " .. info.name)
 			player:teleportTo(info.position)
-			player:getPosition():sendMagicEffect(CONST_ME_TELEPORT)
+			player:getPosition():sendMagicEffect(CONST_ME_GIFT_WRAPS)
+			player:getPosition():sendMagicEffect(CONST_ME_BIGCLOUDS)
+			player:getPosition():sendMagicEffect(CONST_ME_BATS)
 			return true
 		end)
 	end

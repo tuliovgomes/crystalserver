@@ -27,6 +27,7 @@ local config = {
         {id = 37749, minCount = 1, maxCount = 1, chance = 1, raro = true},
         {id = 34079, minCount = 1, maxCount = 1, chance = 1, raro = true},
         {id = 3043, minCount = 5, maxCount = 50, chance = 3},
+        {id = 12057, minCount = 1, maxCount = 1, chance = 3},
         {id = 37110, minCount = 1, maxCount = 1, chance = 3},
         {id = 37335, minCount = 1, maxCount = 1, chance = 3},
         {id = 37337, minCount = 1, maxCount = 1, chance = 3},

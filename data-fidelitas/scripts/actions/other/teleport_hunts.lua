@@ -65,14 +65,19 @@ local function showHuntsByRange(player, minLevel, maxLevel)
     }
 
     for _, info in pairs(config) do
+		player:getPosition():sendMagicEffect(CONST_ME_ROOTS)
         if info.level >= minLevel and (maxLevel == -1 or info.level <= maxLevel) then
             window:addChoice(info.name ..' - '.. info.level, function(player, button, choice)
                 if button.name ~= "Select" then
                     return true
                 end
+				player:getPosition():sendMagicEffect(CONST_ME_ROOTS)
+				player:getPosition():sendMagicEffect(CONST_ME_AVATAR_APPEAR)
                 player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "You were teleported to " .. info.name)
                 player:teleportTo(info.position)
-                player:getPosition():sendMagicEffect(CONST_ME_TELEPORT)
+				player:getPosition():sendMagicEffect(CONST_ME_GIFT_WRAPS)
+				player:getPosition():sendMagicEffect(CONST_ME_BIGCLOUDS)
+				player:getPosition():sendMagicEffect(CONST_ME_BATS)
                 return true
             end)
         end
@@ -88,6 +93,7 @@ end
 -- Primeira janela: seleção de faixa de level
 local teleportCube = Action()
 function teleportCube.onUse(player, item, fromPosition, target, toPosition, isHotkey)
+	player:getPosition():sendMagicEffect(CONST_ME_TREASURE_MAP)
     local window = ModalWindow {
         title = "Level Range",
         message = "Selecione a faixa de level:"
