@@ -4845,6 +4845,10 @@
 		<monster name="Lord Azaram" x="-5" y="-7" z="6" spawntime="60" direction="2" />
 		<monster name="Sir Nictros" x="-3" y="-7" z="6" spawntime="60" direction="2" />
 		<monster name="Timira the Many-Headed" x="1" y="-7" z="6" spawntime="60" direction="2" />
+		<monster name="Ghulosh" x="3" y="-7" z="6" spawntime="60" direction="2" />
+		<monster name="Gorzindel" x="5" y="-7" z="6" spawntime="60" direction="2" />
+		<monster name="Lokathmor" x="7" y="-7" z="6" spawntime="60" direction="2" />
+		<monster name="Mazzinor" x="9" y="-7" z="6" spawntime="60" direction="2" />
 		<monster name="Ratmiral Blackwhiskers" x="12" y="-7" z="6" spawntime="60" direction="2" />
 		<monster name="Drume" x="-17" y="-4" z="6" spawntime="60" direction="1" />
 		<monster name="Faceless Bane" x="15" y="-4" z="6" spawntime="60" direction="3" />
@@ -14101,7 +14105,10 @@
 	<monster centerx="695" centery="994" centerz="7" radius="1">
 		<monster name="Noxious Ripptor" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="1089" centery="995" centerz="7" radius="30" />
+	<monster centerx="1089" centery="995" centerz="7" radius="30">
+		<monster name="Ferumbras Mortal Shell" x="-2" y="-8" z="7" spawntime="60" direction="2" />
+		<monster name="The Primal Menace" x="0" y="-8" z="7" spawntime="60" direction="2" />
+	</monster>
 	<monster centerx="523" centery="996" centerz="7" radius="5">
 		<monster name="Nighthunter" x="-5" y="-4" z="7" spawntime="60" />
 		<monster name="Undertaker" x="-3" y="-4" z="7" spawntime="60" />
