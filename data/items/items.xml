@@ -10408,6 +10408,7 @@
 		<attribute key="description" value="The shield is made of dragon scales" />
 		<attribute key="weaponType" value="shield" />
 		<attribute key="defense" value="38" />
+		<attribute key="absorbpercentall" value="3" />
 		<attribute key="weight" value="8400" />
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3" />
@@ -10427,6 +10428,7 @@
 		<attribute key="description" value="The shield grants divine protection" />
 		<attribute key="weaponType" value="shield" />
 		<attribute key="defense" value="40" />
+		<attribute key="absorbpercentall" value="5" />
 		<attribute key="weight" value="6800" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="shield" />
@@ -17710,7 +17712,8 @@
 		<attribute key="primarytype" value="shields" />
 		<attribute key="description" value="It is enchanted with unholy, necromantic powers" />
 		<attribute key="weaponType" value="shield" />
-		<attribute key="defense" value="37" />
+		<attribute key="defense" value="47" />
+		<attribute key="absorbpercentall" value="8" />
 		<attribute key="weight" value="3200" />
 		<attribute key="imbuementslot" value="1">
 			<attribute key="elemental protection death" value="3" />
@@ -54270,8 +54273,7 @@ hands of its owner. Granted by TibiaRoyal.com" />
 	<item id="28721" article="a" name="falcon shield">
 		<attribute key="primarytype" value="shields" />
 		<attribute key="weaponType" value="shield" />
-		<attribute key="absorbpercentphysical" value="6" />
-		<attribute key="absorbpercentfire" value="10" />
+		<attribute key="absorbpercentall" value="9" />
 		<attribute key="defense" value="39" />
 		<attribute key="weight" value="5700" />
 		<attribute key="imbuementslot" value="1">
@@ -54292,8 +54294,7 @@ hands of its owner. Granted by TibiaRoyal.com" />
 	<item id="28722" article="a" name="falcon escutcheon">
 		<attribute key="primarytype" value="shields" />
 		<attribute key="weaponType" value="shield" />
-		<attribute key="absorbpercentphysical" value="7" />
-		<attribute key="absorbpercentfire" value="15" />
+		<attribute key="absorbpercentall" value="12" />
 		<attribute key="defense" value="40" />
 		<attribute key="weight" value="6000" />
 		<attribute key="imbuementslot" value="1">
@@ -64457,8 +64458,7 @@ hands of its owner. Granted by TibiaRoyal.com" />
 	<item id="34099" article="a" name="soulbastion">
 		<attribute key="primarytype" value="shields" />
 		<attribute key="weaponType" value="shield" />
-		<attribute key="absorbpercentphysical" value="10" />
-		<attribute key="absorbpercentdeath" value="10" />
+		<attribute key="absorbpercentall" value="15" />
 		<attribute key="defense" value="42" />
 		<attribute key="weight" value="5800" />
 		<attribute key="imbuementslot" value="1">

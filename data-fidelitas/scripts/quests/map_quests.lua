@@ -1,7 +1,6 @@
 local questConfig = {
     {
         storage = 70001,
-        chestId = 2482,
         position = Position(903, 442, 4),
         rewards = {
             {id = 3043, count = 10},
@@ -10,7 +9,6 @@ local questConfig = {
     },
     {
         storage = 70002,
-        chestId = 2481,
         position = Position(813, 718, 2),
         rewards = {
             {id = 3043, count = 5},
@@ -19,7 +17,6 @@ local questConfig = {
     },
     {
         storage = 70003,
-        chestId = 2027,
         position = Position(888, 679, 7),
         rewards = {
             {id = 3043, count = 5},
@@ -28,7 +25,6 @@ local questConfig = {
     },
     {
         storage = 70004,
-        chestId = 2031,
         position = Position(911, 609, 6),
         rewards = {
             {id = 3043, count = 5},
@@ -37,7 +33,6 @@ local questConfig = {
     },
     {
         storage = 70005,
-        chestId = 5915,
         position = Position(687, 842, 0),
         rewards = {
             {id = 3043, count = 5},
@@ -46,7 +41,6 @@ local questConfig = {
     },
     {
         storage = 70006,
-        chestId = 5915,
         position = Position(612, 774, 0),
         rewards = {
             {id = 3043, count = 15},
@@ -57,7 +51,6 @@ local questConfig = {
     },
     {
         storage = 70007,
-        chestId = 10033,
         position = Position(1300, 785, 1),
         rewards = {
             {id = 3043, count = 15},
@@ -68,7 +61,6 @@ local questConfig = {
     },
     {
         storage = 70008,
-        chestId = 5915,
         position = Position(973, 846, 8),
         rewards = {
             {id = 3043, count = 10},
@@ -79,7 +71,6 @@ local questConfig = {
     },
     {
         storage = 70009,
-        chestId = 5915,
         position = Position(698, 783, 7),
         rewards = {
             {id = 3043, count = 10},
@@ -88,7 +79,6 @@ local questConfig = {
     },
     {
         storage = 70010,
-        chestId = 153,
         position = Position(783, 494, 8),
         rewards = {
             {id = 3043, count = 10},
@@ -97,11 +87,20 @@ local questConfig = {
     },
     {
         storage = 70011,
-        chestId = 153,
         position = Position(711, 538, 8),
         rewards = {
             {id = 3043, count = 1},
             {id = 816, count = 1},
+        }
+    },
+    {
+        storage = 70012,
+        position = Position(615, 746, 8),
+        rewards = {
+            {id = 3309, count = 1},
+            {id = 3319, count = 1},
+            {id = 3288, count = 1},
+            {id = 12057, count = 1},
         }
     }
 }
