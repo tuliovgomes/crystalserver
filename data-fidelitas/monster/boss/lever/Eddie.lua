@@ -103,16 +103,16 @@ monster.summons = {
 }
 
 monster.loot = {
-	{name = "great shield", chance = 1201},
-	{name = "demon helmet", chance = 2900},
-	{name = "demon armor", chance = 3702},
-	{name = "demon legs", chance = 2600},
+	{name = "great shield", chance = 2201},
+	{name = "demon helmet", chance = 9900},
+	{name = "demon armor", chance = 8702},
+	{name = "demon legs", chance = 6600},
 	{name = "demon shield", chance = 4000},
-	{name = "mastermind shield", chance = 1500},
-	{name = "winged boots", chance = 1800},
-	{name = "winged helmet", chance = 1800},
+	{name = "mastermind shield", chance = 3500},
+	{name = "winged boots", chance = 3800},
+	{name = "winged helmet", chance = 4800},
 	{name = "amulet of loss", chance = 8100},
-	{id = 29294, chance = 2000},
+	{id = 29294, chance = 4000},
 }
 
 mType.onThink = function(monster, interval)
