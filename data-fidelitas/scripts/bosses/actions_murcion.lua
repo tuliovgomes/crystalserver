@@ -4,6 +4,7 @@ local config = {
 		position = Position(994, 1131, 7),
 	},
 	requiredLevel = 400,
+	timeToFightAgain = ParseDuration("20h") / ParseDuration("1s"),
 	playerPositions = {
 		{ pos = Position(960, 1129, 7), teleport = Position(992, 1135, 7), effect = CONST_ME_TELEPORT },
 		{ pos = Position(961, 1129, 7), teleport = Position(992, 1135, 7), effect = CONST_ME_TELEPORT },

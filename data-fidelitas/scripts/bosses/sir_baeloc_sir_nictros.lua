@@ -11,6 +11,7 @@ local config = {
 		end,
 	},
 	requiredLevel = 250,
+	timeToFightAgain = ParseDuration("20h") / ParseDuration("1s"),
 	playerPositions = {
 		{ pos = Position(1273, 1104, 7), teleport = Position(1273, 1129, 7)	 },
 		{ pos = Position(1274, 1104, 7), teleport = Position(1273, 1129, 7)	 },

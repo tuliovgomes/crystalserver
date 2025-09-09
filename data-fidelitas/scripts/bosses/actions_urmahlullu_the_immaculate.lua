@@ -3,7 +3,8 @@ local config = {
 		name = "Urmahlullu the Immaculate",
 		position = Position(935, 777, 9),
 	},
-	requiredLevel = 100,
+	requiredLevel = 200,
+	timeToFightAgain = ParseDuration("20h") / ParseDuration("1s"),
 	playerPositions = {
 		{ pos = Position(899, 779, 9), teleport = Position(932, 771, 9), effect = CONST_ME_TELEPORT },
 		{ pos = Position(900, 779, 9), teleport = Position(932, 771, 9), effect = CONST_ME_TELEPORT },

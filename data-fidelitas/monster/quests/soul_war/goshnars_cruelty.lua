@@ -132,22 +132,4 @@ monster.immunities = {
 	{ type = "bleed", condition = false },
 }
 
-local firstTime = 0
-mType.onThink = function(monster, interval)
-	firstTime = firstTime + interval
-	-- Run only 15 seconds before creation
-	if firstTime >= 15000 then
-		monster:goshnarsDefenseIncrease("greedy-maw-action")
-	end
-end
-
-mType.onDisappear = function(monster, creature)
-	if creature:getName() == "Goshnar's Cruelty" then
-		local eyeCreature = Creature("A Greedy Eye")
-		if eyeCreature then
-			eyeCreature:remove()
-		end
-	end
-end
-
 mType:register(monster)
