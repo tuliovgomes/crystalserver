@@ -1,7 +1,7 @@
 local storeBox = Action()
 
 local JEWEL = {11470, 3013, 3034, 3036, 3037, 3038, 3039, 3041}
-local REWARD = {3366, 3364, 3549, 36725, 3360, 29291, 29292, 29293, 29294, 10385}
+local REWARD = {3366, 3364, 3549, 36725, 3360, 29291, 29292, 29293, 29294, 10385, 16110, 16105, 3387, 3388, 3389, 6299, 3006}
 function storeBox.onUse(cid, item, fromPosition, itemEx, toPosition)
       local randomChance = math.random(1, #REWARD)
       doPlayerAddItem(cid, REWARD[randomChance], 1)
@@ -18,7 +18,7 @@ local randomJewel = math.random(1,10)
     if randomJewel == 1 then
     doPlayerSendTextMessage(cid, 22, "You found an extra item!")
       local randomChance = math.random(1, #JEWEL)
-      doPlayerAddItem(cid, JEWEL[randomChance], 1)
+      doPlayerAddItem(cid, JEWEL[randomChance], 100)
     end
 
    doSendMagicEffect(getPlayerPosition(cid), 197)
