@@ -2,7 +2,7 @@ local mType = Game.createMonsterType("Hateful Soul")
 local monster = {}
 
 monster.description = "a hateful soul"
-monster.experience = 5580
+monster.experience = 9580
 monster.outfit = {
 	lookType = 1268,
 	lookHead = 0,

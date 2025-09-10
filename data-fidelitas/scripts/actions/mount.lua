@@ -18,20 +18,27 @@ local config = {
 }
 
 function mount.onUse(player, item, fromPosition, target, toPosition, isHotkey)
-
 	for i = 1, #config do
 		if config[i].itemid == item.itemid then
 			local mountclicked = config[i]
 			if player:getStorageValue(mountclicked.itemid) == -1 then
 				player:addMount(mountclicked.mountid)
-				player:setStorageValue(mountclicked.itemid)
-				player:removeItem(mountclicked.itemid, 1)
+				player:setStorageValue(mountclicked.itemid, 1)
+
+				if fromPosition.x == CONTAINER_POSITION or fromPosition:isPlayer() then
+					player:removeItem(mountclicked.itemid, 1)
+				else
+					item:remove(1)
+				end
+
 				player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "You got a new mount!")
 			else
 				player:sendTextMessage(MESSAGE_EVENT_ADVANCE, "You already have that mount, sorry.")
 			end
+			break
 		end
 	end
+	return true
 end
 
 for i = 1, #config do

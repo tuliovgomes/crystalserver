@@ -2,7 +2,7 @@ local mType = Game.createMonsterType("Werelioness")
 local monster = {}
 
 monster.description = "a werelioness"
-monster.experience = 2300
+monster.experience = 4300
 monster.outfit = {
 	lookType = 1301,
 	lookHead = 0,
@@ -94,9 +94,9 @@ monster.loot = {
 
 monster.attacks = {
 	{ name = "melee", interval = 2000, chance = 100, minDamage = 0, maxDamage = -300 },
-	{ name = "combat", interval = 2000, chance = 10, type = COMBAT_HOLYDAMAGE, minDamage = -300, maxDamage = -410, range = 3, effect = CONST_ME_HOLYAREA, target = true },
-	{ name = "combat", interval = 2000, chance = 10, type = COMBAT_HOLYDAMAGE, minDamage = -170, maxDamage = -350, range = 3, shootEffect = CONST_ANI_HOLY, target = true },
-	{ name = "combat", interval = 2000, chance = 10, type = COMBAT_FIREDAMAGE, minDamage = -250, maxDamage = -300, length = 4, spread = 0, effect = CONST_ME_FIREAREA, target = false },
+	{ name = "combat", interval = 2000, chance = 10, type = COMBAT_HOLYDAMAGE, minDamage = -300, maxDamage = -510, range = 3, effect = CONST_ME_HOLYAREA, target = true },
+	{ name = "combat", interval = 2000, chance = 10, type = COMBAT_HOLYDAMAGE, minDamage = -170, maxDamage = -650, range = 3, shootEffect = CONST_ANI_HOLY, target = true },
+	{ name = "combat", interval = 2000, chance = 10, type = COMBAT_FIREDAMAGE, minDamage = -250, maxDamage = -700, length = 4, spread = 0, effect = CONST_ME_FIREAREA, target = false },
 }
 
 monster.defenses = {

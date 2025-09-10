@@ -2,7 +2,7 @@ local mType = Game.createMonsterType("Exotic Cave Spider")
 local monster = {}
 
 monster.description = "a exotic cave spider"
-monster.experience = 1400
+monster.experience = 7400
 monster.outfit = {
 	lookType = 1344,
 	lookHead = 0,
@@ -85,9 +85,9 @@ monster.loot = {
 }
 
 monster.attacks = {
-	{ name = "melee", interval = 2000, chance = 100, minDamage = 0, maxDamage = -450, condition = { type = CONDITION_POISON, totalDamage = 250, interval = 4000 } },
+	{ name = "melee", interval = 2000, chance = 100, minDamage = -300, maxDamage = -950, condition = { type = CONDITION_POISON, totalDamage = 250, interval = 4000 } },
 	{ name = "combat", interval = 2000, chance = 10, type = COMBAT_EARTHDAMAGE, range = 7, radius = 1, shootEffect = CONST_ANI_POISON, effect = CONST_ME_POISONAREA, target = true },
-	{ name = "combat", interval = 2000, chance = 20, type = COMBAT_EARTHDAMAGE, minDamage = -90, maxDamage = -150, range = 7, radius = 3, effect = CONST_ME_POISONAREA, target = true },
+	{ name = "combat", interval = 2000, chance = 20, type = COMBAT_EARTHDAMAGE, minDamage = -900, maxDamage = -1500, range = 7, radius = 3, effect = CONST_ME_POISONAREA, target = true },
 }
 
 monster.defenses = {

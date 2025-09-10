@@ -36,6 +36,7 @@ monster.flags = {
 	boss = false,
 	ignoreSpawnBlock = false,
 	pushable = false,
+	rewardBoss = true,
 	canPushItems = true,
 	canPushCreatures = true,
 	staticAttackChance = 85,
