@@ -1339,6 +1339,18 @@
 	<monster centerx="888" centery="1014" centerz="4" radius="3">
 		<monster name="Cobra Vizier" x="1" y="1" z="4" spawntime="60" />
 	</monster>
+	<monster centerx="949" centery="1316" centerz="4" radius="16">
+		<monster name="Minotaur Hunter" x="-2" y="-12" z="4" spawntime="60" />
+		<monster name="Minotaur Hunter" x="-6" y="-11" z="4" spawntime="60" />
+		<monster name="Moohtant" x="-6" y="-6" z="4" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-4" y="-4" z="4" spawntime="60" />
+		<monster name="Minotaur Hunter" x="10" y="-2" z="4" spawntime="60" />
+		<monster name="Moohtant" x="5" y="1" z="4" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="7" y="3" z="4" spawntime="60" />
+		<monster name="Minotaur Hunter" x="-5" y="6" z="4" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-3" y="7" z="4" spawntime="60" />
+		<monster name="Moohtant" x="0" y="9" z="4" spawntime="60" />
+	</monster>
 	<monster centerx="816" centery="335" centerz="5" radius="3">
 		<monster name="Schiach" x="2" y="2" z="5" spawntime="60" />
 	</monster>
@@ -2473,6 +2485,28 @@
 	</monster>
 	<monster centerx="888" centery="1028" centerz="5" radius="3">
 		<monster name="Cobra Assassin" x="1" y="-1" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="949" centery="1315" centerz="5" radius="25">
+		<monster name="Mooh'Tah Warrior" x="-3" y="-18" z="5" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-2" y="-15" z="5" spawntime="60" />
+		<monster name="Worm Priestess" x="1" y="-15" z="5" spawntime="60" />
+		<monster name="Minotaur Amazon" x="-6" y="-10" z="5" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-13" y="-7" z="5" spawntime="60" />
+		<monster name="Worm Priestess" x="-16" y="-6" z="5" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-12" y="-6" z="5" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="12" y="-6" z="5" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="15" y="-6" z="5" spawntime="60" />
+		<monster name="Minotaur Hunter" x="9" y="-3" z="5" spawntime="60" />
+		<monster name="Worm Priestess" x="9" y="-2" z="5" spawntime="60" />
+		<monster name="Minotaur Hunter" x="-4" y="-1" z="5" spawntime="60" />
+		<monster name="Worm Priestess" x="-1" y="-1" z="5" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="4" y="1" z="5" spawntime="60" />
+		<monster name="Worm Priestess" x="3" y="3" z="5" spawntime="60" />
+		<monster name="Minotaur Amazon" x="0" y="5" z="5" spawntime="60" />
+		<monster name="Minotaur Hunter" x="3" y="6" z="5" spawntime="60" />
+		<monster name="Moohtant" x="-11" y="7" z="5" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-3" y="10" z="5" spawntime="60" />
+		<monster name="Execowtioner" x="-4" y="12" z="5" spawntime="60" />
 	</monster>
 	<monster centerx="879" centery="307" centerz="6" radius="3">
 		<monster name="Percht" x="1" y="0" z="6" spawntime="60" />
@@ -4931,6 +4965,137 @@
 	<monster centerx="895" centery="1021" centerz="6" radius="3">
 		<monster name="Cobra Assassin" x="-3" y="-3" z="6" spawntime="60" />
 		<monster name="Cobra Vizier" x="-3" y="1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="891" centery="1158" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="1" y="1" z="6" spawntime="90" />
+	</monster>
+	<monster centerx="884" centery="1165" centerz="6" radius="3">
+		<monster name="Moohtant" x="0" y="1" z="6" spawntime="90" />
+	</monster>
+	<monster centerx="891" centery="1165" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="1" y="3" z="6" spawntime="90" />
+	</monster>
+	<monster centerx="898" centery="1165" centerz="6" radius="3">
+		<monster name="Minotaur Amazon" x="2" y="0" z="6" spawntime="90" />
+	</monster>
+	<monster centerx="905" centery="1165" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="3" y="0" z="6" spawntime="90" />
+	</monster>
+	<monster centerx="919" centery="1165" centerz="6" radius="3">
+		<monster name="Execowtioner" x="0" y="3" z="6" spawntime="90" />
+		<monster name="Worm Priestess" x="2" y="3" z="6" spawntime="90" />
+	</monster>
+	<monster centerx="849" centery="1172" centerz="6" radius="3">
+		<monster name="Moohtant" x="3" y="2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="856" centery="1172" centerz="6" radius="3">
+		<monster name="Moohtant" x="-1" y="-3" z="6" spawntime="90" />
+	</monster>
+	<monster centerx="863" centery="1172" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="-1" y="-3" z="6" spawntime="90" />
+		<monster name="Worm Priestess" x="-1" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="870" centery="1172" centerz="6" radius="3">
+		<monster name="Execowtioner" x="2" y="-2" z="6" spawntime="90" />
+	</monster>
+	<monster centerx="926" centery="1172" centerz="6" radius="3">
+		<monster name="Minotaur Amazon" x="-1" y="-3" z="6" spawntime="90" />
+	</monster>
+	<monster centerx="933" centery="1172" centerz="6" radius="3">
+		<monster name="Moohtant" x="2" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="884" centery="1179" centerz="6" radius="3">
+		<monster name="Minotaur Amazon" x="3" y="-1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="905" centery="1179" centerz="6" radius="3">
+		<monster name="Moohtant" x="-1" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="912" centery="1179" centerz="6" radius="3">
+		<monster name="Moohtant" x="-1" y="-3" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="933" centery="1179" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="-1" y="-1" z="6" spawntime="60" />
+		<monster name="Execowtioner" x="-2" y="1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="856" centery="1186" centerz="6" radius="3">
+		<monster name="Minotaur Amazon" x="-2" y="-1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="863" centery="1186" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="0" y="3" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="870" centery="1186" centerz="6" radius="3">
+		<monster name="Moohtant" x="1" y="-1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="891" centery="1186" centerz="6" radius="3">
+		<monster name="Minotaur Amazon" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Minotaur Amazon" x="-2" y="3" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="919" centery="1186" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="-1" y="3" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="842" centery="1193" centerz="6" radius="3">
+		<monster name="Execowtioner" x="2" y="-2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="863" centery="1193" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="2" y="-3" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="912" centery="1193" centerz="6" radius="3">
+		<monster name="Minotaur Amazon" x="-3" y="-3" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="933" centery="1193" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Moohtant" x="-3" y="2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="828" centery="1200" centerz="6" radius="3">
+		<monster name="Moohtant" x="2" y="0" z="6" spawntime="60" />
+		<monster name="Moohtant" x="3" y="1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="835" centery="1200" centerz="6" radius="3">
+		<monster name="Minotaur Amazon" x="0" y="-3" z="6" spawntime="60" />
+		<monster name="Moohtant" x="-2" y="2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="863" centery="1200" centerz="6" radius="3">
+		<monster name="Execowtioner" x="-1" y="-2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="870" centery="1200" centerz="6" radius="3">
+		<monster name="Moohtant" x="2" y="1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="884" centery="1200" centerz="6" radius="3">
+		<monster name="Minotaur Amazon" x="1" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="898" centery="1200" centerz="6" radius="3">
+		<monster name="Minotaur Amazon" x="3" y="2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="905" centery="1200" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Worm Priestess" x="-2" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="912" centery="1200" centerz="6" radius="3">
+		<monster name="Execowtioner" x="0" y="-1" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="856" centery="1207" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="3" y="-3" z="6" spawntime="60" />
+		<monster name="Worm Priestess" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Execowtioner" x="-1" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="905" centery="1207" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="3" y="-2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="926" centery="1214" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="2" y="2" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="933" centery="1214" centerz="6" radius="3">
+		<monster name="Worm Priestess" x="-2" y="0" z="6" spawntime="60" />
+		<monster name="Worm Priestess" x="0" y="0" z="6" spawntime="60" />
+	</monster>
+	<monster centerx="929" centery="1324" centerz="6" radius="16">
+		<monster name="Worm Priestess" x="0" y="-5" z="6" spawntime="60" />
+		<monster name="Minotaur Amazon" x="-4" y="-4" z="6" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-1" y="-3" z="6" spawntime="60" />
+		<monster name="Minotaur Amazon" x="1" y="-3" z="6" spawntime="60" />
+		<monster name="Moohtant" x="-6" y="1" z="6" spawntime="60" />
+		<monster name="Moohtant" x="13" y="5" z="6" spawntime="60" />
+		<monster name="Minotaur Amazon" x="2" y="8" z="6" spawntime="60" />
 	</monster>
 	<monster centerx="1184" centery="189" centerz="7" radius="1">
 		<monster name="Animated Feather" x="-1" y="-1" z="7" spawntime="60" />
@@ -13596,6 +13761,17 @@
 	<monster centerx="886" centery="852" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="437" centery="856" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="444" centery="856" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="458" centery="856" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-2" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="1382" centery="858" centerz="7" radius="7">
 		<monster name="Grim Reaper" x="1" y="-3" z="7" spawntime="60" />
 		<monster name="Grim Reaper" x="5" y="-3" z="7" spawntime="60" />
@@ -13607,14 +13783,140 @@
 		<monster name="Grim Reaper" x="1" y="5" z="7" spawntime="60" />
 		<monster name="Grim Reaper" x="-1" y="6" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="437" centery="863" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="444" centery="863" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="451" centery="863" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="458" centery="863" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="0" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="465" centery="863" centerz="7" radius="3">
+		<monster name="Sparkion" x="1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="479" centery="863" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="509" centery="864" centerz="7" radius="1">
+		<monster name="Breach Brood" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="504" centery="865" centerz="7" radius="1">
+		<monster name="Reality Reaver" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="0" y="1" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="867" centery="865" centerz="7" radius="1">
 		<monster name="Brittle Skeleton" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="397" centery="867" centerz="7" radius="1">
+		<monster name="Breach Brood" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="388" centery="870" centerz="7" radius="1">
+		<monster name="Sparkion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="416" centery="870" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="423" centery="870" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="430" centery="870" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="437" centery="870" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="451" centery="870" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="0" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="465" centery="870" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-1" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="479" centery="870" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="499" centery="871" centerz="7" radius="1">
+		<monster name="Reality Reaver" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="495" centery="874" centerz="7" radius="1">
+		<monster name="Reality Reaver" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="545" centery="874" centerz="7" radius="3">
 		<monster name="Wyrm" x="-3" y="3" z="7" spawntime="90" />
 	</monster>
 	<monster centerx="790" centery="874" centerz="7" radius="1">
 		<monster name="Brittle Skeleton" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="310" centery="876" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="324" centery="876" centerz="7" radius="3">
+		<monster name="Sparkion" x="-1" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="331" centery="876" centerz="7" radius="3">
+		<monster name="Breach Brood" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="345" centery="876" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="352" centery="876" centerz="7" radius="3">
+		<monster name="Sparkion" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="416" centery="877" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="0" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="430" centery="877" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="2" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="458" centery="877" centerz="7" radius="3">
+		<monster name="Breach Brood" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="3" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="465" centery="877" centerz="7" radius="3">
+		<monster name="Sparkion" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="0" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="472" centery="877" centerz="7" radius="3">
+		<monster name="Breach Brood" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="0" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="479" centery="877" centerz="7" radius="3">
+		<monster name="Sparkion" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="0" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="491" centery="877" centerz="7" radius="1">
+		<monster name="Reality Reaver" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="392" centery="879" centerz="7" radius="1">
+		<monster name="Reality Reaver" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="382" centery="880" centerz="7" radius="1">
+		<monster name="Sparkion" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="559" centery="882" centerz="7" radius="2">
 		<monster name="Wyrm" x="0" y="1" z="7" spawntime="90" />
@@ -13624,6 +13926,26 @@
 		<monster name="Wyrm" x="1" y="0" z="7" spawntime="90" />
 		<monster name="Wyrm" x="2" y="1" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="282" centery="883" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="1" y="2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="303" centery="883" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="310" centery="883" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="0" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="345" centery="883" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-3" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="366" centery="883" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="3" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="536" centery="883" centerz="7" radius="2">
 		<monster name="Wyrm" x="0" y="-2" z="7" spawntime="90" />
 		<monster name="Wyrm" x="1" y="-1" z="7" spawntime="60" />
@@ -13632,20 +13954,125 @@
 	<monster centerx="864" centery="883" centerz="7" radius="1">
 		<monster name="Scorpion" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="409" centery="884" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="2" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="416" centery="884" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="0" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="423" centery="884" centerz="7" radius="3">
+		<monster name="Breach Brood" x="2" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="430" centery="884" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="437" centery="884" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="444" centery="884" centerz="7" radius="3">
+		<monster name="Sparkion" x="2" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="451" centery="884" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="472" centery="884" centerz="7" radius="3">
+		<monster name="Sparkion" x="1" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="486" centery="884" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="854" centery="885" centerz="7" radius="1">
 		<monster name="Dromedary" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="868" centery="885" centerz="7" radius="1">
 		<monster name="Brittle Skeleton" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="393" centery="886" centerz="7" radius="1">
+		<monster name="Dread Intruder" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="390" centery="889" centerz="7" radius="1">
+		<monster name="Sparkion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="282" centery="890" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="2" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="296" centery="890" centerz="7" radius="3">
+		<monster name="Breach Brood" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Sparkion" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="331" centery="890" centerz="7" radius="3">
+		<monster name="Sparkion" x="0" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="345" centery="890" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="571" centery="890" centerz="7" radius="2">
 		<monster name="Wyrm" x="1" y="-1" z="7" spawntime="90" />
 		<monster name="Wyrm" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="402" centery="891" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="409" centery="891" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="416" centery="891" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="423" centery="891" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="3" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="430" centery="891" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-3" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="437" centery="891" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="451" centery="891" centerz="7" radius="3">
+		<monster name="Sparkion" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="3" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="458" centery="891" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="465" centery="891" centerz="7" radius="3">
+		<monster name="Sparkion" x="-1" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="472" centery="891" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="479" centery="891" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-3" y="3" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="3" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="527" centery="892" centerz="7" radius="2">
 		<monster name="Wyrm" x="1" y="-2" z="7" spawntime="90" />
 		<monster name="Wyrm" x="-2" y="1" z="7" spawntime="90" />
 		<monster name="Wyrm" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="376" centery="893" centerz="7" radius="1">
+		<monster name="Reality Reaver" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="547" centery="893" centerz="7" radius="3">
 		<monster name="Wyrm" x="1" y="-1" z="7" spawntime="90" />
@@ -13654,13 +14081,178 @@
 	<monster centerx="576" centery="893" centerz="7" radius="2">
 		<monster name="Wyrm" x="0" y="-1" z="7" spawntime="90" />
 	</monster>
+	<monster centerx="275" centery="897" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="2" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="282" centery="897" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="289" centery="897" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="310" centery="897" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Sparkion" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="0" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="352" centery="897" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="359" centery="897" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="378" centery="897" centerz="7" radius="1">
+		<monster name="Dread Intruder" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="388" centery="897" centerz="7" radius="1">
+		<monster name="Sparkion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="531" centery="897" centerz="7" radius="2">
 		<monster name="Wyrm" x="-1" y="-2" z="7" spawntime="60" />
 		<monster name="Wyrm" x="1" y="1" z="7" spawntime="90" />
 	</monster>
+	<monster centerx="409" centery="898" centerz="7" radius="3">
+		<monster name="Breach Brood" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Sparkion" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="0" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="416" centery="898" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-2" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="423" centery="898" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="430" centery="898" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="0" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="437" centery="898" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="451" centery="898" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="458" centery="898" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="465" centery="898" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="472" centery="898" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="479" centery="898" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-3" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="486" centery="898" centerz="7" radius="3">
+		<monster name="Sparkion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="569" centery="899" centerz="7" radius="2">
 		<monster name="Wyrm" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Wyrm" x="0" y="1" z="7" spawntime="90" />
+	</monster>
+	<monster centerx="389" centery="900" centerz="7" radius="1">
+		<monster name="Dread Intruder" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="378" centery="902" centerz="7" radius="1">
+		<monster name="Sparkion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="317" centery="904" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="0" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="338" centery="904" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-3" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="345" centery="904" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="359" centery="904" centerz="7" radius="3">
+		<monster name="Sparkion" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-3" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="366" centery="904" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="409" centery="905" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="416" centery="905" centerz="7" radius="3">
+		<monster name="Sparkion" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="430" centery="905" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="437" centery="905" centerz="7" radius="3">
+		<monster name="Breach Brood" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Sparkion" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Sparkion" x="2" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="444" centery="905" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="451" centery="905" centerz="7" radius="3">
+		<monster name="Sparkion" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="458" centery="905" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="3" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="465" centery="905" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-3" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="472" centery="905" centerz="7" radius="3">
+		<monster name="Breach Brood" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Sparkion" x="2" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="479" centery="905" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="486" centery="905" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-2" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="493" centery="905" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="377" centery="906" centerz="7" radius="1">
+		<monster name="Reality Reaver" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="824" centery="907" centerz="7" radius="3">
 		<monster name="Adult Goanna" x="2" y="-3" z="7" spawntime="60" />
@@ -13678,12 +14270,92 @@
 		<monster name="Wyrm" x="-1" y="0" z="7" spawntime="90" />
 		<monster name="Wyrm" x="1" y="1" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="389" centery="909" centerz="7" radius="1">
+		<monster name="Reality Reaver" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="268" centery="911" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="3" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="275" centery="911" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="289" centery="911" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-3" y="-3" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-3" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="317" centery="911" centerz="7" radius="3">
+		<monster name="Sparkion" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="1" y="2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="0" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="331" centery="911" centerz="7" radius="3">
+		<monster name="Sparkion" x="-3" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="345" centery="911" centerz="7" radius="3">
+		<monster name="Sparkion" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Sparkion" x="3" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="359" centery="911" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-2" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="378" centery="911" centerz="7" radius="1">
+		<monster name="Dread Intruder" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="409" centery="912" centerz="7" radius="3">
+		<monster name="Sparkion" x="-1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="416" centery="912" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="0" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="437" centery="912" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="1" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="444" centery="912" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="451" centery="912" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-2" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="465" centery="912" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="3" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="472" centery="912" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="3" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="486" centery="912" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="493" centery="912" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="1" y="-3" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="553" centery="913" centerz="7" radius="2">
 		<monster name="Wyrm" x="1" y="0" z="7" spawntime="60" />
 		<monster name="Wyrm" x="1" y="1" z="7" spawntime="90" />
 	</monster>
 	<monster centerx="817" centery="913" centerz="7" radius="1">
 		<monster name="Manticore" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="390" centery="914" centerz="7" radius="1">
+		<monster name="Dread Intruder" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="821" centery="915" centerz="7" radius="1">
 		<monster name="Adult Goanna" x="0" y="0" z="7" spawntime="60" />
@@ -13696,6 +14368,29 @@
 		<monster name="Elder Wyrm" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Elder Wyrm" x="2" y="1" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="383" centery="917" centerz="7" radius="1">
+		<monster name="Reality Reaver" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="289" centery="918" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="324" centery="918" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="331" centery="918" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="359" centery="918" centerz="7" radius="3">
+		<monster name="Breach Brood" x="3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="397" centery="918" centerz="7" radius="1">
+		<monster name="Sparkion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="429" centery="918" centerz="7" radius="3" />
+	<monster centerx="444" centery="918" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-3" y="2" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="787" centery="918" centerz="7" radius="1">
 		<monster name="Young Goanna" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -13703,6 +14398,32 @@
 		<monster name="Feral Sphinx" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Young Goanna" x="0" y="1" z="7" spawntime="1567617024" />
 		<monster name="Young Goanna" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="430" centery="919" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="0" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="444" centery="919" centerz="7" radius="3" />
+	<monster centerx="458" centery="919" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-3" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="465" centery="919" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="472" centery="919" centerz="7" radius="3">
+		<monster name="Sparkion" x="-3" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="0" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="479" centery="919" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="486" centery="919" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-1" y="-2" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="533" centery="919" centerz="7" radius="2">
 		<monster name="Wyrm" x="0" y="-1" z="7" spawntime="90" />
@@ -13717,6 +14438,9 @@
 	<monster centerx="576" centery="920" centerz="7" radius="1">
 		<monster name="Elder Wyrm" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elder Wyrm" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="386" centery="921" centerz="7" radius="1">
+		<monster name="Dread Intruder" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="528" centery="922" centerz="7" radius="1">
 		<monster name="Elder Wyrm" x="0" y="0" z="7" spawntime="60" />
@@ -13736,9 +14460,92 @@
 		<monster name="Elder Wyrm" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elder Wyrm" x="0" y="1" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="268" centery="925" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-1" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="275" centery="925" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="3" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="289" centery="925" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="296" centery="925" centerz="7" radius="3">
+		<monster name="Breach Brood" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="303" centery="925" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="3" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="310" centery="925" centerz="7" radius="3">
+		<monster name="Breach Brood" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="3" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="317" centery="925" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-3" y="3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="338" centery="925" centerz="7" radius="3">
+		<monster name="Sparkion" x="1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="352" centery="925" centerz="7" radius="3">
+		<monster name="Sparkion" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="359" centery="925" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="390" centery="925" centerz="7" radius="1">
+		<monster name="Sparkion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="556" centery="925" centerz="7" radius="2">
 		<monster name="Wyrm" x="1" y="0" z="7" spawntime="90" />
 		<monster name="Elder Wyrm" x="-1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="409" centery="926" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="423" centery="926" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="0" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="430" centery="926" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="444" centery="926" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="0" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="451" centery="926" centerz="7" radius="3">
+		<monster name="Sparkion" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="458" centery="926" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="465" centery="926" centerz="7" radius="3">
+		<monster name="Breach Brood" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="472" centery="926" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-3" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="479" centery="926" centerz="7" radius="3">
+		<monster name="Sparkion" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="486" centery="926" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-2" y="-2" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="781" centery="926" centerz="7" radius="1">
 		<monster name="Adult Goanna" x="0" y="0" z="7" spawntime="60" />
@@ -13753,10 +14560,57 @@
 		<monster name="Young Goanna" x="-1" y="1" z="7" spawntime="60" />
 		<monster name="Young Goanna" x="0" y="1" z="7" spawntime="1567617024" />
 	</monster>
+	<monster centerx="399" centery="928" centerz="7" radius="1">
+		<monster name="Sparkion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="570" centery="931" centerz="7" radius="1">
 		<monster name="Elder Wyrm" x="1" y="-1" z="7" spawntime="60" />
 		<monster name="Elder Wyrm" x="0" y="1" z="7" spawntime="60" />
 		<monster name="Elder Wyrm" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="275" centery="932" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="317" centery="932" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-1" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="338" centery="932" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="380" centery="932" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="416" centery="933" centerz="7" radius="3">
+		<monster name="Sparkion" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="423" centery="933" centerz="7" radius="3">
+		<monster name="Sparkion" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="444" centery="933" centerz="7" radius="3">
+		<monster name="Sparkion" x="2" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="451" centery="933" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="465" centery="933" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="472" centery="933" centerz="7" radius="3">
+		<monster name="Breach Brood" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-3" y="2" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="798" centery="934" centerz="7" radius="1">
 		<monster name="Feral Sphinx" x="0" y="0" z="7" spawntime="60" />
@@ -13773,8 +14627,70 @@
 	<monster centerx="793" centery="938" centerz="7" radius="1">
 		<monster name="Adult Goanna" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="289" centery="939" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Sparkion" x="0" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="296" centery="939" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="303" centery="939" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="2" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="310" centery="939" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-2" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="317" centery="939" centerz="7" radius="3">
+		<monster name="Sparkion" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="338" centery="939" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="345" centery="939" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="0" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="352" centery="939" centerz="7" radius="3">
+		<monster name="Sparkion" x="0" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="366" centery="939" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="373" centery="939" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="800" centery="939" centerz="7" radius="1">
 		<monster name="Manticore" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="423" centery="940" centerz="7" radius="3">
+		<monster name="Breach Brood" x="3" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="430" centery="940" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="437" centery="940" centerz="7" radius="3">
+		<monster name="Sparkion" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="2" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="444" centery="940" centerz="7" radius="3">
+		<monster name="Sparkion" x="-3" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="451" centery="940" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="1" y="2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="0" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="465" centery="940" centerz="7" radius="3">
+		<monster name="Sparkion" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="753" centery="942" centerz="7" radius="1">
 		<monster name="Adult Goanna" x="0" y="0" z="7" spawntime="60" />
@@ -13791,8 +14707,48 @@
 	<monster centerx="766" centery="945" centerz="7" radius="1">
 		<monster name="Adult Goanna" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="289" centery="946" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="0" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="317" centery="946" centerz="7" radius="3">
+		<monster name="Breach Brood" x="0" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="331" centery="946" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-3" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="338" centery="946" centerz="7" radius="3">
+		<monster name="Sparkion" x="2" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="359" centery="946" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="366" centery="946" centerz="7" radius="3">
+		<monster name="Sparkion" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="373" centery="946" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-3" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="750" centery="946" centerz="7" radius="1">
 		<monster name="Feral Sphinx" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="430" centery="947" centerz="7" radius="3">
+		<monster name="Sparkion" x="-1" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="444" centery="947" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Sparkion" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="2" y="3" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="3" y="3" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="759" centery="947" centerz="7" radius="1">
 		<monster name="Adult Goanna" x="0" y="0" z="7" spawntime="60" />
@@ -13831,6 +14787,34 @@
 	<monster centerx="774" centery="952" centerz="7" radius="1">
 		<monster name="Manticore" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="296" centery="953" centerz="7" radius="3">
+		<monster name="Breach Brood" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="3" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="303" centery="953" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-3" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="317" centery="953" centerz="7" radius="3">
+		<monster name="Sparkion" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="0" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="345" centery="953" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="352" centery="953" centerz="7" radius="3">
+		<monster name="Reality Reaver" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Dread Intruder" x="3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="359" centery="953" centerz="7" radius="3">
+		<monster name="Sparkion" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-3" y="1" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="615" centery="953" centerz="7" radius="1">
 		<monster name="Undertaker" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -13847,6 +14831,18 @@
 		<monster name="Manticore" x="0" y="0" z="7" spawntime="60" />
 		<monster name="Adult Goanna" x="1" y="0" z="7" spawntime="1567617024" />
 		<monster name="Adult Goanna" x="1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="310" centery="960" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="3" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="338" centery="960" centerz="7" radius="3">
+		<monster name="Dread Intruder" x="3" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="345" centery="960" centerz="7" radius="3">
+		<monster name="Breach Brood" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Breach Brood" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Sparkion" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Reality Reaver" x="-2" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="758" centery="961" centerz="7" radius="1">
 		<monster name="Adult Goanna" x="0" y="0" z="7" spawntime="60" />
@@ -15196,6 +16192,266 @@
 		<monster name="Hulking Prehemoth" x="-2" y="5" z="7" spawntime="60" />
 		<monster name="Gore Horn" x="2" y="5" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="870" centery="1158" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="877" centery="1158" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Glooth Anemone" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="891" centery="1158" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="1" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="905" centery="1158" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Glooth Anemone" x="0" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="870" centery="1165" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="912" centery="1165" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-3" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="919" centery="1165" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="0" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="926" centery="1165" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="0" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="856" centery="1172" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="1" y="2" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="877" centery="1172" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Glooth Anemone" x="-3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="912" centery="1172" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-3" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="856" centery="1179" centerz="7" radius="3">
+		<monster name="Spectre" x="-3" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="891" centery="1179" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-2" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="905" centery="1179" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="0" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="842" centery="1186" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Anemone" x="0" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="856" centery="1186" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-2" y="3" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="0" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="919" centery="1186" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-1" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="926" centery="1186" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="0" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="842" centery="1193" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Glooth Anemone" x="-3" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="856" centery="1193" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="-2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="870" centery="1193" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="0" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="877" centery="1193" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="926" centery="1193" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="3" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="940" centery="1193" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="842" centery="1200" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="856" centery="1200" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-1" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="884" centery="1200" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Anemone" x="2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="891" centery="1200" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="3" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="905" centery="1200" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="0" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="912" centery="1200" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="2" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="919" centery="1200" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-3" y="-1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="870" centery="1207" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="884" centery="1207" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="898" centery="1214" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-1" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="912" centery="1214" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Glooth Anemone" x="-2" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="919" centery="1214" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="3" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="933" centery="1214" centerz="7" radius="3">
+		<monster name="Glooth Anemone" x="-3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="968" centery="1221" centerz="7" radius="3">
+		<monster name="Mooh'Tah Warrior" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Execowtioner" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="3" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="975" centery="1221" centerz="7" radius="3">
+		<monster name="Minotaur Amazon" x="1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="982" centery="1221" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="-2" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="947" centery="1228" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Minotaur Amazon" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Execowtioner" x="3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="961" centery="1228" centerz="7" radius="3">
+		<monster name="Execowtioner" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Execowtioner" x="3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="982" centery="1228" centerz="7" radius="3">
+		<monster name="Minotaur Hunter" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="1" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="970" centery="1233" centerz="7" radius="30">
+		<monster name="Glooth Anemone" x="-22" y="-29" z="7" spawntime="60" />
+		<monster name="Moohtant" x="-15" y="-22" z="7" spawntime="60" />
+		<monster name="Glooth Anemone" x="-14" y="-19" z="7" spawntime="60" />
+		<monster name="Execowtioner" x="-12" y="-17" z="7" spawntime="60" />
+		<monster name="Glooth Anemone" x="-14" y="-15" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-9" y="-12" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-8" y="-11" z="7" spawntime="60" />
+		<monster name="Glooth Anemone" x="-2" y="-7" z="7" spawntime="60" />
+		<monster name="Execowtioner" x="7" y="-2" z="7" spawntime="60" />
+		<monster name="Moohtant" x="-30" y="-1" z="7" spawntime="60" />
+		<monster name="Minotaur Amazon" x="12" y="-1" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-25" y="2" z="7" spawntime="60" />
+		<monster name="Moohtant" x="-12" y="2" z="7" spawntime="60" />
+		<monster name="Execowtioner" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-21" y="3" z="7" spawntime="60" />
+		<monster name="Moohtant" x="-18" y="3" z="7" spawntime="60" />
+		<monster name="Execowtioner" x="-24" y="4" z="7" spawntime="60" />
+		<monster name="Moohtant" x="2" y="6" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="8" y="7" z="7" spawntime="60" />
+		<monster name="Execowtioner" x="4" y="9" z="7" spawntime="60" />
+		<monster name="Execowtioner" x="10" y="12" z="7" spawntime="60" />
+		<monster name="Glooth Anemone" x="6" y="13" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-29" y="16" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-27" y="20" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="5" y="20" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="11" y="21" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="-22" y="22" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-21" y="27" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="-17" y="27" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="933" centery="1249" centerz="7" radius="3">
+		<monster name="Mooh'Tah Warrior" x="1" y="-2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="940" centery="1249" centerz="7" radius="3">
+		<monster name="Mooh'Tah Warrior" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="968" centery="1263" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="933" centery="1270" centerz="7" radius="3" />
+	<monster centerx="961" centery="1270" centerz="7" radius="3">
+		<monster name="Mooh'Tah Warrior" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="3" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="935" centery="1275" centerz="7" radius="3">
+		<monster name="Worm Priestess" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="2" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="968" centery="1277" centerz="7" radius="3">
+		<monster name="Mooh'Tah Warrior" x="-1" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="946" centery="1283" centerz="7" radius="30">
+		<monster name="Mooh'Tah Warrior" x="-11" y="-27" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-7" y="-13" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-1" y="-12" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="4" y="-12" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="20" y="-12" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-2" y="-10" z="7" spawntime="60" />
+		<monster name="Minotaur Amazon" x="-1" y="-8" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="8" y="-8" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="0" y="-5" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="16" y="-2" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="18" y="-2" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="21" y="0" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="19" y="9" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-1" y="11" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-1" y="13" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="21" y="13" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="14" y="14" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="22" y="15" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="1" y="16" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="27" y="16" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="10" y="17" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="19" y="17" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="15" y="21" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="14" y="24" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="6" y="25" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="-2" y="26" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="7" y="27" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-1" y="28" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="940" centery="1319" centerz="7" radius="3">
+		<monster name="Minotaur Hunter" x="-3" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="954" centery="1319" centerz="7" radius="3">
+		<monster name="Minotaur Hunter" x="1" y="-3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="961" centery="1319" centerz="7" radius="3">
+		<monster name="Mooh'Tah Warrior" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-1" y="1" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="935" centery="1329" centerz="7" radius="30">
+		<monster name="Worm Priestess" x="-4" y="-10" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="-3" y="-8" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="4" y="1" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="2" y="4" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="4" y="5" z="7" spawntime="60" />
+		<monster name="Worm Priestess" x="-5" y="8" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="-10" y="11" z="7" spawntime="60" />
+		<monster name="Minotaur Hunter" x="-14" y="12" z="7" spawntime="60" />
+		<monster name="Mooh'Tah Warrior" x="-15" y="13" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="515" centery="358" centerz="8" radius="3">
 		<monster name="Spellreaper Inferniarch" x="-3" y="-2" z="8" spawntime="60" />
 		<monster name="Hellhunter Inferniarch" x="-2" y="-1" z="8" spawntime="60" />
@@ -16372,6 +17628,14 @@
 		<monster name="Frost Flower Asura" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Dawnfire Asura" x="1" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="468" centery="541" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="519" centery="541" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="1" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="1000" centery="541" centerz="8" radius="1">
 		<monster name="Midnight Asura" x="-1" y="0" z="8" spawntime="60" />
 		<monster name="Frost Flower Asura" x="0" y="0" z="8" spawntime="60" />
@@ -16387,6 +17651,9 @@
 	<monster centerx="1161" centery="541" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="-1" y="2" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="570" centery="544" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="981" centery="545" centerz="8" radius="1">
 		<monster name="Dawnfire Asura" x="-1" y="0" z="8" spawntime="60" />
@@ -16425,8 +17692,61 @@
 	<monster centerx="1444" centery="545" centerz="8" radius="3">
 		<monster name="Dark Torturer" x="-3" y="0" z="8" spawntime="90" />
 	</monster>
+	<monster centerx="474" centery="547" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="488" centery="547" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="533" centery="547" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="505" centery="548" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="526" centery="548" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="553" centery="548" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="483" centery="549" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="496" centery="549" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="542" centery="549" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="547" centery="549" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="563" centery="549" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="566" centery="549" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="1180" centery="549" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="2" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="473" centery="550" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="512" centery="550" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="-1" z="8" spawntime="-1329795072" />
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="533" centery="550" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="559" centery="550" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="952" centery="550" centerz="8" radius="1">
 		<monster name="Midnight Asura" x="1" y="-1" z="8" spawntime="60" />
@@ -16436,12 +17756,23 @@
 		<monster name="Dawnfire Asura" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Frost Flower Asura" x="0" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="461" centery="551" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="938" centery="552" centerz="8" radius="1">
 		<monster name="Midnight Asura" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Dawnfire Asura" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Dawnfire Asura" x="1" y="0" z="8" spawntime="60" />
 		<monster name="Dawnfire Asura" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Dawnfire Asura" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="517" centery="553" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="575" centery="553" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="951" centery="554" centerz="8" radius="1">
 		<monster name="Midnight Asura" x="0" y="-1" z="8" spawntime="60" />
@@ -16466,88 +17797,27 @@
 		<monster name="Medusa" x="-2" y="-1" z="8" spawntime="90" />
 		<monster name="Serpent Spawn" x="2" y="0" z="8" spawntime="90" />
 	</monster>
+	<monster centerx="572" centery="557" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="1168" centery="559" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="-1" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="448" centery="560" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="544" centery="560" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="557" centery="560" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="578" centery="560" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="431" centery="561" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="1124" centery="561" centerz="8" radius="4">
 		<monster name="Medusa" x="3" y="-3" z="8" spawntime="90" />
 		<monster name="Serpent Spawn" x="-2" y="-2" z="8" spawntime="90" />
 		<monster name="Serpent Spawn" x="3" y="3" z="8" spawntime="90" />
 	</monster>
-	<monster centerx="420" centery="562" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="1182" centery="562" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="2" y="0" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="0" y="2" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="515" centery="563" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="1152" centery="563" centerz="8" radius="3">
 		<monster name="Medusa" x="2" y="2" z="8" spawntime="90" />
 	</monster>
-	<monster centerx="463" centery="565" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-2" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-2" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="0" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="2" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="2" z="8" spawntime="90" />
+	<monster centerx="555" centery="565" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1004" centery="565" centerz="8" radius="1">
 		<monster name="Frost Flower Asura" x="0" y="0" z="8" spawntime="60" />
@@ -16558,26 +17828,18 @@
 		<monster name="Frost Flower Asura" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Midnight Asura" x="0" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="534" centery="566" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="991" centery="566" centerz="8" radius="1">
 		<monster name="Midnight Asura" x="-1" y="0" z="8" spawntime="60" />
 		<monster name="Midnight Asura" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Midnight Asura" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Midnight Asura" x="0" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="427" centery="567" centerz="8" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="431" centery="569" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="572" centery="569" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="570" centery="568" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="943" centery="569" centerz="8" radius="1">
 		<monster name="Frost Flower Asura" x="0" y="0" z="8" spawntime="60" />
@@ -16599,27 +17861,35 @@
 	<monster centerx="955" centery="570" centerz="8" radius="1">
 		<monster name="Frost Flower Asura" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="584" centery="571" centerz="8" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="480" centery="571" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1137" centery="571" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="0" y="0" z="8" spawntime="90" />
 	</monster>
-	<monster centerx="420" centery="573" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-		<monster name="Dark Torturer" x="1" y="0" z="8" spawntime="90" />
+	<monster centerx="532" centery="573" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="463" centery="573" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="560" centery="573" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="-1329795072" />
+		<monster name="Dark Torturer" x="0" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1157" centery="573" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="2" y="0" z="8" spawntime="90" />
 	</monster>
-	<monster centerx="426" centery="574" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="466" centery="574" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="515" centery="574" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="469" centery="574" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="504" centery="574" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="506" centery="574" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="998" centery="574" centerz="8" radius="1">
 		<monster name="Frost Flower Asura" x="0" y="0" z="8" spawntime="60" />
@@ -16629,164 +17899,93 @@
 		<monster name="Frost Flower Asura" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Frost Flower Asura" x="0" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="505" centery="575" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="478" centery="575" centerz="8" radius="1">
+		<monster name="Grim Reaper" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Dark Torturer" x="1" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="489" centery="576" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="531" centery="575" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="559" centery="575" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="504" centery="576" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="557" centery="576" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1171" centery="576" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="0" y="-2" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="1" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="541" centery="577" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="579" centery="577" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="571" centery="578" centerz="8" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="427" centery="579" centerz="8" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="571" centery="577" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1186" centery="580" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="-2" y="-2" z="8" spawntime="90" />
 		<monster name="Serpent Spawn" x="2" y="2" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="462" centery="582" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="517" centery="583" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="508" centery="582" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="520" centery="586" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="515" centery="582" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="557" centery="587" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="496" centery="583" centerz="8" radius="3">
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="478" centery="588" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="505" centery="583" centerz="8" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="491" centery="588" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="427" centery="587" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="500" centery="588" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="504" centery="588" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="515" centery="588" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="526" centery="588" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="532" centery="588" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="540" centery="588" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="549" centery="588" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1150" centery="588" centerz="8" radius="4">
 		<monster name="Serpent Spawn" x="0" y="1" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="1" y="2" z="8" spawntime="90" />
 	</monster>
-	<monster centerx="463" centery="590" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="568" centery="589" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="490" centery="590" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="546" centery="592" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="440" centery="591" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="466" centery="593" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="482" centery="591" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="527" centery="591" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="541" centery="591" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="554" centery="591" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="508" centery="592" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="0" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="3" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-1" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="1" y="1" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="571" centery="592" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="585" centery="592" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="454" centery="593" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="468" centery="593" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="491" centery="593" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="499" centery="593" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="520" centery="593" centerz="8" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="418" centery="594" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="492" centery="595" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1134" centery="595" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="3" y="0" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="-2" y="2" z="8" spawntime="90" />
 	</monster>
-	<monster centerx="513" centery="597" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="517" centery="596" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1011" centery="597" centerz="8" radius="10">
 		<monster name="Priestess Of The Wild Sun" x="4" y="-9" z="8" spawntime="60" />
@@ -16830,62 +18029,24 @@
 		<monster name="Serpent Spawn" x="2" y="-1" z="8" spawntime="90" />
 		<monster name="Serpent Spawn" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="546" centery="600" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="1159" centery="600" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="-2" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="442" centery="601" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="518" centery="601" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="541" centery="601" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="571" centery="601" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="420" centery="602" centerz="8" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="433" centery="602" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="560" centery="602" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="120" />
-	</monster>
-	<monster centerx="417" centery="603" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="507" centery="603" centerz="8" radius="3">
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="586" centery="604" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="518" centery="603" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1120" centery="604" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="2" y="-3" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="2" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="462" centery="605" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="495" centery="606" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="648" centery="606" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="-3" y="2" z="8" spawntime="60" />
@@ -16899,25 +18060,6 @@
 	</monster>
 	<monster centerx="697" centery="606" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="-3" y="-3" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="439" centery="607" centerz="8" radius="1">
-		<monster name="Dark Torturer" x="-1" y="0" z="8" spawntime="27055" />
-		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="433" centery="608" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="563" centery="608" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="947" centery="608" centerz="8" radius="10">
 		<monster name="Burning Gladiator" x="-4" y="-9" z="8" spawntime="60" />
@@ -16933,22 +18075,19 @@
 		<monster name="Priestess Of The Wild Sun" x="-4" y="10" z="8" spawntime="60" />
 		<monster name="Priestess Of The Wild Sun" x="9" y="10" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="463" centery="610" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="546" centery="611" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="586" centery="611" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-		<monster name="Demon" x="1" y="1" z="8" spawntime="120" />
+	<monster centerx="491" centery="613" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="1" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="420" centery="612" centerz="8" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="548" centery="613" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="541" centery="613" centerz="8" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="569" centery="613" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="1" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="634" centery="613" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="3" y="1" z="8" spawntime="60" />
@@ -16971,55 +18110,43 @@
 	<monster centerx="704" centery="613" centerz="8" radius="3">
 		<monster name="Demon" x="-3" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="516" centery="614" centerz="8" radius="3">
-		<monster name="Grim Reaper" x="0" y="-3" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="-2" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-3" y="0" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="469" centery="614" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="517" centery="614" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="1118" centery="614" centerz="8" radius="3">
 		<monster name="Serpent Spawn" x="0" y="1" z="8" spawntime="90" />
 	</monster>
-	<monster centerx="560" centery="615" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="574" centery="615" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="489" centery="616" centerz="8" radius="3">
-		<monster name="Grim Reaper" x="0" y="-3" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="-2" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-3" y="0" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="492" centery="616" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="444" centery="617" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="544" centery="616" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="419" centery="619" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Destroyer" x="0" y="2" z="8" spawntime="90" />
+	<monster centerx="548" centery="617" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="429" centery="619" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="475" centery="618" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="508" centery="620" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="489" centery="618" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="585" centery="620" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="461" centery="619" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="492" centery="619" centerz="8" radius="1">
+		<monster name="Grim Reaper" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="547" centery="619" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="613" centery="620" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="2" y="3" z="8" spawntime="90" />
@@ -17073,40 +18200,30 @@
 		<monster name="Priestess Of The Wild Sun" x="6" y="-1" z="8" spawntime="60" />
 		<monster name="Priestess Of The Wild Sun" x="-8" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="496" centery="622" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="564" centery="622" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="542" centery="622" centerz="8" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="578" centery="622" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="420" centery="624" centerz="8" radius="3">
-		<monster name="Hellspawn" x="-2" y="3" z="8" spawntime="90" />
+	<monster centerx="474" centery="623" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="456" centery="626" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Dark Torturer" x="0" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="460" centery="625" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="1" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="537" centery="626" centerz="8" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="517" centery="625" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="541" centery="626" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
+	<monster centerx="563" centery="626" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="551" centery="626" centerz="8" radius="3">
-		<monster name="Juggernaut" x="-1" y="-2" z="8" spawntime="60" />
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="578" centery="626" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="984" centery="626" centerz="8" radius="10">
 		<monster name="Burning Gladiator" x="10" y="-10" z="8" spawntime="60" />
@@ -17128,79 +18245,39 @@
 		<monster name="Black Sphinx Acolyte" x="-3" y="8" z="8" spawntime="60" />
 		<monster name="Priestess Of The Wild Sun" x="0" y="8" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="430" centery="627" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="464" centery="627" centerz="8" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="613" centery="627" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="-2" y="3" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="620" centery="627" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="-2" y="3" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="443" centery="628" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="515" centery="628" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="561" centery="628" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="520" centery="628" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="585" centery="628" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="562" centery="629" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="518" centery="629" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="473" centery="630" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="489" centery="630" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="515" centery="630" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="505" centery="630" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="459" centery="631" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="420" centery="631" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="0" y="-3" z="8" spawntime="90" />
-		<monster name="Demon" x="-2" y="-2" z="8" spawntime="90" />
-		<monster name="Hellhound" x="-1" y="3" z="8" spawntime="90" />
+	<monster centerx="521" centery="631" centerz="8" radius="1">
+		<monster name="Grim Reaper" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="434" centery="631" centerz="8" radius="3">
-		<monster name="Destroyer" x="0" y="0" z="8" spawntime="90" />
-		<monster name="Destroyer" x="-3" y="1" z="8" spawntime="90" />
-		<monster name="Dark Torturer" x="-1" y="2" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="2" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="539" centery="633" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-2" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-2" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="0" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="2" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="2" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="434" centery="634" centerz="8" radius="3">
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="467" centery="634" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="-3" y="2" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="562" centery="634" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="606" centery="634" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="2" y="3" z="8" spawntime="90" />
@@ -17220,23 +18297,16 @@
 	<monster centerx="669" centery="634" centerz="8" radius="3">
 		<monster name="Demon" x="2" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="551" centery="635" centerz="8" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="466" centery="635" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="572" centery="635" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="471" centery="635" centerz="8" radius="1">
+		<monster name="Destroyer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="586" centery="635" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="567" centery="636" centerz="8" radius="1">
+		<monster name="Juggernaut" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="796" centery="636" centerz="8" radius="1">
 		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
@@ -17245,32 +18315,6 @@
 	<monster centerx="854" centery="636" centerz="8" radius="1">
 		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Pirat Scoundrel" x="0" y="1" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="456" centery="637" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="1" y="0" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="494" centery="637" centerz="8" radius="3">
-		<monster name="Grim Reaper" x="1" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="3" y="2" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="513" centery="637" centerz="8" radius="3">
-		<monster name="Grim Reaper" x="2" y="-3" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="-2" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="3" y="-1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-3" y="0" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="549" centery="637" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="567" centery="637" centerz="8" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="873" centery="637" centerz="8" radius="1">
 		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
@@ -17283,9 +18327,6 @@
 	<monster centerx="836" centery="638" centerz="8" radius="1">
 		<monster name="Pirat Cutthroat" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Pirat Scoundrel" x="-1" y="1" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="560" centery="639" centerz="8" radius="1">
-		<monster name="Hellhound" x="0" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="606" centery="641" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="-2" y="2" z="8" spawntime="90" />
@@ -17307,13 +18348,6 @@
 		<monster name="Grim Reaper" x="-1" y="-2" z="8" spawntime="90" />
 		<monster name="Grim Reaper" x="2" y="-2" z="8" spawntime="90" />
 	</monster>
-	<monster centerx="541" centery="642" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="810" centery="642" centerz="8" radius="1">
 		<monster name="Pirat Scoundrel" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
@@ -17322,9 +18356,6 @@
 	<monster centerx="841" centery="642" centerz="8" radius="1">
 		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="503" centery="643" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="1032" centery="643" centerz="8" radius="10">
 		<monster name="Burning Gladiator" x="2" y="-10" z="8" spawntime="60" />
@@ -17342,22 +18373,9 @@
 		<monster name="Burning Gladiator" x="1" y="9" z="8" spawntime="60" />
 		<monster name="Priestess Of The Wild Sun" x="3" y="9" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="444" centery="644" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="852" centery="644" centerz="8" radius="1">
 		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="420" centery="645" centerz="8" radius="3">
-		<monster name="Hellhound" x="-2" y="0" z="8" spawntime="90" />
-		<monster name="Demon" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="0" y="3" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="817" centery="645" centerz="8" radius="1">
 		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
@@ -17367,9 +18385,6 @@
 		<monster name="Pirat Scoundrel" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="562" centery="646" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="988" centery="646" centerz="8" radius="10">
 		<monster name="Burning Gladiator" x="-10" y="-7" z="8" spawntime="60" />
 		<monster name="Black Sphinx Acolyte" x="-9" y="-4" z="8" spawntime="60" />
@@ -17378,12 +18393,6 @@
 		<monster name="Priestess Of The Wild Sun" x="-2" y="3" z="8" spawntime="60" />
 		<monster name="Burning Gladiator" x="-1" y="3" z="8" spawntime="60" />
 		<monster name="Black Sphinx Acolyte" x="6" y="3" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="425" centery="647" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="433" centery="647" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="1011" centery="647" centerz="8" radius="10">
 		<monster name="Black Sphinx Acolyte" x="-3" y="-5" z="8" spawntime="60" />
@@ -17400,8 +18409,8 @@
 		<monster name="Priestess Of The Wild Sun" x="3" y="5" z="8" spawntime="60" />
 		<monster name="Burning Gladiator" x="4" y="5" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="463" centery="648" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="518" centery="648" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="648" centery="648" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="1" y="1" z="8" spawntime="60" />
@@ -17420,14 +18429,6 @@
 	<monster centerx="1000" centery="648" centerz="8" radius="1">
 		<monster name="Burning Gladiator" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="585" centery="650" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="1" y="2" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="841" centery="650" centerz="8" radius="1">
 		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Pirat Scoundrel" x="0" y="1" z="8" spawntime="60" />
@@ -17436,113 +18437,71 @@
 		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="418" centery="651" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="874" centery="652" centerz="8" radius="1">
 		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="470" centery="655" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="489" centery="655" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="506" centery="655" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="519" centery="655" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="655" centery="655" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="-3" y="-1" z="8" spawntime="90" />
 	</monster>
-	<monster centerx="541" centery="657" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="460" centery="656" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Hellhound" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="482" centery="656" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="493" centery="656" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="512" centery="656" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="531" centery="656" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="536" centery="656" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="548" centery="656" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="560" centery="656" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="565" centery="656" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="575" centery="656" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="843" centery="657" centerz="8" radius="1">
 		<monster name="Pirat Scoundrel" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
 		<monster name="Pirat Cutthroat" x="0" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="503" centery="658" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="413" centery="659" centerz="8" radius="3">
-		<monster name="Destroyer" x="3" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="420" centery="659" centerz="8" radius="3">
-		<monster name="Hellhound" x="-1" y="-3" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Demon" x="-2" y="3" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="866" centery="660" centerz="8" radius="1">
 		<monster name="Pirat Cutthroat" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Pirat Scoundrel" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="585" centery="661" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="872" centery="661" centerz="8" radius="1">
 		<monster name="Pirat Scoundrel" x="1" y="0" z="8" spawntime="60" />
 		<monster name="Pirat Scoundrel" x="-1" y="1" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="437" centery="662" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="465" centery="662" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="481" centery="662" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="513" centery="662" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="527" centery="662" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="541" centery="662" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-2" y="3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="556" centery="662" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="570" centery="662" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="579" centery="662" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="606" centery="662" centerz="8" radius="3">
 		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
@@ -17594,22 +18553,9 @@
 		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Pirat Scoundrel" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="449" centery="663" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="497" centery="663" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="533" centery="663" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="859" centery="663" centerz="8" radius="1">
 		<monster name="Pirat Cutthroat" x="-1" y="-1" z="8" spawntime="60" />
 		<monster name="Pirat Cutthroat" x="1" y="1" z="8" spawntime="60" />
-	</monster>
-	<monster centerx="427" centery="666" centerz="8" radius="3">
-		<monster name="Hellspawn" x="0" y="-3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="-2" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="850" centery="668" centerz="8" radius="1">
 		<monster name="Pirat Scoundrel" x="-1" y="-1" z="8" spawntime="60" />
@@ -17634,52 +18580,33 @@
 	<monster centerx="690" centery="669" centerz="8" radius="3">
 		<monster name="Demon" x="3" y="-3" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="439" centery="673" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="461" centery="671" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="499" centery="674" centerz="8" radius="3">
-		<monster name="Grim Reaper" x="2" y="-3" z="8" spawntime="60" />
-		<monster name="Dark Torturer" x="-2" y="-2" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="0" z="8" spawntime="60" />
-		<monster name="Hellspawn" x="-3" y="2" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="0" y="3" z="8" spawntime="60" />
+	<monster centerx="481" centery="671" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="422" centery="675" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="504" centery="671" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="458" centery="675" centerz="8" radius="1">
-		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
+	<monster centerx="531" centery="672" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="525" centery="675" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="0" y="-2" z="8" spawntime="60" />
-		<monster name="Hellspawn" x="-3" y="-1" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
+	<monster centerx="552" centery="672" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="546" centery="675" centerz="8" radius="3">
-		<monster name="Destroyer" x="2" y="-2" z="8" spawntime="60" />
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
+	<monster centerx="575" centery="672" centerz="8" radius="1">
+		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="483" centery="676" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-3" z="8" spawntime="60" />
-		<monster name="Hellspawn" x="-3" y="-1" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="2" y="2" z="8" spawntime="60" />
-		<monster name="Destroyer" x="-2" y="3" z="8" spawntime="60" />
+	<monster centerx="458" centery="676" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="560" centery="676" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-2" y="-3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="1" y="-3" z="8" spawntime="60" />
-		<monster name="Hellspawn" x="-3" y="-1" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-2" y="1" z="8" spawntime="60" />
-		<monster name="Destroyer" x="1" y="1" z="8" spawntime="60" />
-		<monster name="Juggernaut" x="0" y="2" z="8" spawntime="60" />
+	<monster centerx="466" centery="676" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="507" centery="676" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Dark Torturer" x="0" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="599" centery="676" centerz="8" radius="3">
 		<monster name="Grim Reaper" x="3" y="2" z="8" spawntime="90" />
@@ -17702,13 +18629,37 @@
 		<monster name="Exotic Bat" x="-1" y="-1" z="8" spawntime="30" />
 		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
 	</monster>
-	<monster centerx="585" centery="677" centerz="8" radius="3">
-		<monster name="Destroyer" x="-2" y="-3" z="8" spawntime="60" />
-		<monster name="Dark Torturer" x="1" y="-3" z="8" spawntime="60" />
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
-		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
+	<monster centerx="481" centery="677" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="501" centery="677" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="527" centery="677" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="531" centery="677" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Dark Torturer" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="548" centery="677" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="552" centery="677" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Dark Torturer" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="555" centery="677" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="571" centery="677" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Dark Torturer" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="574" centery="677" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="826" centery="677" centerz="8" radius="1">
 		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
@@ -17729,14 +18680,28 @@
 		<monster name="Exotic Cave Spider" x="1" y="-1" z="8" spawntime="30" />
 		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
 	</monster>
-	<monster centerx="466" centery="678" centerz="8" radius="3">
-		<monster name="Grim Reaper" x="2" y="-2" z="8" spawntime="60" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
+	<monster centerx="460" centery="678" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="484" centery="678" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Dark Torturer" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="488" centery="678" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="534" centery="678" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="834" centery="678" centerz="8" radius="1">
 		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</monster>
+	<monster centerx="506" centery="679" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="575" centery="679" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="841" centery="679" centerz="8" radius="1">
 		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
@@ -17752,29 +18717,9 @@
 		<monster name="Exotic Bat" x="-1" y="-1" z="8" spawntime="30" />
 		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
 	</monster>
-	<monster centerx="419" centery="681" centerz="8" radius="1">
-		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="90" />
-	</monster>
-	<monster centerx="445" centery="681" centerz="8" radius="3">
-		<monster name="Destroyer" x="-1" y="-3" z="8" spawntime="90" />
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
-	</monster>
 	<monster centerx="882" centery="681" centerz="8" radius="1">
 		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
 		<monster name="Exotic Bat" x="0" y="1" z="8" spawntime="30" />
-	</monster>
-	<monster centerx="520" centery="682" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-2" y="-3" z="8" spawntime="60" />
-		<monster name="Hellhound" x="2" y="-2" z="8" spawntime="60" />
-		<monster name="Hellspawn" x="-3" y="0" z="8" spawntime="60" />
-		<monster name="Juggernaut" x="0" y="2" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="605" centery="682" centerz="8" radius="1">
 		<monster name="Demon" x="0" y="0" z="8" spawntime="90" />
@@ -17797,26 +18742,24 @@
 		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
 		<monster name="Exotic Bat" x="0" y="1" z="8" spawntime="30" />
 	</monster>
+	<monster centerx="528" centery="684" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="881" centery="684" centerz="8" radius="1">
 		<monster name="Exotic Cave Spider" x="1" y="-1" z="8" spawntime="30" />
 		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
 	</monster>
-	<monster centerx="460" centery="685" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="503" centery="685" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="505" centery="685" centerz="8" radius="3">
-		<monster name="Hellspawn" x="-2" y="-3" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="-2" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-1" y="-1" z="8" spawntime="60" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-2" y="2" z="8" spawntime="60" />
-		<monster name="Dark Torturer" x="2" y="3" z="8" spawntime="60" />
+	<monster centerx="505" centery="685" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="552" centery="685" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Dark Torturer" x="1" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="861" centery="685" centerz="8" radius="1">
 		<monster name="Exotic Cave Spider" x="0" y="0" z="8" spawntime="30" />
@@ -17829,56 +18772,51 @@
 		<monster name="Exotic Bat" x="-1" y="1" z="8" spawntime="30" />
 		<monster name="Exotic Bat" x="1" y="1" z="8" spawntime="30" />
 	</monster>
-	<monster centerx="480" centery="686" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-3" z="8" spawntime="60" />
-		<monster name="Juggernaut" x="-2" y="-1" z="8" spawntime="60" />
-		<monster name="Destroyer" x="3" y="-1" z="8" spawntime="60" />
-		<monster name="Hellspawn" x="-3" y="0" z="8" spawntime="60" />
-		<monster name="Hellhound" x="2" y="2" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-2" y="3" z="8" spawntime="60" />
+	<monster centerx="459" centery="686" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="541" centery="686" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="0" y="-3" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-2" y="-1" z="8" spawntime="60" />
-		<monster name="Juggernaut" x="2" y="-1" z="8" spawntime="60" />
-		<monster name="Destroyer" x="3" y="0" z="8" spawntime="60" />
-		<monster name="Hellspawn" x="-3" y="1" z="8" spawntime="60" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="60" />
-		<monster name="Dark Torturer" x="1" y="2" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="60" />
+	<monster centerx="480" centery="686" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="565" centery="686" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-2" y="-2" z="8" spawntime="60" />
-		<monster name="Destroyer" x="2" y="-2" z="8" spawntime="60" />
-		<monster name="Juggernaut" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Hellspawn" x="-3" y="1" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="0" y="2" z="8" spawntime="60" />
-		<monster name="Demon" x="2" y="2" z="8" spawntime="60" />
+	<monster centerx="483" centery="686" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Dark Torturer" x="1" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="583" centery="686" centerz="8" radius="3">
-		<monster name="Hellspawn" x="-2" y="-2" z="8" spawntime="60" />
-		<monster name="Hellhound" x="1" y="-2" z="8" spawntime="60" />
-		<monster name="Juggernaut" x="2" y="-1" z="8" spawntime="60" />
-		<monster name="Destroyer" x="0" y="2" z="8" spawntime="60" />
-		<monster name="Grim Reaper" x="2" y="2" z="8" spawntime="60" />
+	<monster centerx="527" centery="686" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="1" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="421" centery="687" centerz="8" radius="3">
-		<monster name="Grim Reaper" x="1" y="-2" z="8" spawntime="90" />
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Juggernaut" x="2" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="531" centery="686" centerz="8" radius="1">
+		<monster name="Dark Torturer" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="1" y="1" z="8" spawntime="60" />
 	</monster>
-	<monster centerx="440" centery="687" centerz="8" radius="3">
-		<monster name="Dark Torturer" x="-1" y="-1" z="8" spawntime="90" />
-		<monster name="Demon" x="2" y="-1" z="8" spawntime="90" />
-		<monster name="Hellspawn" x="-2" y="1" z="8" spawntime="90" />
-		<monster name="Hellhound" x="0" y="1" z="8" spawntime="90" />
-		<monster name="Grim Reaper" x="-1" y="3" z="8" spawntime="90" />
-		<monster name="Destroyer" x="2" y="3" z="8" spawntime="90" />
+	<monster centerx="573" centery="686" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Dark Torturer" x="1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="575" centery="686" centerz="8" radius="1">
+		<monster name="Hellhound" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Grim Reaper" x="0" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="577" centery="686" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="0" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="461" centery="687" centerz="8" radius="1">
+		<monster name="Juggernaut" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="551" centery="687" centerz="8" radius="1">
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="554" centery="687" centerz="8" radius="1">
+		<monster name="Grim Reaper" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Juggernaut" x="1" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="604" centery="688" centerz="8" radius="1">
 		<monster name="Grim Reaper" x="0" y="0" z="8" spawntime="90" />

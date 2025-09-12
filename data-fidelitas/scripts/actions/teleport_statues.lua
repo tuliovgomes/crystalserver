@@ -1,6 +1,6 @@
 local statues = {
     {
-        statuePosition = Position(1103, 377, 7),
+        statuePosition = Position(757, 1060, 7),
         requiredItem = 29292,
         itemCount = 1, 
         removeItem = false,
@@ -9,7 +9,7 @@ local statues = {
         effectOnFail = CONST_ME_POFF
     },
     {
-        statuePosition = Position(1103, 382, 7),
+        statuePosition = Position(757, 1066, 7),
         requiredItem = 29294,
         itemCount = 1,
         removeItem = false,
@@ -18,7 +18,7 @@ local statues = {
         effectOnFail = CONST_ME_POFF
     },
     {
-        statuePosition = Position(1103, 387, 7),
+        statuePosition = Position(748, 1060, 7),
         requiredItem = 29293,
         itemCount = 1,
         removeItem = false,
@@ -27,7 +27,7 @@ local statues = {
         effectOnFail = CONST_ME_POFF
     },
     {
-        statuePosition = Position(1103, 392, 7),
+        statuePosition = Position(748, 1066, 7),
         requiredItem = 29291,
         itemCount = 1,
         removeItem = false,

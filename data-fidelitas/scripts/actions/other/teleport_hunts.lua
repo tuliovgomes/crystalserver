@@ -51,8 +51,9 @@ local config = {
 	{ name="Deeplings", position = Position(684, 530, 7), level = 300 },
 	{ name="Falcon", position = Position(569, 850, 7), level = 300 },
 	{ name="Bulltaurs", position = Position(583, 460, 7), level = 400 },
-	{ name="Primal", position = Position(589, 949, 7), level = 500 },
-	{ name="Livraria", position = Position(1102, 384, 7), level = 500 },
+	{ name="Primal", position = Position(589, 949, 7), level = 700 },
+	{ name="Sparkion", position = Position(512, 864, 7), level = 400 },
+	{ name="Livraria", position = Position(752, 1079, 7), level = 500 },
 	{ name="Azzilon Castle", position = Position(573, 471, 6), level = 600 },
 	{ name="Darklight", position = Position(415, 707, 7), level = 800 },
 }
