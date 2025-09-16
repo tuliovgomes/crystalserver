@@ -7,6 +7,7 @@ local config = {
 	{ name="Tubal", position = Position(811, 833, 7) },
 	{ name="Fornim", position = Position(768, 501, 7) },
 	{ name="Nambastion", position = Position(980, 634, 7) },
+	{ name="Nekhan", position = Position(817, 1264, 7) },
 	{ name="City Tp", position = Position(751, 695, 7) },
 }
 

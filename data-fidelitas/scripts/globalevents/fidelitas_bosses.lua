@@ -18,6 +18,7 @@ local bossConfig = {
     {name = "Adramelech", position = Position(1383, 858, 7)},
     {name = "Ancalagon", position = Position(907, 633, 6)},
     {name = "Ragiaz", position = Position(1013, 500, 10)},
+    {name = "Glooth Fairy", position = Position(1025, 1037, 7)},
 }
 
 local spawnRandomBoss = GlobalEvent("spawnRandomBoss")
