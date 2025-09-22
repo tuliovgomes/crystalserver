@@ -714,8 +714,12 @@
 	<item id="349" article="a" name="suspicious signet ring">
 		<attribute key="primarytype" value="rings" />
 		<attribute key="weight" value="80" />
+		<attribute key="showAttributes" value="1" />
+		<attribute key="magiclevelpoints" value="6" />
+		<attribute key="manashield" value="1" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="ring" />
+			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />
 		</attribute>
 	</item>
 	<item id="350" article="a" name="case of rust bugs">
@@ -6987,7 +6991,6 @@
 		<attribute key="weight" value="100" />
 		<attribute key="showAttributes" value="1" />
 		<attribute key="magiclevelpoints" value="3" />
-		<attribute key="manashield" value="1" />
 		<attribute key="script" value="moveevent">
 			<attribute key="slot" value="ring" />
 			<attribute key="vocation" value="Sorcerer;true, Druid;true, Master Sorcerer, Elder Druid" />

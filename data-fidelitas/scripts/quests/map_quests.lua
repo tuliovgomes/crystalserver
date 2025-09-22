@@ -102,6 +102,23 @@ local questConfig = {
             {id = 3288, count = 1},
             {id = 12057, count = 1},
         }
+    },
+    {
+        storage = 70013,
+        position = Position(890, 1066, 5),
+        rewards = {
+            {id = 349, count = 1},
+        }
+    },
+    {
+        storage = 70014,
+        position = Position(686, 933, 7),
+        rewards = {
+            {id = 31617, count = 1},
+            {id = 3387, count = 1},
+            {id = 3420, count = 1},
+            {id = 6566, count = 1},
+        }
     }
 }
 

@@ -1,6 +1,6 @@
 local config = {
     leverPosition = Position(811, 832, 6),
-    requiredItemId = 37317,
+    requiredItemId = 43735,
     leverIds = {
         inactive = 30410,
         active = 30411
@@ -17,7 +17,7 @@ local config = {
         {x = 815, y = 831, z = 6}  -- Última posição
     },
     items = {
-        {id = 37317, minCount = 1, maxCount = 2, chance = 1, raro = true},
+        {id = 43735, minCount = 1, maxCount = 2, chance = 1, raro = true},
         {id = 34109, minCount = 1, maxCount = 1, chance = 1, raro = true},
         {id = 39546, minCount = 1, maxCount = 1, chance = 1, raro = true},
         {id = 22118, minCount = 50, maxCount = 150, chance = 1, raro = true},

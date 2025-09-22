@@ -9,7 +9,7 @@ local table =
 	[30] = {type = "item", id = {3043, 10}, msg = "You win 10 crystal coins for reach the level 30!"},
 	[100] = {type = "coin", id = {10, 0}, msg = "You win 10 coins for reach the level 100!"},
 	[150] = {type = "bank", id = {200000, 0}, msg = "Was deposited in your bank 200000 gold coins!"},
-	[200] = {type = "item", id = {37317, 5}, msg = "You win 5 tigrinho coins for reach the level 200!"},
+	[200] = {type = "item", id = {43735, 5}, msg = "You win 5 tigrinho coins for reach the level 200!"},
 }
 
 local storage = 15000
