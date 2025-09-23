@@ -6,11 +6,11 @@ local config = {
 	requiredLevel = 200,
 	timeToFightAgain = ParseDuration("20h") / ParseDuration("1s"),
 	playerPositions = {
-		{ pos = Position(546, 1257, 7), teleport = Position(546, 1257, 7), effect = CONST_ME_TELEPORT },
-		{ pos = Position(546, 1258, 7), teleport = Position(546, 1257, 7), effect = CONST_ME_TELEPORT },
-		{ pos = Position(546, 1259, 7), teleport = Position(546, 1257, 7), effect = CONST_ME_TELEPORT },
-		{ pos = Position(546, 1260, 7), teleport = Position(546, 1257, 7), effect = CONST_ME_TELEPORT },
-		{ pos = Position(546, 1261, 7), teleport = Position(546, 1257, 7), effect = CONST_ME_TELEPORT },
+		{ pos = Position(546, 1257, 7), teleport = Position(567, 1265, 7), effect = CONST_ME_TELEPORT },
+		{ pos = Position(546, 1258, 7), teleport = Position(567, 1265, 7), effect = CONST_ME_TELEPORT },
+		{ pos = Position(546, 1259, 7), teleport = Position(567, 1265, 7), effect = CONST_ME_TELEPORT },
+		{ pos = Position(546, 1260, 7), teleport = Position(567, 1265, 7), effect = CONST_ME_TELEPORT },
+		{ pos = Position(546, 1261, 7), teleport = Position(567, 1265, 7), effect = CONST_ME_TELEPORT },
 	},
 	specPos = {
 		from = Position(554, 1251, 7),

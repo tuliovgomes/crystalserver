@@ -29,7 +29,7 @@ local bossConfig = {
   -- Flimsy
   {name = "Irgix the Flimsy", position = Position(901, 1463, 7)},
   {name = "Unaz the Mean", position = Position(883, 1468, 7)},
-  {name = "Vok The Freakish", position = Position(866, 1466, 7)}
+  {name = "Vok The Freakish", position = Position(866, 1466, 7)},
 
   -- lion
   {name = "Yirkas Blue Scales", position = Position(892, 778, 9)},
@@ -44,9 +44,9 @@ local bossConfig = {
 
 }
 
-local spawnRandomBoss = GlobalEvent("spawnRandomBoss")
+local spawnRandomMiniBoss = GlobalEvent("spawnRandomMiniBoss")
 
-function spawnRandomBoss.onThink()
+function spawnRandomMiniBoss.onThink()
   local availableBosses = {}
 
   for _, config in ipairs(bossConfig) do
@@ -82,5 +82,5 @@ function spawnRandomBoss.onThink()
   return true
 end
 
-spawnRandomBoss:interval(15 * 60 * 1000) -- 15 minutos
-spawnRandomBoss:register()
+spawnRandomMiniBoss:interval(5 * 60 * 1000) -- 5 minutos
+spawnRandomMiniBoss:register()

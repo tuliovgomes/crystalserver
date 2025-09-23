@@ -17990,12 +17990,12 @@
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammotype" value="bolt" />
 		<attribute key="shootType" value="infernalbolt" />
-		<attribute key="maxhitchance" value="91" />
-		<attribute key="attack" value="72" />
+		<attribute key="maxhitchance" value="100" />
+		<attribute key="attack" value="172" />
 		<attribute key="weight" value="90" />
 		<attribute key="script" value="moveevent;weapon">
 			<attribute key="action" value="removecount" />
-			<attribute key="level" value="110" />
+			<attribute key="level" value="500" />
 			<attribute key="unproperly" value="true" />
 			<attribute key="weaponType" value="ammo" />
 			<attribute key="slot" value="ammo" />
@@ -33568,12 +33568,12 @@
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammotype" value="arrow" />
 		<attribute key="shootType" value="crystallinearrow" />
-		<attribute key="maxhitchance" value="95" />
+		<attribute key="maxhitchance" value="100" />
 		<attribute key="attack" value="65" />
 		<attribute key="weight" value="75" />
 		<attribute key="script" value="moveevent;weapon">
 			<attribute key="action" value="removecount" />
-			<attribute key="level" value="90" />
+			<attribute key="level" value="150" />
 			<attribute key="unproperly" value="true" />
 			<attribute key="weaponType" value="ammo" />
 			<attribute key="slot" value="ammo" />
@@ -49006,7 +49006,7 @@ hands of its owner. Granted by TibiaRoyal.com" />
 	<item id="25757" article="a" name="diamond arrow">
 		<attribute key="primarytype" value="ammunition" />
 		<attribute key="ammotype" value="arrow" />
-		<attribute key="attack" value="57" />
+		<attribute key="attack" value="75" />
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="3600" />
 		<attribute key="maxhitchance" value="100" />
@@ -49014,6 +49014,13 @@ hands of its owner. Granted by TibiaRoyal.com" />
 		<attribute key="stopduration" value="0" />
 		<attribute key="showduration" value="1" />
 		<attribute key="weight" value="80" />
+		<attribute key="script" value="moveevent;weapon">
+			<attribute key="action" value="removecount" />
+			<attribute key="level" value="500" />
+			<attribute key="unproperly" value="true" />
+			<attribute key="weaponType" value="ammo" />
+			<attribute key="slot" value="ammo" />
+		</attribute>
 	</item>
 	<item id="25758" article="a" name="spectral bolt">
 		<attribute key="primarytype" value="ammunition" />
@@ -66782,8 +66789,15 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com" />
 		<attribute key="ammotype" value="arrow" />
 		<attribute key="shootType" value="diamondarrow" />
 		<attribute key="maxhitchance" value="100" />
-		<attribute key="attack" value="57" />
+		<attribute key="attack" value="75" />
 		<attribute key="weight" value="80" />
+		<attribute key="script" value="moveevent;weapon">
+			<attribute key="action" value="removecount" />
+			<attribute key="level" value="500" />
+			<attribute key="unproperly" value="true" />
+			<attribute key="weaponType" value="ammo" />
+			<attribute key="slot" value="ammo" />
+		</attribute>
 	</item>
 	<item id="35902" article="a" name="spectral bolt">
 		<attribute key="primarytype" value="ammunition" />

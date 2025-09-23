@@ -12,6 +12,7 @@ local effects = {
     {position = Position(763, 723, 7), text = 'Npcs', effect = CONST_ME_GROUNDSHAKER},
     {position = Position(764, 723, 7), text = 'Hunts', effect = CONST_ME_GROUNDSHAKER},
     {position = Position(765, 723, 7), text = 'Bosses', effect = CONST_ME_GROUNDSHAKER},
+    {position = Position(766, 723, 7), text = 'Mini Bosses', effect = CONST_ME_GROUNDSHAKER}
 }
 
 local animatedText = GlobalEvent("AnimatedText") 
