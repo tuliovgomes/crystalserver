@@ -1,7 +1,7 @@
 local config = {
 	boss = {
 		name = "Goshnar's Spite",
-		position = Position(1029, 1162, 7),
+		position = Position(1160, 1139, 7),
 	},
 	requiredLevel = 250,
 	timeToFightAgain = ParseDuration("20h") / ParseDuration("1s"),
