@@ -129,8 +129,8 @@
 	<house name="" houseid="848" entryx="757" entryy="1319" entryz="6" rent="0" townid="6" size="131" clientid="0" beds="0" />
 	<house name="" houseid="849" entryx="742" entryy="1334" entryz="6" rent="0" townid="6" size="126" clientid="0" beds="0" />
 	<house name="" houseid="850" entryx="757" entryy="1325" entryz="6" rent="0" townid="6" size="246" clientid="0" beds="0" />
-	<house name="" houseid="851" entryx="769" entryy="1276" entryz="6" rent="0" townid="6" size="22" clientid="0" beds="0" />
-	<house name="" houseid="852" entryx="768" entryy="1281" entryz="6" rent="0" townid="6" size="86" clientid="0" beds="0" />
-	<house name="" houseid="853" entryx="784" entryy="1276" entryz="6" rent="0" townid="6" size="72" clientid="0" beds="0" />
-	<house name="" houseid="854" entryx="785" entryy="1283" entryz="6" rent="0" townid="6" size="54" clientid="0" beds="0" />
+	<house name="Unnamed House #851" houseid="851" entryx="769" entryy="1276" entryz="6" rent="0" townid="6" size="22" clientid="0" beds="0" />
+	<house name="Unnamed House #852" houseid="852" entryx="768" entryy="1281" entryz="6" rent="0" townid="6" size="86" clientid="0" beds="0" />
+	<house name="Unnamed House #853" houseid="853" entryx="784" entryy="1276" entryz="6" rent="0" townid="6" size="72" clientid="0" beds="0" />
+	<house name="Unnamed House #854" houseid="854" entryx="785" entryy="1283" entryz="6" rent="0" townid="6" size="54" clientid="0" beds="0" />
 </houses>

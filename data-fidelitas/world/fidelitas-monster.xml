@@ -2435,7 +2435,6 @@
 	</monster>
 	<monster centerx="555" centery="819" centerz="5" radius="3">
 		<monster name="Falcon Knight" x="-1" y="-2" z="5" spawntime="60" />
-		<monster name="Grand Chaplain Gaunder" x="1" y="-2" z="5" spawntime="60" />
 		<monster name="Falcon Paladin" x="-2" y="2" z="5" spawntime="60" />
 	</monster>
 	<monster centerx="564" centery="819" centerz="5" radius="3">
@@ -2470,6 +2469,13 @@
 		<monster name="Warlock" x="2" y="1" z="5" spawntime="60" />
 		<monster name="Dark Torturer" x="-1" y="3" z="5" spawntime="60" />
 		<monster name="Warlock" x="0" y="3" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="1024" centery="932" centerz="5" radius="30">
+		<monster name="Preceptor Lazare" x="-10" y="-8" z="5" spawntime="60" direction="2" />
+		<monster name="Ashmunrah" x="-8" y="-8" z="5" spawntime="60" direction="2" />
+		<monster name="Irgix The Flimsy" x="-3" y="-8" z="5" spawntime="60" direction="1" />
+		<monster name="Gaffir" x="-10" y="1" z="5" spawntime="60" />
+		<monster name="Mozradek" x="-8" y="1" z="5" spawntime="60" />
 	</monster>
 	<monster centerx="909" centery="979" centerz="5" radius="3">
 		<monster name="Cobra Scout" x="-1" y="-3" z="5" spawntime="60" />
@@ -2514,6 +2520,9 @@
 	<monster centerx="909" centery="1000" centerz="5" radius="3">
 		<monster name="Cobra Scout" x="2" y="-1" z="5" spawntime="60" />
 		<monster name="Cobra Scout" x="3" y="0" z="5" spawntime="60" />
+	</monster>
+	<monster centerx="935" centery="1000" centerz="5" radius="5">
+		<monster name="Custodian" x="2" y="0" z="5" spawntime="60" />
 	</monster>
 	<monster centerx="909" centery="1007" centerz="5" radius="3">
 		<monster name="Cobra Scout" x="-2" y="0" z="5" spawntime="60" />
@@ -5094,8 +5103,8 @@
 		<monster name="Hero" x="-5" y="-5" z="6" spawntime="60" direction="1" />
 		<monster name="Falcon Paladin" x="5" y="-5" z="6" spawntime="60" direction="3" />
 		<monster name="Warlock" x="6" y="-5" z="6" spawntime="60" direction="3" />
-		<monster name="Serpent Spawn" x="8" y="-5" z="6" spawntime="60" direction="1" />
-		<monster name="Shock Head" x="9" y="-5" z="6" spawntime="60" direction="1" />
+		<monster name="Mean Lost Soul" x="8" y="-5" z="6" spawntime="60" direction="1" />
+		<monster name="Serpent Spawn" x="9" y="-5" z="6" spawntime="60" direction="1" />
 		<monster name="Thornback Tortoise" x="-6" y="-4" z="6" spawntime="60" direction="1" />
 		<monster name="Dark Torturer" x="6" y="-4" z="6" spawntime="60" direction="3" />
 		<monster name="Dragonling" x="8" y="-4" z="6" spawntime="60" direction="1" />
@@ -5508,9 +5517,6 @@
 	<monster centerx="743" centery="1367" centerz="6" radius="1">
 		<monster name="Stone Golem" x="0" y="0" z="6" spawntime="60" />
 	</monster>
-	<monster centerx="782" centery="1369" centerz="6" radius="1">
-		<monster name="Silencer" x="0" y="0" z="6" spawntime="60" />
-	</monster>
 	<monster centerx="807" centery="1371" centerz="6" radius="1">
 		<monster name="Silencer" x="0" y="0" z="6" spawntime="60" />
 	</monster>
@@ -5519,12 +5525,6 @@
 	</monster>
 	<monster centerx="802" centery="1375" centerz="6" radius="1">
 		<monster name="Silencer" x="0" y="0" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="758" centery="1395" centerz="6" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="6" spawntime="60" />
-	</monster>
-	<monster centerx="756" centery="1396" centerz="6" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="6" spawntime="60" />
 	</monster>
 	<monster centerx="1184" centery="189" centerz="7" radius="1">
 		<monster name="Animated Feather" x="-1" y="-1" z="7" spawntime="60" />
@@ -13965,6 +13965,7 @@
 	</monster>
 	<monster centerx="551" centery="801" centerz="7" radius="2">
 		<monster name="Falcon Knight" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Falcon Paladin" x="2" y="-1" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="1140" centery="801" centerz="7" radius="30">
 		<monster name="Glooth Bandit" x="-25" y="-19" z="7" spawntime="60" />
@@ -13983,8 +13984,8 @@
 		<monster name="darklight matter" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="544" centery="802" centerz="7" radius="2">
-		<monster name="Falcon Knight" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Falcon Paladin" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Falcon Knight" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Falcon Knight" x="1" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="360" centery="803" centerz="7" radius="1">
 		<monster name="Walking Pillar" x="0" y="0" z="7" spawntime="60" />
@@ -13993,6 +13994,7 @@
 		<monster name="Darklight Source" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="557" centery="803" centerz="7" radius="2">
+		<monster name="Falcon Knight" x="-1" y="-2" z="7" spawntime="60" />
 		<monster name="Falcon Paladin" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Falcon Paladin" x="1" y="1" z="7" spawntime="60" />
 		<monster name="Falcon Paladin" x="1" y="2" z="7" spawntime="60" />
@@ -17210,6 +17212,12 @@
 	<monster centerx="695" centery="1253" centerz="7" radius="1">
 		<monster name="Medusa" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="502" centery="1254" centerz="7" radius="1">
+		<monster name="Dragon Servant" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="511" centery="1254" centerz="7" radius="1">
+		<monster name="Dragon Servant" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="687" centery="1254" centerz="7" radius="1">
 		<monster name="Wyvern" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -17253,6 +17261,12 @@
 	</monster>
 	<monster centerx="719" centery="1256" centerz="7" radius="1">
 		<monster name="Serpent Spawn" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="564" centery="1257" centerz="7" radius="1">
+		<monster name="Time Keeper" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="570" centery="1257" centerz="7" radius="1">
+		<monster name="Time Keeper" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="846" centery="1257" centerz="7" radius="1">
 		<monster name="Shock Head" x="0" y="0" z="7" spawntime="60" />
@@ -17308,6 +17322,12 @@
 	</monster>
 	<monster centerx="740" centery="1262" centerz="7" radius="1">
 		<monster name="Medusa" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="564" centery="1264" centerz="7" radius="1">
+		<monster name="Time Keeper" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="570" centery="1264" centerz="7" radius="1">
+		<monster name="Time Keeper" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="689" centery="1264" centerz="7" radius="1">
 		<monster name="Medusa" x="0" y="0" z="7" spawntime="60" />
@@ -17368,6 +17388,12 @@
 	<monster centerx="838" centery="1277" centerz="7" radius="1">
 		<monster name="Shock Head" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="505" centery="1278" centerz="7" radius="1">
+		<monster name="Thorn Minion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="511" centery="1278" centerz="7" radius="1">
+		<monster name="Thorn Minion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="860" centery="1278" centerz="7" radius="1">
 		<monster name="Shock Head" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -17392,6 +17418,12 @@
 	</monster>
 	<monster centerx="875" centery="1284" centerz="7" radius="1">
 		<monster name="Shock Head" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="505" centery="1285" centerz="7" radius="1">
+		<monster name="Thorn Minion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="511" centery="1285" centerz="7" radius="1">
+		<monster name="Thorn Minion" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="840" centery="1285" centerz="7" radius="1">
 		<monster name="Destroyer" x="0" y="0" z="7" spawntime="60" />
@@ -17511,6 +17543,12 @@
 	<monster centerx="864" centery="1305" centerz="7" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="564" centery="1306" centerz="7" radius="1">
+		<monster name="Frozen Minion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="571" centery="1306" centerz="7" radius="1">
+		<monster name="Frozen Minion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="681" centery="1306" centerz="7" radius="1">
 		<monster name="Defiler" x="0" y="0" z="7" spawntime="60" />
 	</monster>
@@ -17571,6 +17609,12 @@
 		<monster name="Minotaur Hunter" x="-2" y="26" z="7" spawntime="60" />
 		<monster name="Mooh'Tah Warrior" x="7" y="27" z="7" spawntime="60" />
 		<monster name="Worm Priestess" x="-1" y="28" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="564" centery="1312" centerz="7" radius="1">
+		<monster name="Frozen Minion" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="571" centery="1312" centerz="7" radius="1">
+		<monster name="Frozen Minion" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="722" centery="1312" centerz="7" radius="1">
 		<monster name="Sheep" x="0" y="0" z="7" spawntime="60" />
@@ -17665,6 +17709,9 @@
 		<monster name="Worm Priestess" x="-1" y="0" z="7" spawntime="60" />
 		<monster name="Mooh'Tah Warrior" x="-1" y="1" z="7" spawntime="60" />
 	</monster>
+	<monster centerx="875" centery="1356" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
 	<monster centerx="600" centery="1357" centerz="7" radius="30">
 		<monster name="Worm Priestess" x="-4" y="-10" z="7" spawntime="60" />
 		<monster name="Minotaur Hunter" x="-3" y="-8" z="7" spawntime="60" />
@@ -17677,503 +17724,573 @@
 		<monster name="Minotaur Hunter" x="-14" y="12" z="7" spawntime="60" />
 		<monster name="Mooh'Tah Warrior" x="-15" y="13" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="723" centery="1370" centerz="7" radius="1">
-		<monster name="Sheep" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="879" centery="1358" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="719" centery="1371" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="873" centery="1362" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="723" centery="1373" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="897" centery="1362" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="771" centery="1373" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="878" centery="1364" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="737" centery="1375" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="890" centery="1364" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="715" centery="1376" centerz="7" radius="1">
-		<monster name="Sheep" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="806" centery="1366" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="721" centery="1377" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="800" centery="1372" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="784" centery="1378" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="806" centery="1373" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="759" centery="1380" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="730" centery="1375" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-2" y="7" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-5" y="8" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-4" y="8" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="719" centery="1381" centerz="7" radius="1">
-		<monster name="Sheep" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="800" centery="1376" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="784" centery="1381" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="875" centery="1376" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="632" centery="1382" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="692" centery="1377" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-4" y="1" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="4" y="2" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="5" y="3" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-8" y="8" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="797" centery="1382" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="893" centery="1377" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="701" centery="1384" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="906" centery="1379" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="733" centery="1384" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="660" centery="1381" centerz="7" radius="8">
+		<monster name="Freakish Lost Soul" x="-6" y="-3" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="4" y="3" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="754" centery="1385" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="680" centery="1381" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-5" y="0" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-3" y="2" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="709" centery="1386" centerz="7" radius="1">
-		<monster name="Wailing Widow" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="878" centery="1381" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="736" centery="1387" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="846" centery="1382" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="779" centery="1388" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="898" centery="1382" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="626" centery="1390" centerz="7" radius="1">
-		<monster name="Wailing Widow" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="796" centery="1383" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="631" centery="1390" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="820" centery="1383" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="685" centery="1391" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="858" centery="1383" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="778" centery="1391" centerz="7" radius="1">
-		<monster name="Silencer" x="-1" y="0" z="7" spawntime="60" />
+	<monster centerx="643" centery="1384" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="7" y="-5" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="4" y="4" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="5" y="5" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="5" y="6" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="7" y="7" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="648" centery="1392" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="871" centery="1384" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="726" centery="1392" centerz="7" radius="1">
-		<monster name="Sheep" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="893" centery="1386" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="786" centery="1392" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="915" centery="1387" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="788" centery="1392" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="878" centery="1388" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="736" centery="1393" centerz="7" radius="1">
-		<monster name="Sheep" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="899" centery="1389" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="812" centery="1393" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="886" centery="1390" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="817" centery="1393" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="914" centery="1390" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="644" centery="1394" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="842" centery="1391" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="687" centery="1394" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="777" centery="1392" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="698" centery="1394" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="809" centery="1392" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="760" centery="1394" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="825" centery="1393" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="670" centery="1395" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="657" centery="1394" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="-5" y="-2" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="5" y="1" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="7" y="2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="8" y="6" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="8" y="7" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="758" centery="1395" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="802" centery="1394" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="-1" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="630" centery="1396" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="838" centery="1394" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="654" centery="1396" centerz="7" radius="1">
-		<monster name="Wailing Widow" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="862" centery="1394" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="660" centery="1396" centerz="7" radius="1">
-		<monster name="Wailing Widow" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="908" centery="1394" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="703" centery="1396" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="705" centery="1395" centerz="7" radius="8">
+		<monster name="Mean Lost Soul" x="2" y="-5" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-3" y="4" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="0" y="4" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-5" y="5" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="737" centery="1396" centerz="7" radius="1">
-		<monster name="Sheep" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="784" centery="1395" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="780" centery="1396" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="788" centery="1395" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="635" centery="1397" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="892" centery="1396" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="669" centery="1397" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="796" centery="1397" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="688" centery="1398" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="805" centery="1397" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="-1" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="804" centery="1399" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="868" centery="1397" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="651" centery="1402" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="732" centery="1398" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="-1" y="-5" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-1" y="-4" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-2" y="4" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-1" y="4" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-7" y="8" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="695" centery="1402" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="769" centery="1398" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="640" centery="1403" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="827" centery="1398" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="817" centery="1404" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="845" centery="1398" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="638" centery="1405" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="902" centery="1398" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="696" centery="1405" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="878" centery="1399" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="633" centery="1406" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="852" centery="1401" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="671" centery="1406" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="809" centery="1402" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="704" centery="1407" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="870" centery="1402" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="824" centery="1407" centerz="7" radius="1">
-		<monster name="Juggernaut" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="800" centery="1403" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="775" centery="1408" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="688" centery="1404" centerz="7" radius="8">
+		<monster name="Mean Lost Soul" x="-4" y="-7" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-5" y="2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="1" y="2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="3" y="2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-6" y="3" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="658" centery="1409" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="697" centery="1404" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="828" centery="1409" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="832" centery="1404" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="699" centery="1410" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="910" centery="1404" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="678" centery="1411" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="850" centery="1405" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="725" centery="1411" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="880" centery="1405" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="801" centery="1411" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="904" centery="1405" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="663" centery="1413" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="766" centery="1406" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="721" centery="1413" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="802" centery="1407" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="760" centery="1413" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="856" centery="1407" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="818" centery="1413" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="792" centery="1408" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="657" centery="1414" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="839" centery="1410" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="688" centery="1414" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="767" centery="1411" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="712" centery="1414" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="841" centery="1411" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="679" centery="1415" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="837" centery="1412" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="776" centery="1415" centerz="7" radius="1">
-		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="877" centery="1412" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="815" centery="1415" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="896" centery="1413" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="703" centery="1416" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="1" z="7" spawntime="60" />
+	<monster centerx="835" centery="1414" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="769" centery="1416" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="839" centery="1414" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="651" centery="1417" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="794" centery="1415" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="682" centery="1417" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="907" centery="1415" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="715" centery="1417" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="721" centery="1416" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-1" y="5" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-1" y="6" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="1" y="7" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="5" y="8" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="6" y="8" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="794" centery="1417" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="837" centery="1416" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="816" centery="1417" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="649" centery="1417" centerz="7" radius="8">
+		<monster name="Freakish Lost Soul" x="7" y="-4" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="8" y="-4" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="4" y="-3" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-4" y="0" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-5" y="1" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-6" y="3" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-7" y="7" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="842" centery="1417" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="669" centery="1417" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="-5" y="-4" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-4" y="-4" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="7" y="3" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="1" y="6" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="662" centery="1418" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="784" centery="1417" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="639" centery="1419" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="814" centery="1417" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="659" centery="1419" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="841" centery="1417" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="769" centery="1419" centerz="7" radius="1">
-		<monster name="Juggernaut" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="772" centery="1418" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="788" centery="1419" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="807" centery="1418" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="664" centery="1420" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="836" centery="1418" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="791" centery="1421" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="839" centery="1419" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="646" centery="1422" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="799" centery="1420" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="812" centery="1422" centerz="7" radius="1">
-		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="822" centery="1420" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="678" centery="1423" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="903" centery="1420" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="705" centery="1423" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="776" centery="1421" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="722" centery="1424" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="805" centery="1421" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="805" centery="1424" centerz="7" radius="1">
-		<monster name="Juggernaut" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="870" centery="1421" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="709" centery="1425" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="827" centery="1422" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="780" centery="1425" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="856" centery="1423" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="812" centery="1425" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="862" centery="1425" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="756" centery="1426" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="817" centery="1426" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="791" centery="1426" centerz="7" radius="1">
-		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="687" centery="1428" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="-2" y="-5" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="5" y="-1" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-2" y="3" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-7" y="6" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="672" centery="1427" centerz="7" radius="1">
-		<monster name="Wailing Widow" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="869" centery="1428" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="780" centery="1427" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="893" centery="1428" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="831" centery="1427" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="897" centery="1429" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="639" centery="1428" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="741" centery="1430" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="-4" y="-7" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-2" y="-6" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-2" y="5" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-4" y="8" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="675" centery="1428" centerz="7" radius="1">
-		<monster name="Wailing Widow" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="819" centery="1430" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="775" centery="1428" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="860" centery="1430" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="636" centery="1429" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="789" centery="1432" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="765" centery="1429" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="795" centery="1432" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="803" centery="1429" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="803" centery="1432" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="839" centery="1429" centerz="7" radius="1">
-		<monster name="Juggernaut" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="646" centery="1433" centerz="7" radius="8">
+		<monster name="Freakish Lost Soul" x="-6" y="-8" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-8" y="-7" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-6" y="-7" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="2" y="3" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="3" y="3" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="4" y="5" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="837" centery="1430" centerz="7" radius="1">
-		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="709" centery="1433" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="5" y="-3" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-1" y="3" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="2" y="5" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="820" centery="1433" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="874" centery="1434" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="850" centery="1430" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="898" centery="1435" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="688" centery="1431" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="801" centery="1437" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="795" centery="1438" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="677" centery="1439" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="789" centery="1439" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="802" centery="1439" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="827" centery="1439" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="900" centery="1439" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="698" centery="1431" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="860" centery="1440" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="764" centery="1431" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="866" centery="1441" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="857" centery="1432" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="653" centery="1442" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="643" centery="1433" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="799" centery="1443" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
-	<monster centerx="802" centery="1433" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="726" centery="1434" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="815" centery="1434" centerz="7" radius="1">
-		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="836" centery="1434" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="859" centery="1435" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="650" centery="1436" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="704" centery="1436" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="720" centery="1436" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="869" centery="1436" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="782" centery="1438" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="715" centery="1439" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="767" centery="1439" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="841" centery="1440" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="633" centery="1441" centerz="7" radius="1">
-		<monster name="Wailing Widow" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="647" centery="1441" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="781" centery="1441" centerz="7" radius="1">
-		<monster name="Juggernaut" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="807" centery="1441" centerz="7" radius="1">
-		<monster name="Dark Torturer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="712" centery="1442" centerz="7" radius="1">
-		<monster name="Water Buffalo" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="854" centery="1442" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="638" centery="1443" centerz="7" radius="1">
-		<monster name="Wailing Widow" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="688" centery="1443" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="794" centery="1444" centerz="7" radius="1">
-		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="805" centery="1444" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="627" centery="1445" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="834" centery="1445" centerz="7" radius="1">
-		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="694" centery="1446" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="698" centery="1446" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="806" centery="1446" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="633" centery="1447" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="651" centery="1447" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="683" centery="1448" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="723" centery="1449" centerz="7" radius="1">
-		<monster name="Wailing Widow" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="849" centery="1449" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="714" centery="1450" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="777" centery="1450" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="822" centery="1450" centerz="7" radius="1">
-		<monster name="Behemoth" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="664" centery="1451" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="640" centery="1452" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="652" centery="1453" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="703" centery="1453" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="809" centery="1453" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="786" centery="1455" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="826" centery="1455" centerz="7" radius="1">
-		<monster name="Silencer" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="657" centery="1458" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="672" centery="1458" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="697" centery="1458" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="688" centery="1459" centerz="7" radius="1">
-		<monster name="Son Of Verminor" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="679" centery="1460" centerz="7" radius="1">
-		<monster name="Plaguesmith" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="670" centery="1461" centerz="7" radius="1">
-		<monster name="Wailing Widow" x="0" y="0" z="7" spawntime="60" />
-	</monster>
-	<monster centerx="668" centery="1463" centerz="7" radius="1">
-		<monster name="Wailing Widow" x="0" y="0" z="7" spawntime="60" />
+	<monster centerx="861" centery="1444" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="897" centery="1444" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="663" centery="1445" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="4" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="725" centery="1445" centerz="7" radius="8">
+		<monster name="Flimsy Lost Soul" x="6" y="-5" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="7" y="-5" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="6" y="-4" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-5" y="-1" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="2" y="7" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="3" y="7" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="833" centery="1449" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="861" centery="1449" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="867" centery="1449" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="849" centery="1451" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="892" centery="1451" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="646" centery="1454" centerz="7" radius="8">
+		<monster name="Mean Lost Soul" x="7" y="-7" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-1" y="-4" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="1" y="-4" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="3" y="4" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="4" y="4" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="6" y="7" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="691" centery="1460" centerz="7" radius="8">
+		<monster name="Freakish Lost Soul" x="4" y="-4" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="6" y="-4" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="5" y="-3" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="7" y="-3" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="6" y="-2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-4" y="3" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-7" y="4" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-8" y="5" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="654" centery="1463" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="891" centery="1463" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="1" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="858" centery="1465" centerz="7" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="720" centery="1466" centerz="7" radius="8">
+		<monster name="Mean Lost Soul" x="7" y="-6" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-4" y="3" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-3" y="3" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="862" centery="1466" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="896" centery="1466" centerz="7" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="864" centery="1467" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="880" centery="1468" centerz="7" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="900" centery="1468" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="679" centery="1469" centerz="7" radius="1">
+		<monster name="Freakish Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="875" centery="1469" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="894" centery="1469" centerz="7" radius="1">
+		<monster name="Mean Lost Soul" x="0" y="0" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="664" centery="1470" centerz="7" radius="8">
+		<monster name="Freakish Lost Soul" x="-6" y="-4" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-6" y="-2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-7" y="-1" z="7" spawntime="60" />
+		<monster name="Freakish Lost Soul" x="-6" y="0" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Mean Lost Soul" x="3" y="2" z="7" spawntime="60" />
+		<monster name="Flimsy Lost Soul" x="7" y="2" z="7" spawntime="60" />
+	</monster>
+	<monster centerx="898" centery="1471" centerz="7" radius="1">
+		<monster name="Flimsy Lost Soul" x="0" y="0" z="7" spawntime="60" />
 	</monster>
 	<monster centerx="515" centery="358" centerz="8" radius="3">
 		<monster name="Spellreaper Inferniarch" x="-3" y="-2" z="8" spawntime="60" />
@@ -20163,6 +20280,16 @@
 	<monster centerx="874" centery="652" centerz="8" radius="1">
 		<monster name="Pirat Cutthroat" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="965" centery="654" centerz="8" radius="10">
+		<monster name="Black Sphinx Acolyte" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Priestess Of The Wild Sun" x="-2" y="1" z="8" spawntime="60" />
+		<monster name="Priestess Of The Wild Sun" x="-1" y="6" z="8" spawntime="60" />
+		<monster name="Burning Gladiator" x="-5" y="7" z="8" spawntime="60" />
+		<monster name="Black Sphinx Acolyte" x="5" y="7" z="8" spawntime="60" />
+		<monster name="Burning Gladiator" x="-9" y="8" z="8" spawntime="60" />
+		<monster name="Black Sphinx Acolyte" x="-3" y="8" z="8" spawntime="60" />
+		<monster name="Priestess Of The Wild Sun" x="0" y="8" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="470" centery="655" centerz="8" radius="1">
 		<monster name="Dark Torturer" x="0" y="0" z="8" spawntime="60" />
 	</monster>
@@ -20321,6 +20448,30 @@
 	<monster centerx="575" centery="672" centerz="8" radius="1">
 		<monster name="Hellspawn" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="969" centery="674" centerz="8" radius="10">
+		<monster name="Burning Gladiator" x="-10" y="-7" z="8" spawntime="60" />
+		<monster name="Black Sphinx Acolyte" x="-9" y="-4" z="8" spawntime="60" />
+		<monster name="Black Sphinx Acolyte" x="-6" y="2" z="8" spawntime="60" />
+		<monster name="Burning Gladiator" x="2" y="2" z="8" spawntime="60" />
+		<monster name="Priestess Of The Wild Sun" x="-2" y="3" z="8" spawntime="60" />
+		<monster name="Burning Gladiator" x="-1" y="3" z="8" spawntime="60" />
+		<monster name="Black Sphinx Acolyte" x="6" y="3" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="992" centery="675" centerz="8" radius="10">
+		<monster name="Black Sphinx Acolyte" x="-3" y="-5" z="8" spawntime="60" />
+		<monster name="Black Sphinx Acolyte" x="3" y="-5" z="8" spawntime="60" />
+		<monster name="Burning Gladiator" x="-3" y="-3" z="8" spawntime="60" />
+		<monster name="Black Sphinx Acolyte" x="4" y="-2" z="8" spawntime="60" />
+		<monster name="Burning Gladiator" x="5" y="-2" z="8" spawntime="60" />
+		<monster name="Black Sphinx Acolyte" x="-7" y="0" z="8" spawntime="60" />
+		<monster name="Burning Gladiator" x="-9" y="1" z="8" spawntime="60" />
+		<monster name="Priestess Of The Wild Sun" x="-6" y="1" z="8" spawntime="60" />
+		<monster name="Black Sphinx Acolyte" x="6" y="2" z="8" spawntime="60" />
+		<monster name="Black Sphinx Acolyte" x="5" y="3" z="8" spawntime="60" />
+		<monster name="Priestess Of The Wild Sun" x="-4" y="5" z="8" spawntime="60" />
+		<monster name="Priestess Of The Wild Sun" x="3" y="5" z="8" spawntime="60" />
+		<monster name="Burning Gladiator" x="4" y="5" z="8" spawntime="60" />
+	</monster>
 	<monster centerx="458" centery="676" centerz="8" radius="1">
 		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
@@ -20351,6 +20502,9 @@
 	<monster centerx="831" centery="676" centerz="8" radius="1">
 		<monster name="Exotic Bat" x="-1" y="-1" z="8" spawntime="30" />
 		<monster name="Exotic Bat" x="0" y="0" z="8" spawntime="30" />
+	</monster>
+	<monster centerx="981" centery="676" centerz="8" radius="1">
+		<monster name="Burning Gladiator" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="481" centery="677" centerz="8" radius="1">
 		<monster name="Demon" x="0" y="0" z="8" spawntime="60" />
@@ -22811,18 +22965,152 @@
 		<monster name="Behemoth" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Behemoth" x="-1" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="721" centery="1153" centerz="8" radius="1">
+		<monster name="Infected Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="718" centery="1155" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="725" centery="1157" centerz="8" radius="1">
+		<monster name="Infected Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="719" centery="1158" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="724" centery="1161" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="721" centery="1162" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="-1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="711" centery="1165" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="679" centery="1166" centerz="8" radius="3">
+		<monster name="Weeper" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="707" centery="1166" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="717" centery="1166" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="748" centery="1167" centerz="8" radius="1">
+		<monster name="Infected Weeper" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="717" centery="1168" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="703" centery="1169" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="721" centery="1170" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="737" centery="1170" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="743" centery="1170" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="684" centery="1171" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="712" centery="1171" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="725" centery="1171" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="686" centery="1172" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="708" centery="1172" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="740" centery="1172" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="692" centery="1173" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="723" centery="1173" centerz="8" radius="1">
+		<monster name="Lava Golem" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="729" centery="1173" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="734" centery="1173" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Lost Berserker" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="745" centery="1174" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="726" centery="1175" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="751" centery="1175" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="700" centery="1176" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="737" centery="1176" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="749" centery="1176" centerz="8" radius="1">
+		<monster name="Infected Weeper" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="703" centery="1177" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="718" centery="1177" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="734" centery="1177" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="745" centery="1177" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="870" centery="1177" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="692" centery="1178" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Magma Crawler" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="712" centery="1178" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="-1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="866" centery="1178" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Ghastly Dragon" x="-1" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="685" centery="1179" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="-1" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="716" centery="1179" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="725" centery="1179" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="750" centery="1180" centerz="8" radius="1">
+		<monster name="Infected Weeper" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="883" centery="1180" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="902" centery="1180" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="708" centery="1181" centerz="8" radius="1">
+		<monster name="Weeper" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="740" centery="1181" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="861" centery="1181" centerz="8" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="8" spawntime="60" />
@@ -22831,12 +23119,26 @@
 	<monster centerx="907" centery="1181" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="712" centery="1183" centerz="8" radius="1">
+		<monster name="Lava Golem" x="0" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="887" centery="1183" centerz="8" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Ghastly Dragon" x="-1" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="687" centery="1184" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="-1" z="8" spawntime="90" />
+		<monster name="Weeper" x="-1" y="1" z="8" spawntime="90" />
+		<monster name="Lost Berserker" x="1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="741" centery="1184" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="901" centery="1184" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="715" centery="1185" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="860" centery="1185" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -22848,16 +23150,34 @@
 	<monster centerx="911" centery="1185" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="741" centery="1186" centerz="8" radius="1">
+		<monster name="Weeper" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="742" centery="1187" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="1" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="853" centery="1187" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Ghastly Dragon" x="0" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="732" centery="1188" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="842" centery="1188" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Ghastly Dragon" x="1" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="712" centery="1189" centerz="8" radius="1">
+		<monster name="Lava Golem" x="0" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="688" centery="1190" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="807" centery="1190" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="738" centery="1191" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="838" centery="1191" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
@@ -22865,11 +23185,30 @@
 	<monster centerx="883" centery="1191" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="711" centery="1192" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="714" centery="1192" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="689" centery="1193" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="-1" y="-1" z="8" spawntime="90" />
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="708" centery="1193" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="720" centery="1193" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="1" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="809" centery="1193" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="909" centery="1193" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="735" centery="1194" centerz="8" radius="1">
+		<monster name="Infected Weeper" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="807" centery="1194" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -22887,12 +23226,55 @@
 	<monster centerx="908" centery="1195" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="685" centery="1196" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="695" centery="1196" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="747" centery="1197" centerz="8" radius="1">
+		<monster name="Lava Golem" x="0" y="-1" z="8" spawntime="90" />
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="863" centery="1197" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Ghastly Dragon" x="0" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="710" centery="1199" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="718" centery="1199" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="744" centery="1199" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="830" centery="1199" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="678" centery="1200" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="683" centery="1200" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="706" centery="1200" centerz="8" radius="1">
+		<monster name="Infected Weeper" x="1" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="714" centery="1200" centerz="8" radius="1">
+		<monster name="Weeper" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="738" centery="1200" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="749" centery="1200" centerz="8" radius="1">
+		<monster name="Lava Golem" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="733" centery="1201" centerz="8" radius="1">
+		<monster name="Weeper" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="692" centery="1203" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="812" centery="1203" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -22900,6 +23282,12 @@
 	<monster centerx="863" centery="1203" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Ghastly Dragon" x="1" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="721" centery="1204" centerz="8" radius="1">
+		<monster name="Weeper" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="745" centery="1204" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="831" centery="1204" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -22913,12 +23301,33 @@
 	<monster centerx="913" centery="1204" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="673" centery="1205" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="683" centery="1205" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="710" centery="1205" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="808" centery="1205" centerz="8" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="717" centery="1206" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="870" centery="1206" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Ghastly Dragon" x="0" y="1" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="688" centery="1207" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="696" centery="1207" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="708" centery="1207" centerz="8" radius="1">
+		<monster name="Lava Golem" x="0" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="812" centery="1207" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
@@ -22930,11 +23339,43 @@
 	<monster centerx="900" centery="1207" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="675" centery="1209" centerz="8" radius="1">
+		<monster name="Weeper" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="679" centery="1209" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="693" centery="1209" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="-1" y="0" z="8" spawntime="90" />
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="740" centery="1209" centerz="8" radius="1">
+		<monster name="Lava Golem" x="0" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="742" centery="1209" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Lava Golem" x="1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="743" centery="1209" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="907" centery="1210" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="690" centery="1212" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="0" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="742" centery="1212" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="845" centery="1212" centerz="8" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="709" centery="1213" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="686" centery="1214" centerz="8" radius="1">
+		<monster name="Infected Weeper" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="809" centery="1214" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -22942,12 +23383,31 @@
 	<monster centerx="900" centery="1214" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="692" centery="1215" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="711" centery="1215" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="742" centery="1215" centerz="8" radius="1">
+		<monster name="Weeper" x="0" y="0" z="8" spawntime="90" />
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="813" centery="1215" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="803" centery="1216" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Betrayed Wraith" x="1" y="0" z="8" spawntime="95832832" />
+	</monster>
+	<monster centerx="705" centery="1217" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="682" centery="1218" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="746" centery="1218" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="813" centery="1218" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -22958,12 +23418,27 @@
 	<monster centerx="903" centery="1218" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="696" centery="1219" centerz="8" radius="1">
+		<monster name="Lava Golem" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="748" centery="1219" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="1" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="833" centery="1219" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Ghastly Dragon" x="1" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="758" centery="1220" centerz="8" radius="1">
+		<monster name="Weeper" x="0" y="-1" z="8" spawntime="90" />
+		<monster name="Infected Weeper" x="1" y="-1" z="8" spawntime="90" />
+		<monster name="Lost Berserker" x="0" y="1" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="846" centery="1220" centerz="8" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="753" centery="1221" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="1" y="-1" z="8" spawntime="90" />
+		<monster name="Lava Golem" x="-1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="810" centery="1221" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
@@ -22975,14 +23450,23 @@
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 		<monster name="Ghastly Dragon" x="1" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="704" centery="1222" centerz="8" radius="1">
+		<monster name="Lost Berserker" x="0" y="-1" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="902" centery="1222" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="749" centery="1223" centerz="8" radius="1">
+		<monster name="Magma Crawler" x="0" y="-1" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="852" centery="1223" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="887" centery="1223" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="684" centery="1224" centerz="8" radius="1">
+		<monster name="Weeper" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="905" centery="1224" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -23015,11 +23499,20 @@
 	<monster centerx="851" centery="1236" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="743" centery="1237" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="859" centery="1237" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="1" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="741" centery="1238" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="910" centery="1239" centerz="8" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="706" centery="1241" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="818" centery="1241" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
@@ -23027,14 +23520,27 @@
 	<monster centerx="913" centery="1241" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="739" centery="1242" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="1" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="881" centery="1242" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="910" centery="1243" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="743" centery="1244" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="-1" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="913" centery="1245" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="743" centery="1246" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="745" centery="1246" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="1" y="-1" z="8" spawntime="90" />
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="842" centery="1246" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -23046,11 +23552,20 @@
 	<monster centerx="880" centery="1246" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="715" centery="1247" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="837" centery="1247" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="897" centery="1247" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="720" centery="1248" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="749" centery="1248" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="0" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="882" centery="1248" centerz="8" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="8" spawntime="60" />
@@ -23058,11 +23573,27 @@
 	<monster centerx="910" centery="1248" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="730" centery="1249" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="752" centery="1249" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Hideous Fungus" x="0" y="1" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="816" centery="1249" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="903" centery="1249" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="745" centery="1250" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="748" centery="1250" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="725" centery="1251" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="836" centery="1251" centerz="8" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="8" spawntime="60" />
@@ -23070,8 +23601,24 @@
 	<monster centerx="900" centery="1251" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="718" centery="1252" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="728" centery="1252" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="893" centery="1252" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="725" centery="1253" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="746" centery="1253" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="1" y="-1" z="8" spawntime="90" />
+		<monster name="Humorless Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="752" centery="1253" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="820" centery="1253" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
@@ -23085,11 +23632,21 @@
 	<monster centerx="889" centery="1254" centerz="8" radius="1">
 		<monster name="Blightwalker" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="723" centery="1255" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="813" centery="1255" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="885" centery="1255" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="750" centery="1256" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="751" centery="1257" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="-1" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="821" centery="1257" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -23100,14 +23657,32 @@
 	<monster centerx="869" centery="1257" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="717" centery="1258" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="-1" z="8" spawntime="90" />
+		<monster name="Humongous Fungus" x="0" y="1" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="866" centery="1258" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="818" centery="1259" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="695" centery="1260" centerz="8" radius="3">
+		<monster name="Hideous Fungus" x="3" y="0" z="8" spawntime="90" />
+		<monster name="Hideous Fungus" x="0" y="1" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="860" centery="1261" centerz="8" radius="1">
 		<monster name="Betrayed Wraith" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="736" centery="1262" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="741" centery="1262" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="-1" y="0" z="8" spawntime="90" />
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="752" centery="1262" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="855" centery="1262" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
@@ -23118,8 +23693,339 @@
 	<monster centerx="858" centery="1264" centerz="8" radius="1">
 		<monster name="Ghastly Dragon" x="0" y="0" z="8" spawntime="60" />
 	</monster>
+	<monster centerx="735" centery="1265" centerz="8" radius="1">
+		<monster name="Armadile" x="0" y="0" z="8" spawntime="90" />
+		<monster name="Humorless Fungus" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Stone Devourer" x="0" y="1" z="8" spawntime="90" />
+	</monster>
 	<monster centerx="851" centery="1265" centerz="8" radius="1">
 		<monster name="Undead Dragon" x="0" y="0" z="8" spawntime="60" />
+	</monster>
+	<monster centerx="695" centery="1267" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="716" centery="1267" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="753" centery="1267" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="756" centery="1268" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="-1" y="0" z="8" spawntime="90" />
+		<monster name="Armadile" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="721" centery="1270" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="694" centery="1271" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="755" centery="1272" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="758" centery="1272" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="723" centery="1273" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="749" centery="1273" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="727" centery="1275" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Hideous Fungus" x="-1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="730" centery="1276" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="742" centery="1276" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="752" centery="1276" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="741" centery="1278" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="744" centery="1278" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="729" centery="1280" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="740" centery="1281" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Stone Devourer" x="-1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="744" centery="1281" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="703" centery="1282" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="736" centery="1282" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="709" centery="1284" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="702" centery="1285" centerz="8" radius="1">
+		<monster name="Armadile" x="0" y="-1" z="8" spawntime="90" />
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="734" centery="1285" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="714" centery="1287" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Hideous Fungus" x="-1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="684" centery="1288" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="708" centery="1288" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="735" centery="1288" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="730" centery="1289" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="702" centery="1290" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="737" centery="1290" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="716" centery="1291" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="725" centery="1292" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Humongous Fungus" x="1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="730" centery="1292" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="733" centery="1292" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="744" centery="1292" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="688" centery="1293" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="695" centery="1293" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="699" centery="1293" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="738" centery="1293" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="741" centery="1293" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="-1" z="8" spawntime="90" />
+		<monster name="Hideous Fungus" x="1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="684" centery="1295" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="735" centery="1295" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="-1" z="8" spawntime="90" />
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="747" centery="1295" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="699" centery="1296" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="678" centery="1298" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="722" centery="1299" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Stone Devourer" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="725" centery="1299" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="749" centery="1299" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="675" centery="1301" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="705" centery="1302" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Humongous Fungus" x="1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="720" centery="1302" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="708" centery="1303" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="722" centery="1303" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="0" y="0" z="8" spawntime="90" />
+		<monster name="Humongous Fungus" x="1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="678" centery="1305" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="750" centery="1306" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="695" centery="1307" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="708" centery="1307" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="754" centery="1307" centerz="8" radius="1">
+		<monster name="Armadile" x="0" y="-1" z="8" spawntime="90" />
+		<monster name="Armadile" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="716" centery="1308" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="720" centery="1308" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="674" centery="1309" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="713" centery="1309" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="748" centery="1309" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="681" centery="1310" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="692" centery="1311" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="720" centery="1312" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="-1" y="-1" z="8" spawntime="90" />
+		<monster name="Armadile" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="678" centery="1313" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="722" centery="1313" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="697" centery="1314" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="691" centery="1315" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="716" centery="1315" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="725" centery="1315" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="727" centery="1315" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="746" centery="1315" centerz="8" radius="1">
+		<monster name="Armadile" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="679" centery="1316" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="695" centery="1316" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="-1" y="0" z="8" spawntime="90" />
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="712" centery="1317" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="724" centery="1317" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="689" centery="1318" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="696" centery="1318" centerz="8" radius="1">
+		<monster name="Armadile" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="720" centery="1318" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="678" centery="1319" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="699" centery="1320" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="730" centery="1320" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="-1" y="-1" z="8" spawntime="90" />
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Armadile" x="1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="715" centery="1321" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="720" centery="1321" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="735" centery="1321" centerz="8" radius="1">
+		<monster name="Humorless Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="683" centery="1322" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+		<monster name="Hideous Fungus" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="739" centery="1323" centerz="8" radius="1">
+		<monster name="Armadile" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="677" centery="1324" centerz="8" radius="1">
+		<monster name="Armadile" x="-1" y="0" z="8" spawntime="90" />
+		<monster name="Humorless Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="703" centery="1324" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="710" centery="1324" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="733" centery="1324" centerz="8" radius="1">
+		<monster name="Armadile" x="0" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="706" centery="1326" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="710" centery="1327" centerz="8" radius="1">
+		<monster name="Humongous Fungus" x="1" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="737" centery="1328" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="732" centery="1329" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="724" centery="1333" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="1" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="740" centery="1334" centerz="8" radius="1">
+		<monster name="Armadile" x="0" y="1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="729" centery="1335" centerz="8" radius="1">
+		<monster name="Hideous Fungus" x="0" y="-1" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="734" centery="1335" centerz="8" radius="1">
+		<monster name="Stone Devourer" x="1" y="0" z="8" spawntime="90" />
 	</monster>
 	<monster centerx="585" centery="358" centerz="9" radius="3">
 		<monster name="Brinebrute Inferniarch" x="2" y="2" z="9" spawntime="60" />
@@ -25931,6 +26837,282 @@
 	</monster>
 	<monster centerx="796" centery="883" centerz="9" radius="3">
 		<monster name="Burster Spectre" x="3" y="-2" z="9" spawntime="60" />
+	</monster>
+	<monster centerx="753" centery="1180" centerz="9" radius="1">
+		<monster name="Minion Of Versperoth" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="748" centery="1184" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="751" centery="1184" centerz="9" radius="1">
+		<monster name="Minion Of Versperoth" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="744" centery="1186" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="745" centery="1190" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="741" centery="1191" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="749" centery="1191" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="747" centery="1193" centerz="9" radius="1">
+		<monster name="Orewalker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="742" centery="1195" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="739" centery="1199" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="742" centery="1199" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="739" centery="1202" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="734" centery="1206" centerz="9" radius="1">
+		<monster name="Orewalker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="743" centery="1207" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="749" centery="1209" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="684" centery="1210" centerz="9" radius="3">
+		<monster name="Orewalker" x="0" y="1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="700" centery="1210" centerz="9" radius="1">
+		<monster name="Orewalker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="705" centery="1210" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="745" centery="1210" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="736" centery="1211" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="688" centery="1213" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="694" centery="1213" centerz="9" radius="1">
+		<monster name="Orewalker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="742" centery="1214" centerz="9" radius="1">
+		<monster name="Orewalker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="744" centery="1214" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="730" centery="1216" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="738" centery="1216" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="695" centery="1217" centerz="9" radius="4">
+		<monster name="Ironblight" x="0" y="2" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="700" centery="1217" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="703" centery="1217" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="689" centery="1219" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="704" centery="1219" centerz="9" radius="1">
+		<monster name="Orewalker" x="1" y="0" z="9" spawntime="90" />
+		<monster name="Ironblight" x="-1" y="1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="741" centery="1221" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="696" centery="1222" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="692" centery="1224" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="704" centery="1225" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="741" centery="1226" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="696" centery="1228" centerz="9" radius="1">
+		<monster name="Orewalker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="743" centery="1228" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="702" centery="1229" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="724" centery="1229" centerz="9" radius="1">
+		<monster name="Orewalker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="735" centery="1229" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="728" centery="1230" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="732" centery="1230" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+		<monster name="Lost Berserker" x="-1" y="1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="702" centery="1232" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="1" y="1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="730" centery="1233" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="0" z="9" spawntime="90" />
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="704" centery="1234" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="707" centery="1234" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="730" centery="1236" centerz="9" radius="1">
+		<monster name="Orewalker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="748" centery="1236" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="756" centery="1236" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="693" centery="1237" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="0" y="1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="721" centery="1237" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="732" centery="1237" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="705" centery="1238" centerz="9" radius="1">
+		<monster name="Orewalker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="755" centery="1239" centerz="9" radius="1">
+		<monster name="Orewalker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="699" centery="1240" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="726" centery="1240" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="701" centery="1241" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="724" centery="1241" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="717" centery="1242" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="721" centery="1242" centerz="9" radius="1">
+		<monster name="Orewalker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="748" centery="1242" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="698" centery="1244" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="757" centery="1244" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="726" centery="1245" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="691" centery="1246" centerz="9" radius="1">
+		<monster name="Orewalker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="686" centery="1248" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="755" centery="1249" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="694" centery="1250" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="734" centery="1251" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="690" centery="1253" centerz="9" radius="1">
+		<monster name="Orewalker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="736" centery="1254" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="738" centery="1255" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="743" centery="1256" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="731" centery="1257" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="744" centery="1259" centerz="9" radius="1">
+		<monster name="Orewalker" x="0" y="1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="705" centery="1260" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="730" centery="1262" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="708" centery="1263" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="718" centery="1264" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="728" centery="1264" centerz="9" radius="1">
+		<monster name="Ironblight" x="0" y="1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="735" centery="1264" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="-1" y="-1" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="739" centery="1264" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="701" centery="1265" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="708" centery="1265" centerz="9" radius="1">
+		<monster name="Orewalker" x="-1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="713" centery="1266" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="718" centery="1268" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="733" centery="1268" centerz="9" radius="1">
+		<monster name="Lost Berserker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="709" centery="1269" centerz="9" radius="1">
+		<monster name="Cliff Strider" x="1" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="744" centery="1269" centerz="9" radius="1">
+		<monster name="Orewalker" x="0" y="0" z="9" spawntime="90" />
+	</monster>
+	<monster centerx="708" centery="1273" centerz="9" radius="1">
+		<monster name="Ironblight" x="1" y="0" z="9" spawntime="90" />
 	</monster>
 	<monster centerx="550" centery="358" centerz="10" radius="3">
 		<monster name="Spellreaper Inferniarch" x="-1" y="2" z="10" spawntime="60" />

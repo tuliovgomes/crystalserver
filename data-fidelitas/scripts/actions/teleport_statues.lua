@@ -1,4 +1,5 @@
 local statues = {
+    -- livraria
     {
         statuePosition = Position(757, 1060, 7),
         requiredItem = 29292,
@@ -34,7 +35,72 @@ local statues = {
         teleportTo = Position(1115, 386, 7),
         effectOnUse = CONST_ME_TELEPORT,
         effectOnFail = CONST_ME_POFF
-    }
+    },
+
+    -- mini bosses islands
+    {
+        statuePosition = Position(908, 813, 7),
+        requiredItem = 29291,
+        itemCount = 1,
+        removeItem = false,
+        teleportTo = Position(922, 814, 7),
+        effectOnUse = CONST_ME_TELEPORT,
+        effectOnFail = CONST_ME_POFF
+    },
+    {
+        statuePosition = Position(878, 976, 6),
+        requiredItem = 29291,
+        itemCount = 1,
+        removeItem = false,
+        teleportTo =  Position(934, 989, 7),
+        effectOnUse = CONST_ME_TELEPORT,
+        effectOnFail = CONST_ME_POFF
+    },   
+    {
+        statuePosition = Position(535, 801, 7),
+        requiredItem = 29291,
+        itemCount = 1,
+        removeItem = false,
+        teleportTo =  Position(522, 804, 7),
+        effectOnUse = CONST_ME_TELEPORT,
+        effectOnFail = CONST_ME_POFF
+    },   
+    {
+        statuePosition = Position(974, 649, 8),
+        requiredItem = 29291,
+        itemCount = 1,
+        removeItem = false,
+        teleportTo =  Position(970, 649, 8),
+        effectOnUse = CONST_ME_TELEPORT,
+        effectOnFail = CONST_ME_POFF
+    },
+    {
+        statuePosition = Position(888, 1357, 7),
+        requiredItem = 29291,
+        itemCount = 1,
+        removeItem = false,
+        teleportTo =  Position(859, 1467, 7),
+        effectOnUse = CONST_ME_TELEPORT,
+        effectOnFail = CONST_ME_POFF
+    },    
+    {
+        statuePosition = Position(908, 846, 9),
+        requiredItem = 29291,
+        itemCount = 1,
+        removeItem = false,
+        teleportTo =  Position(901, 794, 9),
+        effectOnUse = CONST_ME_TELEPORT,
+        effectOnFail = CONST_ME_POFF
+    },
+    {
+        statuePosition = Position(673, 1273, 8),
+        requiredItem = 29291,
+        itemCount = 1,
+        removeItem = false,
+        teleportTo =  Position(795, 1332, 8),
+        effectOnUse = CONST_ME_TELEPORT,
+        effectOnFail = CONST_ME_POFF
+    },
 }
 
 local statueAction = Action()
