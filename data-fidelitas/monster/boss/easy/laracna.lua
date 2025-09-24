@@ -91,24 +91,25 @@ monster.defenses = {
 }
 
 monster.loot = {
-	{name = "terra boots", chance = 1350},
-	{name = "terra hood", chance = 1600},
-	{name = "diamond sceptre", chance = 1600},
-	{name = "terra mantle", chance = 1250},
-	{name = "terra legs", chance = 1250},
-	{name = "terra amulet", chance = 1500},
-	{name = "knight armor", chance = 1840},
-	{name = "medusa shield", chance = 3040},
+	{name = "terra boots", chance = 6350},
+	{name = "terra hood", chance = 6600},
+	{name = "diamond sceptre", chance = 6100},
+	{name = "terra mantle", chance = 4250},
+	{name = "terra legs", chance = 5250},
+	{name = "terra amulet", chance = 8500},
+	{name = "knight armor", chance = 9840},
+	{name = "medusa shield", chance = 6040},
 	{name = "ultimate health potion", chance = 9290, maxCount = 80},
-	{name = "gold coin", chance = 100000, maxCount = 200},
-	{name = "platinum coin", chance = 999900, maxCount = 60},
+	{name = "gold coin", chance = 100000, maxCount = 500},
+	{name = "platinum coin", chance = 999900, maxCount = 500},
 	{name = "mushroom pie", chance = 17130, maxCount = 30},
 	{name = "great mana potion", chance = 4960, maxCount = 80},
 	{name = "great health potion", chance = 4950, maxCount = 90},
 	{name = "strong mana potion", chance = 4930, maxCount = 70},
-	{name = "angelic axe", chance = 1420},
-	{name = "muck rod", chance = 1640},
-	{name = "sweet smelling bait", chance = 1020},
+	{name = "angelic axe", chance = 5420},
+	{name = "muck rod", chance = 6640},
+	{name = "sweet smelling bait", chance = 3020},
+	{id = 22516, chance = 4000, maxCount = 3}, -- silver token
 	{name = "mushroom backpack", chance = 3020}
 }
 

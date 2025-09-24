@@ -100,6 +100,11 @@ monster.loot = {
 	{name = "golden legs", chance = 804},
 	{name = "great shield", chance = 1001},
 	{name = "amulet of loss", chance = 10000},
+	{name = "small diamond", chance = 25000, maxCount = 500},
+	{name = "small sapphire", chance = 25000, maxCount = 100},
+	{name = "small emerald", chance = 25000, maxCount = 100},
+	{name = "small amethyst", chance = 25000, maxCount = 170},
+	{id = 22516, chance = 4000, maxCount = 3}, -- silver token
 }
 
 mType.onThink = function(monster, interval)

@@ -96,11 +96,14 @@ monster.defenses = {
 }
 
 monster.loot = {
-	{name = "great shield", chance = 1201},
-	{name = "dauntless dragon scale armor", chance = 900},
-	{name = "Zaoan armor", chance = 1600},
-	{name = "yalahari leg piece", chance = 802},
-	{name = "bow of destruction", chance = 605},
+	{name = "great shield", chance = 3201},
+	{name = "dauntless dragon scale armor", chance = 1900},
+	{id = 22516, chance = 4000, maxCount = 13}, -- silver token
+	{name = "Zaoan armor", chance = 5600},
+	{name = "yalahari leg piece", chance = 2802},
+	{name = "bow of destruction", chance = 3605},
+	{name = "rod of destruction", chance = 3605},
+	{name = "wand of destruction", chance = 3605},
 }
 
 mType.onThink = function(monster, interval)

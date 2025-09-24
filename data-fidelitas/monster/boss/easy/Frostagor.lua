@@ -86,6 +86,7 @@ monster.loot = {
 	{name = "yalahari armor", chance = 2600},
 	{name = "yalahari leg piece", chance = 2600},
 	{name = "yalahari mask", chance = 2600},
+	{id = 22516, chance = 4000, maxCount = 3}, -- silver token
 	{id = 29292, chance = 2000}
 }
 

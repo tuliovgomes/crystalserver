@@ -92,16 +92,17 @@ monster.defenses = {
 }
 
 monster.loot = {
-	{name = "amulet of loss", chance = 3400},
-	{name = "wand of everblazing", chance = 2900},
-	{name = "terra rod", chance = 24000, maxCount = 3},
-	{name = "winged helmet", chance = 1800},
-	{name = "platinum coin", chance = 100000, maxCount = 90},
-	{name = "small amethyst", chance = 33500, maxCount = 20},
-	{name = "small ruby", chance = 33500, maxCount = 50},
-	{name = "small sapphire", chance = 33500},
-	{name = "small topaz", chance = 33500},
-	{name = "small diamond", chance = 33500},
+	{name = "amulet of loss", chance = 8400},
+	{name = "wand of everblazing", chance = 6900},
+	{name = "terra rod", chance = 24000},
+	{name = "winged helmet", chance = 5800},
+	{name = "platinum coin", chance = 100000, maxCount = 900},
+	{name = "small amethyst", chance = 33500, maxCount = 200},
+	{name = "small ruby", chance = 33500, maxCount = 500},
+	{name = "small sapphire", chance = 33500, maxCount = 500},
+	{id = 22516, chance = 4000, maxCount = 3}, -- silver token
+	{name = "small topaz", chance = 33500, maxCount = 500},
+	{name = "small diamond", chance = 33500, maxCount = 500},
 }
 
 mType:register(monster)

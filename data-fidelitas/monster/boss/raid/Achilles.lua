@@ -98,13 +98,16 @@ monster.summons = {
 }
 
 monster.loot = {
-	{name = "Zaoan helmet", chance = 1004},
-	{name = "yalahari armor", chance = 903},
-	{name = "yalahari leg piece", chance = 802},
-	{id = 9019, chance = 901},
-	{name = "bow of destruction", chance = 605},
-	{name = "fiery rainbow shield", chance = 906},
-	{name = "sanguine blade", chance = 507}
+	{name = "Zaoan helmet", chance = 9004},
+	{name = "yalahari armor", chance = 9003},
+	{name = "yalahari leg piece", chance = 8002},
+	{id = 9019, chance = 2001},
+	{name = "bow of destruction", chance = 6005},
+	{name = "fiery rainbow shield", chance = 9006},
+	{id = 43895, chance = 907, maxCount = 3},
+	{id = 39546, chance = 1007, maxCount = 3},
+	{id = 34109, chance = 1207, maxCount = 3},
+	{id = 22516, chance = 4000, maxCount = 30} -- silver token
 }
 
 mType.onThink = function(monster, interval)

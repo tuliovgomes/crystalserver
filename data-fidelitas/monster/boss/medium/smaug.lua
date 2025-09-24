@@ -94,8 +94,8 @@ monster.defenses = {
 }
 
 monster.loot = {
-	{name = "platinum coin", minCount = 1, maxCount = 200, chance = 100000},
-	{name = "crystal coin", minCount = 1, maxCount = 5, chance = 50000},
+	{name = "platinum coin", minCount = 100, maxCount = 20000, chance = 100000},
+	{name = "crystal coin", minCount = 1, maxCount = 50, chance = 50000},
 	{name = "gold coin", chance = 100000, maxCount = 300},
 	{name = "supreme health potion", minCount = 10, maxCount = 80, chance = 45000},
 	{name = "ultimate mana potion", minCount = 10, maxCount = 60, chance = 42000},
@@ -115,6 +115,16 @@ monster.loot = {
 	{name = "dreaded cleaver", chance = 2500},
 	{name = "butcher's axe", chance = 1500},
 	{name = "leather whip", chance = 3500},
+	{name = "thunder hammer", chance = 3500},
+	{name = "dauntless dragon scale armor", chance = 1900},
+	{name = "unerring dragon scale armor", chance = 1800},
+	{name = "thunder hammer", chance = 3500},
+	{name = "small diamond", chance = 25000, maxCount = 500},
+	{name = "small sapphire", chance = 25000, maxCount = 100},
+	{name = "small emerald", chance = 25000, maxCount = 100},
+	{name = "small amethyst", chance = 25000, maxCount = 170},
+	{id = 9018, chance = 1200} -- firewalker boots
+	{id = 22516, chance = 4000, maxCount = 3} -- silver token
 }
 
 mType.onThink = function(monster, interval)

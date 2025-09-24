@@ -100,7 +100,12 @@ monster.loot = {
 	{name = "Zaoan armor", chance = 2507},
 	{name = "Zaoan legs", chance = 2507},
 	{name = "Zaoan helmet", chance = 2507},
-	{name = "Zaoan shoes", chance = 2507}
+	{name = "Zaoan shoes", chance = 2507},
+	{name = "small diamond", chance = 25000, maxCount = 500},
+	{name = "small sapphire", chance = 25000, maxCount = 100},
+	{name = "small emerald", chance = 25000, maxCount = 100},
+	{name = "small amethyst", chance = 25000, maxCount = 170},
+	{id = 22516, chance = 4000, maxCount = 3} -- silver token
 }
 
 mType.onThink = function(monster, interval)

@@ -98,6 +98,15 @@ monster.loot = {
 	{name = "pharaoh sword", chance = 1800},
 	{name = "amulet of loss", chance = 1900},
 	{name = "crackling egg", chance = 1900},
+	{name = "thunder hammer", chance = 3500},
+	{name = "dauntless dragon scale armor", chance = 1500},
+	{name = "unerring dragon scale armor", chance = 1500},
+	{name = "thunder hammer", chance = 3500},
+	{name = "small diamond", chance = 25000, maxCount = 500},
+	{name = "small sapphire", chance = 25000, maxCount = 100},
+	{name = "small emerald", chance = 25000, maxCount = 100},
+	{name = "small amethyst", chance = 25000, maxCount = 170},
+	{id = 22516, chance = 4000, maxCount = 3} -- silver token
 }
 
 mType.onThink = function(monster, interval)

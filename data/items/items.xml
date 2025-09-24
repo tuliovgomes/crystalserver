@@ -11147,7 +11147,7 @@
 		<attribute key="armor" value="4" />
 		<attribute key="weight" value="3100" />
 		<attribute key="absorbpercentall" value="5" />
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="increase speed" value="3" />
 			<attribute key="paralysis removal" value="3" />
 		</attribute>

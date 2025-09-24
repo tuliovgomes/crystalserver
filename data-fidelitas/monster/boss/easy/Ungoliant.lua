@@ -95,26 +95,27 @@ monster.summons = {
 }
 
 monster.loot = {
-	{name = "terra boots", chance = 1350},
-	{name = "terra hood", chance = 1600},
-	{name = "diamond sceptre", chance = 1600},
-	{name = "terra mantle", chance = 1250},
-	{name = "terra legs", chance = 1250},
-	{name = "terra amulet", chance = 1500},
-	{name = "knight armor", chance = 1840},
-	{name = "medusa shield", chance = 3040},
+	{name = "terra boots", chance = 8350},
+	{name = "terra hood", chance = 9600},
+	{name = "diamond sceptre", chance = 8600},
+	{name = "terra mantle", chance = 9250},
+	{name = "terra legs", chance = 9250},
+	{name = "terra amulet", chance = 9500},
+	{name = "knight armor", chance = 8840},
+	{name = "medusa shield", chance = 9040},
 	{name = "ultimate health potion", chance = 9290, maxCount = 80},
-	{name = "gold coin", chance = 100000, maxCount = 200},
-	{name = "platinum coin", chance = 999900, maxCount = 60},
+	{name = "gold coin", chance = 100000, maxCount = 2000},
+	{name = "platinum coin", chance = 999900, maxCount = 600},
 	{name = "mushroom pie", chance = 17130, maxCount = 30},
 	{name = "great mana potion", chance = 4960, maxCount = 80},
 	{name = "great health potion", chance = 4950, maxCount = 90},
 	{name = "strong mana potion", chance = 4930, maxCount = 70},
-	{name = "angelic axe", chance = 1420},
-	{name = "muck rod", chance = 1640},
+	{name = "angelic axe", chance = 14020},
+	{name = "muck rod", chance = 16400},
 	{name = "mushroom backpack", chance = 3020},
 	{name = "sweet smelling bait", chance = 3020},
-	{name = "mycological bow", chance = 840}
+	{id = 22516, chance = 4000, maxCount = 8}, -- silver token
+	{name = "mycological bow", chance = 2840}
 }
 
 mType.onThink = function(monster, interval)

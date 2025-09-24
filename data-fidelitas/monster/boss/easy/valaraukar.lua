@@ -116,6 +116,7 @@ monster.loot = {
 	{id = 3035, chance = 8000, maxCount = 58},
 	{id = 5944, chance = 8000, maxCount = 9},
 	{id = 21186, chance = 8000},
+	{id = 22516, chance = 4000, maxCount = 3}, -- silver token
 	{id = 29293, chance = 2000}
 }
 

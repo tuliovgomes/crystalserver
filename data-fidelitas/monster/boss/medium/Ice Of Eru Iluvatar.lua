@@ -106,6 +106,7 @@ monster.loot = {
 	{name = "lightning robe", chance = 1800},
 	{name = "lightning headband", chance = 1800},
 	{name = "vibrant egg", chance = 3800},
+	{id = 22516, chance = 4000, maxCount = 3} -- silver token
 }
 
 mType.onThink = function(monster, interval)

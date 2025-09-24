@@ -102,16 +102,21 @@ monster.summons = {
 }
 
 monster.loot = {
-	{name = "great shield", chance = 1001},
-	{name = "golden armor", chance = 1001},
+	{name = "great shield", chance = 2001},
+	{name = "golden armor", chance = 5001},
 	{name = "demon shield", chance = 2000},
 	{name = "steel boots", chance = 3000},
 	{name = "golden boots", chance = 800},
+	{name = "small diamond", chance = 25000, maxCount = 500},
+	{name = "small sapphire", chance = 25000, maxCount = 100},
+	{name = "small emerald", chance = 25000, maxCount = 100},
+	{name = "small amethyst", chance = 25000, maxCount = 170},
 	{name = "platinum coin", minCount = 10, maxCount = 300, chance = 10000},
 	{name = "crystal coin", minCount = 2, maxCount = 15, chance = 5000},
 	{name = "supreme health potion", minCount = 10, maxCount = 80, chance = 45000},
 	{name = "ultimate mana potion", minCount = 10, maxCount = 60, chance = 42000},
 	{name = "ultimate spirit potion", minCount = 0, maxCount = 88, chance = 42000},
+	{id = 22516, chance = 4000, maxCount = 3}, -- silver token
 }
 
 mType.onThink = function(monster, interval)

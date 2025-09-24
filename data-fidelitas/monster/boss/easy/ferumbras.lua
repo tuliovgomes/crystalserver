@@ -112,6 +112,7 @@ monster.loot = {
 	{id = 7382, chance = 8000}, -- demonrage sword
 	{id = 3035, chance = 8000, maxCount = 58}, -- platinum coin
 	{id = 5944, chance = 8000, maxCount = 9}, -- soul orb
+	{id = 22516, chance = 4000, maxCount = 3}, -- silver token
 	{id = 21186, chance = 8000}, -- mount
 }
 

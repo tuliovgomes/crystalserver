@@ -96,15 +96,16 @@ monster.defenses = {
 }
 
 monster.loot = {
-	{name = "blue robe", chance = 1600},
-	{name = "lightning robe", chance = 1970},
-	{name = "lightning boots", chance = 1880},
-	{name = "winged boots", chance = 102},
-	{name = "lightning legs", chance = 1600},
-	{name = "lightning headband", chance = 1800},
-	{name = "sapphire hammer", chance = 1300},
-	{name = "glacial rod", chance = 2150},
-	{name = "crystalline armor", chance = 1250}
+	{name = "blue robe", chance = 9600},
+	{name = "lightning robe", chance = 8970},
+	{name = "lightning boots", chance = 9880},
+	{name = "winged boots", chance = 602},
+	{name = "lightning legs", chance = 8600},
+	{name = "lightning headband", chance = 9800},
+	{name = "sapphire hammer", chance = 8300},
+	{name = "glacial rod", chance = 6150},
+	{id = 22516, chance = 4000, maxCount = 3}, -- silver token
+	{name = "crystalline armor", chance = 4250}
 }
 
 mType.onThink = function(monster, interval)

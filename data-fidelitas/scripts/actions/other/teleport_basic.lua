@@ -2,12 +2,14 @@ local config = {
 	{ name="fidelitas", position = Position(759, 729, 7) },
 	{ name="Hunts", position = Position(1006, 996, 6) },
 	{ name="Bosses", position = Position(1088, 986, 5) },
+	{ name="Mini Bosses", position = Position(1028, 924, 7) },
 	{ name="Forja", position = Position(547, 650, 7) },
 	{ name="NPCS", position = Position(743, 647, 7) },
 	{ name="Tubal", position = Position(811, 833, 7) },
 	{ name="Fornim", position = Position(768, 501, 7) },
 	{ name="Nambastion", position = Position(980, 634, 7) },
 	{ name="Nekhan", position = Position(817, 1264, 7) },
+	{ name="Cassino", position = Position(809, 835, 6) },
 	{ name="City Tp", position = Position(751, 695, 7) },
 }
 

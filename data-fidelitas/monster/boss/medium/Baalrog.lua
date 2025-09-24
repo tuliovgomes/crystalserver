@@ -108,7 +108,15 @@ monster.loot = {
 	{name = "teddy bear", chance = 10500},
 	{name = "dragon robe", chance = 4500},
 	{name = "molten plate", chance = 4500},
-	{name = "thunder hammer", chance = 3500}
+	{name = "dauntless dragon scale armor", chance = 1500},
+	{name = "unerring dragon scale armor", chance = 1500},
+	{name = "thunder hammer", chance = 3500},
+	{name = "small diamond", chance = 25000, maxCount = 500},
+	{name = "small sapphire", chance = 25000, maxCount = 100},
+	{name = "small emerald", chance = 25000, maxCount = 100},
+	{name = "small amethyst", chance = 25000, maxCount = 170},
+	{id = 9018, chance = 1200} -- firewalker boots
+	{id = 22516, chance = 4000, maxCount = 3} -- silver token
 }
 
 mType.onThink = function(monster, interval)

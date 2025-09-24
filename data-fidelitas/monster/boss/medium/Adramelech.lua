@@ -91,17 +91,18 @@ monster.defenses = {
 }
 
 monster.loot = {
-	{name = "great shield", chance = 1001},
-	{name = "golden armor", chance = 1001},
-	{name = "small diamond", chance = 25000, maxCount = 5},
-	{name = "small sapphire", chance = 25000, maxCount = 10},
-	{name = "small emerald", chance = 25000, maxCount = 10},
-	{name = "small amethyst", chance = 25000, maxCount = 17},
+	{name = "great shield", chance = 2001},
+	{name = "golden armor", chance = 2001},
+	{name = "small diamond", chance = 25000, maxCount = 500},
+	{name = "small sapphire", chance = 25000, maxCount = 100},
+	{name = "small emerald", chance = 25000, maxCount = 100},
+	{name = "small amethyst", chance = 25000, maxCount = 170},
 	{name = "magic plate armor", chance = 1200},
-	{name = "demon shield", chance = 2000},
+	{name = "demon shield", chance = 5000},
 	{name = "steel boots", chance = 3000},
 	{name = "mastermind shield", chance = 1500},
 	{name = "decorative ribbon", chance = 1500},
+	{id = 22516, chance = 4000, maxCount = 3}, -- silver token
 }
 
 mType.onThink = function(monster, interval)
