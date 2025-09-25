@@ -1,11 +1,3 @@
-local area = createCombatArea({
-	{ 0, 0, 1, 0, 0 },
-	{ 0, 1, 1, 1, 0 },
-	{ 1, 1, 3, 1, 1 },
-	{ 0, 1, 1, 1, 0 },
-	{ 0, 0, 1, 0, 0 },
-})
-
 local combat = Combat()
 combat:setParameter(COMBAT_PARAM_TYPE, COMBAT_HOLYDAMAGE)
 combat:setParameter(COMBAT_PARAM_EFFECT, CONST_ME_HOLYAREA)
@@ -21,7 +13,7 @@ function onGetFormulaValues(player, skill, attack, factor)
 end
 
 combat:setCallback(CALLBACK_PARAM_SKILLVALUE, "onGetFormulaValues")
-combat:setArea(area)
+combat:setArea(createCombatArea(AREA_CIRCLE3X3))
 
 local diamondArrow = Weapon(WEAPON_AMMO)
 

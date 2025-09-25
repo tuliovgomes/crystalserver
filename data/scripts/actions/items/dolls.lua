@@ -110,12 +110,14 @@ function dolls.onUse(player, item, fromPosition, target, toPosition, isHotkey)
 		return false
 	end
 
+	-- Se o item estiver em um container, usar a posição do player
 	if fromPosition.x == CONTAINER_POSITION then
 		fromPosition = player:getPosition()
 	end
 
 	local chance = math.random(#sounds)
 	local sound = sounds[chance]
+
 	if item.itemid == 5668 then
 		fromPosition:sendMagicEffect(CONST_ME_MAGIC_RED)
 		item:transform(item.itemid + 1)
@@ -128,7 +130,7 @@ function dolls.onUse(player, item, fromPosition, target, toPosition, isHotkey)
 		elseif chance == 4 then
 			fromPosition:sendMagicEffect(CONST_ME_FIREAREA)
 		elseif chance == 5 then
-			player:sendMagicEffect(CONST_ME_EXPLOSIONHIT)
+			player:getPosition():sendMagicEffect(CONST_ME_EXPLOSIONHIT)
 			player:addHealth(-1)
 		end
 	elseif item.itemid == 9144 then
@@ -148,6 +150,7 @@ function dolls.onUse(player, item, fromPosition, target, toPosition, isHotkey)
 		item:decay()
 	end
 
+	-- Substituir placeholder pelo nome do player
 	sound = sound:gsub("|PLAYERNAME|", player:getName())
 	player:say(sound, TALKTYPE_MONSTER_SAY, false, 0, fromPosition)
 	return true

@@ -3,7 +3,7 @@ local monster = {}
 
 monster.name = "Ice Of Eru Iluvatar"
 monster.description = "Ice Of Eru Iluvatar"
-monster.experience = 71000
+monster.experience = 710000
 monster.outfit = {
 	lookType = 11,
 	lookHead = 0,

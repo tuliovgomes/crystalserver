@@ -26,6 +26,8 @@ local config = {
         {id = 23683, minCount = 1, maxCount = 1, chance = 1, raro = true},
         {id = 37749, minCount = 1, maxCount = 1, chance = 1, raro = true},
         {id = 34079, minCount = 1, maxCount = 1, chance = 1, raro = true},
+        {id = 948, minCount = 1, maxCount = 2, chance = 1, raro = true},
+        {id = 14758, minCount = 1, maxCount = 1, chance = 1},
         {id = 3043, minCount = 5, maxCount = 50, chance = 3},
         {id = 12057, minCount = 1, maxCount = 1, chance = 3},
         {id = 37110, minCount = 1, maxCount = 1, chance = 3},
@@ -49,7 +51,7 @@ local config = {
         {id = 36741, minCount = 1, maxCount = 10, chance = 3},
         {id = 36742, minCount = 1, maxCount = 10, chance = 3},
     },
-    ultraRareItems = {37317, 34109, 39546, 22118, 36725, 16262, 23683, 37749, 34079},
+    ultraRareItems = {37317, 34109, 39546, 22118, 36725, 16262, 23683, 37749, 34079, 948},
     ultraRareChatChannel = 15
 }
 

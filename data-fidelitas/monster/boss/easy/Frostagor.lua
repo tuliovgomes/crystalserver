@@ -2,7 +2,7 @@ local mType = Game.createMonsterType("Frostagor")
 local monster = {}
 
 monster.description = "a Frostagor"
-monster.experience = 48000
+monster.experience = 78000
 monster.outfit = {
 	lookType = 110,
 	lookHead = 0,
@@ -94,12 +94,12 @@ monster.attacks = {
 	{ name ="melee", interval = 1500, chance = 100, skill = 105, attack = 105},
 	{ name = "combat", interval = 1000, chance = 15, type = COMBAT_PHYSICALDAMAGE, minDamage = 0, maxDamage = -180, range = 7, shootEffect = CONST_ANI_SNOWBALL, effect = CONST_ME_POFF, target = false },
 	{ name = "combat", interval = 1000, chance = 12, type = COMBAT_ENERGYDAMAGE, minDamage = 0, maxDamage = -175, length = 3, spread = 0, effect = CONST_ME_POFF, target = false },
-	{ name ="combat", interval = 900, chance = 21, type = COMBAT_LIFEDRAIN, minDamage = -200, maxDamage = -750, length = 7, spread = 3, effect = CONST_ME_POFF},
+	{ name ="combat", interval = 900, chance = 21, type = COMBAT_LIFEDRAIN, minDamage = -200, maxDamage = -450, length = 7, spread = 3, effect = CONST_ME_POFF},
 	{ name ="speed", interval = 1000, chance = 11, speed = {min = -350, max = -550}, duration = 10000, length = 7, spread = 3, effect = CONST_ME_ICEATTACK},
-	{ name ="combat", interval = 900, chance = 20, type = COMBAT_ICEDAMAGE, minDamage = -200, maxDamage = -680, radius = 4, target = true, shootEffect = CONST_ANI_SMALLICE, effect = CONST_ME_ICEAREA},
-	{ name ="combat", interval = 800, chance = 22, type = COMBAT_ICEDAMAGE, minDamage = -300, maxDamage = -560, radius = 3, target = false, effect = CONST_ME_ICETORNADO},
-	{ name ="speed", interval = 1000, chance = 11, speed = {min = -500, max = -500}, duration = 10000, radius = 3, target = false, effect = CONST_ME_POFF},
-	{ name ="combat", interval = 3000, chance = 30, type = COMBAT_ICEDAMAGE, minDamage = -500, maxDamage = -1100, radius = 8, target = false, effect = CONST_ME_GIANTICE}
+	{ name ="combat", interval = 900, chance = 20, type = COMBAT_ICEDAMAGE, minDamage = -200, maxDamage = -280, radius = 4, target = true, shootEffect = CONST_ANI_SMALLICE, effect = CONST_ME_ICEAREA},
+	{ name ="combat", interval = 800, chance = 22, type = COMBAT_ICEDAMAGE, minDamage = -300, maxDamage = -460, radius = 3, target = false, effect = CONST_ME_ICETORNADO},
+	{ name ="speed", interval = 1000, chance = 11, speed = {min = -100, max = -500}, duration = 10000, radius = 3, target = false, effect = CONST_ME_POFF},
+	{ name ="combat", interval = 3000, chance = 30, type = COMBAT_ICEDAMAGE, minDamage = -200, maxDamage = -600, radius = 8, target = false, effect = CONST_ME_GIANTICE}
 }
 
 monster.defenses = {
