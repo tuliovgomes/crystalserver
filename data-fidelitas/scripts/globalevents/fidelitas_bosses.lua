@@ -3,7 +3,6 @@ local bossConfig = {
     {name = "The Necromancer", position = Position(613, 780, 0)},
     {name = "Jaul", position = Position(627, 539, 14)},
     {name = "Obujos", position = Position(782, 594, 14)},
-    {name = "Scarlett Etzel", position = Position(904, 983, 6)},
     {name = "Scatha", position = Position(897, 439, 7)},
     {name = "Cerberus", position = Position(1148, 642, 5)},
     {name = "Son of Ancalagon", position = Position(907, 445, 6)},

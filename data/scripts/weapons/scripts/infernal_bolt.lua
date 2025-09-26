@@ -29,7 +29,7 @@ end
 
 infernalBolt:id(6528)
 infernalBolt:level(500)
-infernalBolt:attack(47)
+infernalBolt:attack(67)
 infernalBolt:action("removecount")
 infernalBolt:ammoType("bolt")
 infernalBolt:shootType(CONST_ANI_INFERNALBOLT)

@@ -24,7 +24,7 @@ end
 diamondArrow:id(25757)
 diamondArrow:id(35901)
 diamondArrow:level(500)
-diamondArrow:attack(50)
+diamondArrow:attack(70)
 diamondArrow:action("removecount")
 diamondArrow:ammoType("arrow")
 diamondArrow:shootType(CONST_ANI_DIAMONDARROW)
