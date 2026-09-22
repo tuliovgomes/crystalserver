@@ -1,7 +1,40 @@
 <?xml version="1.0"?>
 <npcs>
+	<npc centerx="1786" centery="458" centerz="2" radius="1">
+		<npc name="Ziyad" x="0" y="0" z="2" spawntime="60" />
+	</npc>
+	<npc centerx="1800" centery="458" centerz="4" radius="1">
+		<npc name="Giri" x="0" y="0" z="4" spawntime="60" />
+	</npc>
+	<npc centerx="1792" centery="461" centerz="4" radius="1">
+		<npc name="Haani" x="0" y="0" z="4" spawntime="60" />
+	</npc>
+	<npc centerx="1803" centery="463" centerz="4" radius="1">
+		<npc name="Sundara" x="0" y="0" z="4" spawntime="60" />
+	</npc>
+	<npc centerx="1775" centery="446" centerz="5" radius="1">
+		<npc name="Sessek" x="0" y="0" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="1781" centery="446" centerz="5" radius="1">
+		<npc name="Amra" x="0" y="0" z="5" spawntime="60" />
+	</npc>
+	<npc centerx="1722" centery="459" centerz="5" radius="1">
+		<npc name="Sessek" x="0" y="0" z="5" spawntime="60" />
+	</npc>
 	<npc centerx="759" centery="515" centerz="6" radius="1">
 		<npc name="Paulie" x="0" y="1" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="1759" centery="527" centerz="6" radius="1">
+		<npc name="Nipuna" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="1754" centery="530" centerz="6" radius="1">
+		<npc name="Isika" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="1758" centery="534" centerz="6" radius="1">
+		<npc name="Asphota" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="1732" centery="675" centerz="6" radius="1">
+		<npc name="Hawkhurst Ingol" x="0" y="0" z="6" spawntime="60" />
 	</npc>
 	<npc centerx="762" centery="685" centerz="6" radius="1">
 		<npc name="Alice" x="0" y="0" z="6" spawntime="60" />

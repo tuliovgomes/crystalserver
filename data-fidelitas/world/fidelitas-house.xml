@@ -55,10 +55,10 @@
 	<house name="" houseid="53" entryx="821" entryy="807" entryz="7" rent="0" townid="3" size="17" clientid="0" beds="0" />
 	<house name="" houseid="54" entryx="833" entryy="807" entryz="7" rent="0" townid="3" size="17" clientid="0" beds="0" />
 	<house name="" houseid="55" entryx="827" entryy="815" entryz="7" rent="0" townid="3" size="37" clientid="0" beds="0" />
-	<house name="" houseid="56" entryx="831" entryy="829" entryz="7" rent="0" townid="3" size="15" clientid="0" beds="0" />
-	<house name="" houseid="57" entryx="835" entryy="829" entryz="7" rent="0" townid="3" size="15" clientid="0" beds="0" />
-	<house name="" houseid="58" entryx="831" entryy="837" entryz="7" rent="0" townid="3" size="15" clientid="0" beds="0" />
-	<house name="" houseid="59" entryx="835" entryy="837" entryz="7" rent="0" townid="3" size="15" clientid="0" beds="0" />
+	<house name="" houseid="56" entryx="831" entryy="829" entryz="7" rent="0" townid="3" size="13" clientid="0" beds="0" />
+	<house name="" houseid="57" entryx="835" entryy="829" entryz="7" rent="0" townid="3" size="13" clientid="0" beds="0" />
+	<house name="" houseid="58" entryx="831" entryy="837" entryz="7" rent="0" townid="3" size="13" clientid="0" beds="0" />
+	<house name="" houseid="59" entryx="835" entryy="837" entryz="7" rent="0" townid="3" size="13" clientid="0" beds="0" />
 	<house name="" houseid="60" entryx="847" entryy="827" entryz="7" rent="0" townid="3" size="17" clientid="0" beds="0" />
 	<house name="" houseid="61" entryx="847" entryy="840" entryz="7" rent="0" townid="3" size="17" clientid="0" beds="0" />
 	<house name="" houseid="62" entryx="851" entryy="857" entryz="7" rent="0" townid="3" size="32" clientid="0" beds="0" />
@@ -133,4 +133,8 @@
 	<house name="Unnamed House #852" houseid="852" entryx="768" entryy="1281" entryz="6" rent="0" townid="6" size="86" clientid="0" beds="0" />
 	<house name="Unnamed House #853" houseid="853" entryx="784" entryy="1276" entryz="6" rent="0" townid="6" size="72" clientid="0" beds="0" />
 	<house name="Unnamed House #854" houseid="854" entryx="785" entryy="1283" entryz="6" rent="0" townid="6" size="54" clientid="0" beds="0" />
+	<house name="" houseid="3599" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="521" clientid="0" beds="0" />
+	<house name="" houseid="3687" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="189" clientid="0" beds="0" />
+	<house name="" houseid="3688" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="130" clientid="0" beds="0" />
+	<house name="" houseid="3689" entryx="0" entryy="0" entryz="0" rent="0" townid="0" size="129" clientid="0" beds="0" />
 </houses>
