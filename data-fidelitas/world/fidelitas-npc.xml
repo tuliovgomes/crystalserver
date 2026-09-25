@@ -33,20 +33,23 @@
 	<npc centerx="1758" centery="534" centerz="6" radius="1">
 		<npc name="Asphota" x="0" y="0" z="6" spawntime="60" />
 	</npc>
-	<npc centerx="1732" centery="675" centerz="6" radius="1">
-		<npc name="Hawkhurst Ingol" x="0" y="0" z="6" spawntime="60" />
-	</npc>
 	<npc centerx="762" centery="685" centerz="6" radius="1">
 		<npc name="Alice" x="0" y="0" z="6" spawntime="60" />
 	</npc>
 	<npc centerx="766" centery="724" centerz="6" radius="1">
 		<npc name="Cledwyn" x="0" y="0" z="6" spawntime="60" />
 	</npc>
-	<npc centerx="1369" centery="501" centerz="7" radius="1">
-		<npc name="Dark Rodo" x="0" y="0" z="7" spawntime="60" />
+	<npc centerx="1648" centery="744" centerz="6" radius="1">
+		<npc name="Captain Corsarah" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="982" centery="1270" centerz="6" radius="1">
+		<npc name="Death" x="0" y="0" z="6" spawntime="60" />
+	</npc>
+	<npc centerx="1377" centery="502" centerz="7" radius="10">
+		<npc name="Steven" x="-8" y="-1" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="759" centery="517" centerz="7" radius="1">
-		<npc name="adolfo" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Adolfo" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="743" centery="654" centerz="7" radius="10">
 		<npc name="Maria" x="-8" y="-7" z="7" spawntime="60" />
@@ -54,19 +57,19 @@
 		<npc name="Steven" x="-8" y="-1" z="7" spawntime="60" />
 		<npc name="Imbuement Assistant" x="8" y="-1" z="7" spawntime="60" />
 		<npc name="Roger" x="7" y="4" z="7" spawntime="60" />
-		<npc name="seller" x="-7" y="5" z="7" spawntime="60" />
+		<npc name="Seller" x="-7" y="5" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="756" centery="721" centerz="7" radius="1">
 		<npc name="Paulie" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="776" centery="728" centerz="7" radius="1">
-		<npc name="adolfo" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Adolfo" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="743" centery="732" centerz="7" radius="1">
 		<npc name="Lara" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="779" centery="740" centerz="7" radius="1">
-		<npc name="orlan" x="1" y="0" z="7" spawntime="60" />
+		<npc name="Orlan" x="1" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="823" centery="1250" centerz="7" radius="1">
 		<npc name="Nist Merchant" x="0" y="0" z="7" spawntime="60" />
